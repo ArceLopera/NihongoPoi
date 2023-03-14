@@ -88,6 +88,6 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Home: index.md
-  - Grammar:
-    - desu: ./N3/desu_masuVSda_dearu.md
+  - ホーム: index.md
+  - 文法:
+    - ですーますVSだーである: ./N3/desu_masuVSda_dearu.md

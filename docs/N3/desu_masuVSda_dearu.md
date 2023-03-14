@@ -1,8 +1,12 @@
 # です・ます vs だ・である style（文体）
+<div align="center">
+<img src="../../Images/desu.jpg">
+</div>
 
 **Objective:** Find out the difference in writing style.
 
 Japanese writing can be divided into two major styles, often called:
+
 + です・ます style and
 + だ・である style.
 
@@ -98,27 +102,22 @@ The first sentence introduces the topic and tells the account's followers what i
 
 Social media posts are often loaded with style mixing, as people can freely weave their thoughts in a message to their followers.
 
-　　　　　　　　　　　　　　　　　　　　　　
-|                   |です・ます体       |	だ体  |	である体                |
-|:---:              |:---:            |:---:   |:---:                   |
-|                   |(はがき、てがみ)    |	(日記)|	(レポート、研究計画書、論文)|
-
-
-|名詞	             |学生です	        |学生だ	    |学生である               |
-
-
-|な形容詞|	学生ではありません|	学生ではない||	 
+|| です・ます体  | だ体 |である体 |
+|| --- | --- | --- |
+|| (はがき、てがみ) | (日記) |(レポート、研究計画書、論文)|
+|**名詞**| 学生です | 学生だ |学生である |
+|**な形容詞**|	学生ではありません|	学生ではない||	 
 | 	|学生でした|	学生だった|	学生であった|
 | 	|学生ではありませんでした|	学生ではなかった||	 
-|い形容詞	|大きいです	|大きい||	 
+|**い形容詞**	|大きいです	|大きい||	 
 | 	|大きくないです|	大きくない||	 
 | 	|大きかったです|	大きかった|	| 
 | 	|大きくなかったです|	大きくなかった||	 
-|動詞   	|書きます|	書く||	 
+|**動詞**  	|書きます|	書く||	 
 | 	       |書きません	|書かない|   |	 
 | 	        |書きました	|書いた|	 |
 | 	        |書きませんでした|	書かなかった||	 
-|そのほかの、気をつける形||||			
+|**そのほかの、気をつける形**||||			
 |   	|説明しましょう|説明しよう||	 
 | 	|必要でしょう	|必要だろう	|必要であろう|
 | 	|問題なのです	|問題なのだ	|問題なのである|
@@ -128,3 +127,5 @@ Social media posts are often loaded with style mixing, as people can freely weav
 Basic concepts of です as socially-oriented and だ as self-oriented have remained consistent throughout. The effect that these concepts have on communication can vary depending on context, but underneath it all, their basic meaning remains the same. If the message is self-directed and your main purpose is expressing your thoughts or feelings, then だ is your ticket. If your message is directed toward others and you intend to present information in a socially aware manner, then です is probably preferred.
 
 Based on [Tofugo blogpost](https://www.tofugu.com/japanese/da-vs-desu-in-real-life/)
+
+![desu](../Images/desu_full.jpg)
