@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://arcelopera.github.io/NihongoPoi/</loc>
-         <lastmod>2023-03-12</lastmod>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N3/desu_masuVSda_dearu/</loc>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N3/test/</loc>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N4/test/</loc>
+         <lastmod>2023-03-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
