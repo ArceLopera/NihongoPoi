@@ -92,6 +92,7 @@ nav:
   - 文法:
     - ですーますVSだーである: ./N3/desu_masuVSda_dearu.md
     - 連用中止形: ./N3/suspendedForm.md
+    - 表現の違い: ./N3/grammar1.md
   - テスト:
     - N4: ./N4/test.md
     - N3: ./N3/test.md
