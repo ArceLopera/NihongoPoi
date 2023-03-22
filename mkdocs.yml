@@ -96,6 +96,8 @@ nav:
     - 接続詞: ./N3/grammar2.md
     - 引用・文型: ./N3/grammar3.md
     - グラフの読み方: ./N3/grammar4.md
+  - 語彙:
+    - 自己紹介: ./N4/presentation.md
   - テスト:
     - N4: ./N4/test.md
     - N3: ./N3/test.md
