@@ -101,6 +101,8 @@ nav:
       - 尊敬語: ./N3/sonkeigo.md
   - 語彙:
     - 自己紹介: ./N4/presentation.md
+    - 副詞: 
+      - N5: ./N5/adverbsN5.md
   - テスト:
     - N4: ./N4/test.md
     - N3: ./N3/test.md

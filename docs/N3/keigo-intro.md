@@ -67,7 +67,7 @@ Similarly to respectful language, nouns can also change. The word hito (人), me
 |visit|  	訪ねる (tazuneru)|	訪ねます (tazunemasu)|	|	伺う (ukagau)|
 |Verb -ing </br> Ongoing action |-ている|-ています|-ていらっしゃる|-てござる|
 |to be|だ|です|でいらっしゃる|でござる|
-|Can| できる|できます|仕上がります </br>ご用意いただける|||
+|can| できる|できます|仕上がります </br>ご用意いただける|||
 
 ## Uchi–soto
 
