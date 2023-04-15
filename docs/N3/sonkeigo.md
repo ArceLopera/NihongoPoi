@@ -5,7 +5,10 @@ This style is to show respect to someone of higher position, like a superior or 
 |Is Mr. Tanaka here?|	すみません、田中先生はいますか。</br> Sumimasen, tanaka-sensei wa imasuka|	すみません、田中先生はいらっしゃいますか </br> Sumimasen, tanaka-sensei wa irasshaimasuka|
 |How was the interview?|	面接はどうでしたか。</br> Mensetsu wa dou deshitaka|	面接はいかがでしたか。</br> Mensetsu wa ikaga deshitaka|
 
-When used with a noun, it is preceded by either お (o) or ご (go), but is limited to only nouns which indicate actions (suru verbs). For verb, erase the ます and add になる.
+
+When used with a noun, it is preceded by either お (o) or ご (go), but is limited to only nouns which indicate actions (suru verbs). 
+
+For verb, erase the ます and add になる.
 
 |English|	Honorific Form|
 | --- | --- |
