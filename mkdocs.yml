@@ -104,7 +104,7 @@ nav:
     - 副詞: 
       - N5: ./N5/adverbsN5.md
       - N4: ./N4/adverbsN4.md
-      - N3: ./N3/adverbsN3.md
+      - N3: ./N3/AdverbN3/adverbsN3.md
       - N2: ./N2/adverbsN2.md
       - N1: ./N1/adverbsN1.md
   - テスト:
