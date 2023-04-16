@@ -6,7 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N1/adverbsN1/</loc>
+         <lastmod>2023-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N2/adverbsN2/</loc>
+         <lastmod>2023-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://arcelopera.github.io/NihongoPoi/N2/test/</loc>
+         <lastmod>2023-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N3/adverbsN3/</loc>
          <lastmod>2023-04-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
