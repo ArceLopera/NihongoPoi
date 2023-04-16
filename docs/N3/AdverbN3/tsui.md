@@ -1,9 +1,12 @@
 つい (tsui)
-Meaning 意味
+## 意味
 accidentally; unintentionally; by mistake
 
-How to use 使い方
-つい	clause (often てしまう form)
+## 使い方
+
+つい + clause (often てしまう form)
+
+## 例文
 
 |例文|訳|
 | --- | --- |
