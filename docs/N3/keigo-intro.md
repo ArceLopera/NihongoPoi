@@ -19,7 +19,7 @@ Polite language (丁寧語, teineigo) is characterized by the use of the sentenc
 
 Polite language can be used to refer to one's own actions or those of other people.
 
-### Respectful language
+### [Respectful language](./sonkeigo.md)
 Respectful language (尊敬語, sonkeigo) is a special form or alternative word used when talking about superiors and customers. It is not used to talk about oneself. For example, when a Japanese hairdresser or dentist requests their client to take a seat, they say o kake ni natte kudasai to mean "please sit down". However, they would use the verb suwaru <ruby>座<rt>すわ</rt></ruby>る rather than o kake ni naru to refer to themselves sitting down. The respectful version of language can only be used to refer to others.
 
 In general, respectful language is directed at those in positions of power; for example, a superior at work, or a customer. It also implies that the speaker is acting in a professional capacity.
@@ -30,7 +30,7 @@ Verbs may also be changed to respectful forms. One respectful form is a modifica
 
 Nouns also undergo substitution to express respect. The normal Japanese word for person hito (人) becomes kata (方) in respectful language. Thus, a customer would normally be expected to be referred to as a kata rather than a hito.
 
-### Humble language
+### [Humble language](kenjougo.md)
 In general, humble language is used when describing one's actions or the actions of a person in one's in-group to others such as customers in business. Humble language tends to imply that one's actions are taking place in order to assist the other person.
 
 Humble language (謙譲語, kenjōgo) is similar to respectful language, in substituting verbs with other forms. For example: suru (do) becomes itasu, and morau (receive) becomes itadaku. These two verbs are also seen in set phrases such as dō itashimashite (you're welcome) and itadakimasu (いただきます—a phrase said before eating or drinking).
