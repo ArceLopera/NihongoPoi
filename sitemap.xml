@@ -51,6 +51,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N3/keigo-nouns/</loc>
+         <lastmod>2023-04-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N3/kenjougo/</loc>
+         <lastmod>2023-04-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://arcelopera.github.io/NihongoPoi/N3/sonkeigo/</loc>
          <lastmod>2023-04-18</lastmod>
          <changefreq>daily</changefreq>
@@ -87,6 +97,11 @@
     </url>
     <url>
          <loc>https://arcelopera.github.io/NihongoPoi/N3/Kanji/680/</loc>
+         <lastmod>2023-04-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://arcelopera.github.io/NihongoPoi/N3/Kanji/all/</loc>
          <lastmod>2023-04-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
