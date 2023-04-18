@@ -4,7 +4,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 
 |#|	Romaji|	Japanese|	Grammar Meaning|	Level|
 | --- | --- | --- | --- | --- |
-|1|amari|あまり|so much… that|	N3|
+|1|[amari](amari.md)|[あまり](amari.md)|so much… that|	N3|
 |2|amari ni mo|あまりにも|too much; so much… that; excessively ~|	N3|
 |3|betsu ni~nai|別に～ない【べつに～ない】|not really, not particularly|	N3|
 |4|donna ni~temo|どんなに～ても|no matter how (much)|	N3|
