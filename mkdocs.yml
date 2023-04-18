@@ -111,3 +111,7 @@ nav:
     - N4: ./N4/test.md
     - N3: ./N3/test.md
     - N2: ./N2/test.md
+  - 漢字:
+    - N3:
+      - 余: ./N3/Kanji/680.md
+

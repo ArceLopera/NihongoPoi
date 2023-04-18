@@ -11,7 +11,7 @@ Verb (casual, past)     + あまり
 
 Noun + の               + あまり
 
-If you want to use this with an adjective, use あまりにも (amari ni mo) instead.
+If you want to use this with an adjective, use [あまりにも (amari ni mo)](amarinimo.md) instead.
 
 ## 例文
 
