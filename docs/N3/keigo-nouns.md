@@ -39,7 +39,6 @@ Nouns are made honorific by the prefix 御～ which has three possible readings.
 
 ## Vocabulary
 
-
 |English|	Casual Japanese|	Keigo|
 | --- | --- | --- |
 |Tomorrow|	明日（あした）|	明日（あす）|
