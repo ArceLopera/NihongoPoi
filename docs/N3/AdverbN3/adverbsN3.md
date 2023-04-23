@@ -8,7 +8,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |2|[amari ni mo](amarinimo.md)|[あまりにも](amarinimo.md)|too much; so much… that; excessively ~|	N3|
 |3|[betsu ni~nai](betsuninai.md)|[<ruby> 別<rt>べつ</rt> に～ない</ruby>](betsuninai.md)|not really, not particularly|	N3|
 |4|[donna ni~temo](donnanitemo.md)|[どんなに～ても](donnanitemo.md)|no matter how (much)|	N3|
-|5|doushitemo|どうしても|no matter what; at any cost; after all ~|	N3|
+|5|[doushitemo](doushitemo.md)|[どうしても](doushitemo.md)|no matter what; at any cost; after all ~|	N3|
 |6|futatabi|再び【ふたたび】|again; once more; a second time|	N3|
 |7|futo|ふと|suddenly; accidentally; unexpectedly; unintentionally ~|	N3|
 |8|ichido ni|一度に【いちどに】|all at once|	N3|
