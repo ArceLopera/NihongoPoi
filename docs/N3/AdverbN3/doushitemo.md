@@ -5,7 +5,7 @@ no matter what; at any cost; after all ~
 
 ## 使い方
 
-どうしても	phrase
+どうしても	+ phrase
 
 ## 例文
 
