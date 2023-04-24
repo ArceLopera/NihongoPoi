@@ -10,9 +10,9 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |4|[donna ni~temo](donnanitemo.md)|[どんなに～ても](donnanitemo.md)|no matter how (much)|	N3|
 |5|[doushitemo](doushitemo.md)|[どうしても](doushitemo.md)|no matter what; at any cost; after all ~|	N3|
 |6|[futatabi](futatabi.md)|[再び【ふたたび】](futatabi.md)|again; once more; a second time|	N3|
-|7|futo|ふと|suddenly; accidentally; unexpectedly; unintentionally ~|	N3|
-|8|ichido ni|一度に【いちどに】|all at once|	N3|
-|9|igai|意外【いがい】|unexpected; surprising|	N3|
+|7|[futo](futo.md)|[ふと](futo.md)|suddenly; accidentally; unexpectedly; unintentionally ~|	N3|
+|8|[ichido ni](ichidoni.md)|[一度に【いちどに】](ichidoni.md)|all at once|	N3|
+|9|[igai](igai.md)|[意外【いがい】](igai.md)|unexpected; surprising|	N3|
 |10|[ikura~temo](ikuratemo.md)|[いくら～ても](ikuratemo.md)|no matter how ~|	N3|
 |11|imani|今に【いまに】|before long; even now|	N3|
 |12|imanimo|今にも【いまにも】|at any moment; at any minute; on the verge of|	N3|

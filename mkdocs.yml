@@ -106,7 +106,20 @@ nav:
     - 副詞: 
       - N5: ./N5/adverbsN5.md
       - N4: ./N4/adverbsN4.md
-      - N3: ./N3/AdverbN3/adverbsN3.md
+      - N3: 
+        - All: ./N3/AdverbN3/adverbsN3.md
+        - Each:
+          - あまり: ./N3/AdverbN3/amari.md
+          - あまりにも: ./N3/AdverbN3/amarinimo.md
+          - 別に～ない: ./N3/AdverbN3/betsuninai.md
+          - どんなに～ても: ./N3/AdverbN3/donnanitemo.md
+          - どうしても: ./N3/AdverbN3/doushitemo.md
+          - 再び: ./N3/AdverbN3/futatabi.md
+          - ふと: ./N3/AdverbN3/futo.md
+          - 一度に: ./N3/AdverbN3/ichidoni.md
+          - 意外: ./N3/AdverbN3/igai.md
+          - いくら～ても: ./N3/AdverbN3/ikuratemo.md
+          - つい: ./N3/AdverbN3/tsui.md
       - N2: ./N2/adverbsN2.md
       - N1: ./N1/adverbsN1.md
   - テスト:
