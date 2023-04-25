@@ -44,31 +44,6 @@ In humble language, name suffixes are dropped when referring to people from insi
 
 Similarly to respectful language, nouns can also change. The word hito (人), meaning "person", becomes mono (者). The humble version is used when referring to oneself or members of one's group, such as one's company.
 
-## Irregular Respectful Verbs
-
-|Meaning|	Dictionary Form|	Polite (teineigo)|	Respectful (sonkeigo)|	Humble (kenjōgo)|
-| --- | --- | --- | --- | --- |
-|see / look / watch|	見る (miru)|	見ます (mimasu)|	ご覧になる (go-ran ni naru)|	拝見する (haiken suru)|
-|meet|	会う (au)	|会います (aimasu)|	お会いになる (o-ai ni naru)|	お目に掛かる (o-me ni kakaru)|
-|be (inanimate)|	ある (aru)|	あります (arimasu)||ござる (gozaru)|
-|be (animate)|	いる (iru)|	います (imasu)|	いらっしゃる (irassharu)</br>	おいでになる (o-ide ni naru)|	おる (oru)|
-|come / go|	来る (kuru, come) </br> 行く (iku, go)|	来ます (kimasu) </br>行きます (ikimasu)|いらっしゃる (irassharu) </br>	おいでになる (o-ide ni naru)|	伺う (ukagau, to respectful location)</br>参る (mairu, otherwise)|
-|know|	知る (shiru)|	知ります (shirimasu)|	ご存じ (go-zonji)|	存じ上げる (zonji ageru)|
-|eat / drink|	食べる (taberu, eat)</br>飲む (nomu, drink)|	食べます (tabemasu) </br>飲みます (nomimasu)|召し上がる (meshi-agaru)|	いただく (itadaku)|
-|receive|	もらう (morau)|	もらいます (moraimasu)|	|	いただく (itadaku)</br>頂戴する (chōdai-suru)|
-|give (when the receiver is respected)|	あげる (ageru, once the humble form)</br>やる (yaru, considered rude today, except in Kansai dialect)|	あげます (agemasu)|	|	差しあげる (sashiageru)|
-|give (when the giver is respected)|	くれる (kureru)|	くれます (kuremasu)|	くださる (kudasaru)||
-|do|	する (suru)|	します (shimasu)|	なさる (nasaru)|	致す (itasu)|
-|say|	言う (iu)|	言います (iimasu)|	おっしゃる (ossharu)|	（意見を）申し上げる (mōshi-ageru) </br> （名前と）申す (mōsu)|
-|put on (clothing)|	着る (kiru)|	着ます (kimasu)|	お召しになる (omeshi ni naru)||	
-|sleep|	寝る (neru)|	寝ます (nemasu)|	お休みになる (o-yasumi ni naru)||	
-|die|	死ぬ (shinu)|	死にます (shinimasu)|	お亡くなりになる (o-nakunari ni naru)|	
-|ask|	聞く (kiku) </br>尋ねる (tazuneru)|	聞きます (kikimasu) </br>尋ねます (tazunemasu)|お聞きになる|		伺う (ukagau)|
-|visit|  	訪ねる (tazuneru)|	訪ねます (tazunemasu)|	|	伺う (ukagau)|
-|Verb -ing </br> Ongoing action |-ている|-ています|-ていらっしゃる|-てござる|
-|to be|だ|です|でいらっしゃる|でござる|
-|can| できる|できます|仕上がります </br>ご用意いただける|||
-
 ## Uchi–soto
 
 Uchi–soto is the distinction between in-groups (内, uchi, "inside") and out-groups (外, soto, "outside"). This distinction between groups is a fundamental part of Japanese social custom and sociolinguistics and is even directly reflected in the Japanese language itself.

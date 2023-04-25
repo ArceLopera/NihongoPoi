@@ -98,6 +98,7 @@ nav:
     - グラフの読み方: ./N3/grammar4.md
     - 敬語:
       - Basic: ./N3/keigo-intro.md
+      - Honorific Verbs: ./N3/keigo-verbs.md
       - Honorific Nouns: ./N3/keigo-nouns.md
       - 尊敬語: ./N3/sonkeigo.md
       - 謙譲語: ./N3/kenjougo.md

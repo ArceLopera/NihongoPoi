@@ -1,6 +1,6 @@
 "Kenjougo" is a type of honorific language used in Japanese to express humility and respect towards the listener. It is commonly used when speaking to someone who is older, of a higher status, or in a position of authority.
 
-## [Special Verbs](keigo-intro.md#irregular-respectful-verbs)
+## [Special Verbs](keigo-verbs.md#irregular-respectful-verbs)
 
 ## Regular Verbs
 Verb conjugations having お or ご + the Polite/dictionary Form + する/します

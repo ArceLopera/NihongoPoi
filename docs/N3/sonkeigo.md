@@ -5,7 +5,7 @@ This style is to show respect to someone of higher position, like a superior or 
 |Is Mr. Tanaka here?|	すみません、田中先生はいますか。</br> Sumimasen, tanaka-sensei wa imasuka|	すみません、田中先生はいらっしゃいますか </br> Sumimasen, tanaka-sensei wa irasshaimasuka|
 |How was the interview?|	面接はどうでしたか。</br> Mensetsu wa dou deshitaka|	面接はいかがでしたか。</br> Mensetsu wa ikaga deshitaka|
 
-## [Special Verbs](keigo-intro.md#irregular-respectful-verbs)
+## [Special Verbs](keigo-verbs.md)
 
 
 ## Regular verbs
@@ -30,7 +30,7 @@ For verb, erase the ます and add になる.
 
 お入りください。　Please enter.
 
-## Passive Form
+## Passive Form [かんたん尊敬語](keigo-verbs.md#かんたん尊敬語)　
 
 山田さん、もうレポートを書かれましたか。
 
