@@ -72,34 +72,80 @@ Nouns are made honorific by the prefix 御～ which has three possible readings.
 |アメリカの<ruby>人<rt>ひと</rt></ruby>|アメリカの<ruby>方<rt>かた</rt></ruby>|アメリカ<ruby>人<rt>じん</rt></ruby>|
 |<ruby>駅<rt>えき</rt>員<rt>いん</rt></ruby>さん|<ruby>駅<rt>えき</rt>員<rt>いん</rt></ruby>さん|<ruby>駅<rt>えき</rt>員<rt>いん</rt></ruby>|
 
-|English|	Casual Japanese|	Keigo|
+### 役職のある人の呼び方
+
+|自分の会社（ウチ）|他の会社（ソト）|
+| --- | --- |
+|<ruby>弊<rt>へい</rt>社<rt>しゃ</rt></ruby>（<ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby>）の田中</br>うちの田中|田中社長|
+|<ruby>弊<rt>へい</rt>社<rt>しゃ</rt></ruby>（<ruby>副<rt>ふく</rt>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby>）の田中</br>うちの田中|田中副社長|
+|<ruby>弊<rt>へい</rt>社<rt>しゃ</rt></ruby>（<ruby>部<rt>ぶ</rt>長<rt>ちょう</rt></ruby>）の田中</br>うちの田中|田中部長|
+|<ruby>弊<rt>へい</rt>社<rt>しゃ</rt></ruby>（<ruby>課<rt>か</rt>長<rt>ちょう</rt></ruby>）の田中</br>うちの田中|田中課長|
+
+
+### 会社や学校の呼び方
+
+||自分の（ウチ）|あなたの（ソト）|
 | --- | --- | --- |
-|Tomorrow|	明日（あした）|	明日（あす）|
-|After tomorrow|	明後日|（あさって）|	明後日（みょうごにち）|
+|会社|<ruby>弊<rt>へい</rt>社<rt>しゃ</rt></ruby>、わが<ruby>社<rt>しゃ</rt></ruby>、<ruby>当<rt>とう</rt>社<rt>しゃ</rt></ruby>|<ruby>御<rt>おん</rt>社<rt>しゃ</rt></ruby>、<ruby>貴<rt>き</rt>社<rt>しゃ</rt></ruby>|
+|学校|<ruby>本<rt>ほん</rt>校<rt>こう</rt></ruby>、<ruby>当<rt>とう</rt>校<rt>こう</rt></ruby>|<ruby>御<rt>おん</rt>校<rt>こう</rt></ruby>、<ruby>貴<rt>き</rt>校<rt>こう</rt></ruby>|
+|大学|本学|<ruby>御<rt>おん</rt>学<rt>がく</rt></ruby>、<ruby>貴<rt>き</rt>学<rt>がく</rt></ruby>|
+
+
+### 「お」「ご」のつく言葉
+
+||「お」のつく言葉|「ご」のつく言葉|
+| --- | --- | --- |
+|<ruby>動<rt>どう</rt>詞<rt>し</rt></ruby>|お電話します、お約束します、お持ちします|ご報告します、ご紹介します、ご遠慮します|
+|<ruby>形<rt>けい</rt>容<rt>よう</rt>詞<rt>し</rt></ruby>|お好き、お嫌い、お元気、お疲れ、お急ぎ|ご健康、ご無理，ご満足、ご不快|
+|<ruby>名<rt>めい</rt>詞<rt>し</rt></ruby>|お電話、お写真、お返事、お食事、お手紙、お荷物、お持物、お名前、お気持ち、お金、お礼、おみやげ、お弁当、お風呂、お飲み物、お品物、お手洗い、お見舞い、お祈り、お祝い|ご家族、ご夫妻、ご長男、ご住所、ご印鑑、ご予算、ご遺志、ご本、ご署名、ご注文、ご計画、ご予約、ご招待、ご出席、ご参加、ご登録、ご入金、ご出発、ご入学、ご結婚、ご関係|
+
+### 時間にかかわる言葉
+
+|English|　普通の言い方　Casual Japanese|改まった言い方　Keigo|
+| --- | --- | --- |
+|Today|今日|<ruby>本<rt>ほん</rt>日<rt>じつ</rt></ruby>|
+|Yesterday|<ruby>昨<rt>き</rt>日<rt>のう</rt></ruby>|<ruby>昨<rt>さく</rt>日<rt>じつ</rt></ruby>|
+|Tomorrow|	明日（あした）|	明日（あす）（みょうにち）|
+|Two days ago|	一昨日（おととい）|	一昨日（いっさくじつ）|
+|After tomorrow|	明後日（あさって）|	明後日（みょうごにち）|
 |Last night|	昨日の夜|	昨夜 （さくや）|
 |Tomorrow morning|	明日の朝|	明朝 （みょうちょう）|
 |From tomorrow|	明日以降|	後日 （ごじつ）|
 |This year|	今年|	本年 （ほんねん）|
-|The other day|	この間|	先日 （せんじつ）|
-|On that day|	その日|	当日 （とうじつ）|
 |Last year| 去年（きょねん）|	去年（さくねん）|
 |Year before last|	一昨年（おととし）|	一昨年（いっさくねん）|
-|Soon, shortly|	もうすぐ|	まもなく|
-|Now|	いま|	ただいま|
-|Earlier|	前に|	以前 （いぜん）|
-|Later|	あとで|	後ほど （あとほど）|
-|Immediately|	すぐに|	さっそく|
-|This time, now|	今度|	このたび|
-|Just now|	さっき|	先ほど （さきほど）|
-|Where|	どこ|	どちら|
-|This way|	こっち|	こちら|
-|That way|	あっち|	あちら|
-|Over there|	そっち|	そちら|
-|Which one|	どっち|	どちら|
-|Just a minute|	ちょっと|	少々 （しょうしょう）|
-|Very, terribly|	とても|	大変 （たいへん）|
-|Very, greatly|	すごく|	非常に （ひじょうに）|
-|How many, how much|	どのくらい|	いかほど|
-|A few, a little|	少し|	些少（さしょう）|
-|Considerable|	多い|	多大 （ただい）|
-|About, approximately|	～ぐらい|	～ほど|
+|One month|	一か月（いっかげつ）|	一月（ひとつき）|
+
+### 副詞の改まった言い方
+
+|English|　普通の言い方　Casual Japanese|改まった言い方　Keigo|例文|
+| --- | --- | --- | --- |
+|The other day|	この間|	先日 （せんじつ）|先日はありがとうございました。|
+|On that day|	その日|	当日 （とうじつ）|当日の集合時間は９時です。|
+|Soon, shortly|	もうすぐ|	まもなく|まもなく番線に電車が参ります。|
+|Now|	いま|	ただいま|ただいま、会議中でございまして。|
+|Earlier|	前に|	以前 （いぜん）|以前うかがいましたが・・・|
+|Later|	あとで|	後ほど （のちほど）|後ほどお電話いたします。|
+|Immediately|	すぐに|	さっそく|それでは、さっそく仕事を始めます。|
+|Urgent|すぐに、急いで|早急（さっきゅう）に、至急（しきゅう）|早急にご回答ください。|
+|At once|	すぐに|	ただちに|直ちにご連絡申し上げます。|
+|Just now|	さっき|	先ほど （さきほど）|先ほどメールを送りしました。|
+|Beforehand|	前に、前の時点で|<ruby>予<rt>あらかじ</rt></ruby>め|予めご<ruby>了<rt>りょう</rt>承<rt>しょう</rt></ruby>ください。|
+|As soon as|ーたらすぐに|ー次第、|到着次第、ご連絡申し上げます。|
+|Unfortunately|都合が悪い、ざんねんですが|あいにく|あいにく、明日は会議の予定が入っております。|
+|WWithout fail|どうしても（強い希望）|ぜひ|ぜひ、おいでください。|
+|Polite|ていねいに|丁重（ていちょう）に|丁重にお断（ことわ）りします。|
+|In general|だいたい|おおむね|<ruby>概<rt>おおむ</rt></ruby>ね了解いたしました。|
+|This time, now|	今度|	このたび|私この度一身上の都合でやめさせていただきます。|
+|Where|	どこ|	どちら|出身はどちらですか。|
+|This way|	こっち|	こちら|出身はどちらですか。|
+|That way|	あっち|	あちら|トイレはあちらにあります。|
+|Over there|	そっち|	そちら|明日そちらへ持ってまいります。|
+|Which one|	どっち|	どちら|どちらが望んだのか判然とはしない。|
+|Just a minute|	ちょっと、少し|	少々 （しょうしょう）|少々お待ちください。|
+|Very, terribly|	とても|	大変 （たいへん）|先日は、大変お世話になりました|
+|Very, greatly|	すごく|	非常に （ひじょうに）|病院は非常にお金がかかります。|
+|How many, how much|	どのくらい|	いかほど|いかほどの金額でも結構です。|
+|A few, a little|	少し|	些少（さしょう）||
+|Considerable|	多い|	多大 （ただい）|台風は多大の被害を与えた。|
+|About, approximately|	～ぐらい|	～ほど|恵子は私ほど背が高くない。|
