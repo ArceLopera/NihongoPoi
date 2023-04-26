@@ -39,3 +39,10 @@
 |I|<ruby>書<rt>か</rt><ruby>きます|<ruby>書<rt>か</rt><ruby>かれます|
 |II|<ruby>教<rt>おし</rt><ruby>えます|<ruby>教<rt>おし</rt><ruby>えられます|
 |III|します</br><ruby>来<rt>き</rt><ruby>ます|されます</br><ruby>来<rt>こ</rt><ruby>られます|
+
+## 動詞の改まった言い方
+
+|動詞 |意味|対象・意味・用法|例|
+| --- | --- | --- | --- |
+|<ruby>受<rt>じゅ</rt>領<rt>りょう</rt></ruby>する|受け取る・もらう|<ruby>配<rt>はい</rt>達<rt>たつ</rt>物<rt>ぶつ</rt></ruby>など|ここに受領のサインをお願いします。|
+|<ruby>拝<rt>はい</rt>受<rt>じゅ</rt></ruby>する|受け取る・もらう|<ruby>配<rt>はい</rt>達<rt>たつ</rt>物<rt>ぶつ</rt></ruby>、メール、てがみ、手紙など|メールを拝受しました。|
