@@ -104,6 +104,26 @@ nav:
       - Honorific Nouns: ./N3/keigo-nouns.md
       - 会話のスタイル: ./N3/keigo-expressions.md
       - 例: ./N3/keigo-kaiwa.md
+    - N5:
+      - Each:
+        - とき: ./N5/Grammar/toki.md
+    - N4:
+      - Each:
+        - 間: ./N4/Grammar/aida.md
+        - 間に: ./N4/Grammar/aidani.md
+        - ところ: ./N4/Grammar/tokoro.md
+    - N3:
+      - Each:
+        - うちに: ./N3/Grammar/uchini.md
+        - てからないと: ./N3/Grammar/tekaradenaito.md
+        - によって・による: ./N3/Grammar/niyotte.md
+        - によると・によれば: ./N3/Grammar/niyoruto.md
+        - にとって: ./N3/Grammar/nitotte.md
+        - たびに: ./N3/Grammar/tabini.md
+        - ほど: ./N3/Grammar/hodo.md
+        - ば～ほど: ./N3/Grammar/bahodo.md
+        - ほど～ない: ./N3/Grammar/hodonai.md
+        - とおりに: ./N3/Grammar/toorini.md
   - 語彙:
     - 自己紹介: ./N4/presentation.md
     - 副詞: 
@@ -124,6 +144,8 @@ nav:
           - いくら～ても: ./N3/AdverbN3/ikuratemo.md
           - 今に: ./N3/AdverbN3/imani.md
           - つい: ./N3/AdverbN3/tsui.md
+          - ついに: ./N3/AdverbN3/tsuini.md
+          - ついでに: ./N3/AdverbN3/tsuideni.md
       - N2: ./N2/adverbsN2.md
       - N1: ./N1/adverbsN1.md
   - テスト:

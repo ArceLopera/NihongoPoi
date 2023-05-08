@@ -52,8 +52,8 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |46|toori ni|とおりに|in the same way as; in the way; as ~|	N3|
 |47|totemo~nai|とても～ない|cannot possibly be; hardly ~|	N3|
 |48|[tsui](tsui.md)|[つい](tsui.md)|accidentally; unintentionally; by mistake|	N3|
-|49|tsui ni|ついに|finally; at last; in the end ~|	N3|
-|50|tsuide ni|ついでに|while, incidentally, at the same time, on the way ~|	N3|
+|49|[tsui ni](tsuini.md)|[ついに](tsuini.md)|finally; at last; in the end ~|	N3|
+|50|[tsuide ni](tsuideni.md)|[ついでに](tsuideni.md)|while, incidentally, at the same time, on the way ~|	N3|
 |51|tsumari|つまり|in other words; in summary; in short ~|	N3|
 |52|wa mochiron|はもちろん|not to mention; not only ... but also ~|	N3|
 |53|wari ni|割に【わりに】|considering ~; for ~; despite ~|	N3|
