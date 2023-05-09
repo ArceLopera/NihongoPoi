@@ -31,6 +31,11 @@
 |	Respectful (sonkeigo)|	Humble (kenjōgo)|
 | --- | --- |
 |お「V <s>masu</s>」になります</br>お「V <s>masu</s>」ください|お「V <s>masu</s>」します|
+|ご「N」になります</br>ご「N」ください|ご「N」します|
+
+You can not use ーてあげます　when speaking to a superior. Use special forms.
+
+If you use a humble word, it is understood who will perform the action, so 私が　is often omitted.
 
 ## かんたん尊敬語
 
