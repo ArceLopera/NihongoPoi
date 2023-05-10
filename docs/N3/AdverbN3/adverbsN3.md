@@ -15,7 +15,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |9|[igai](igai.md)|[意外【いがい】](igai.md)|unexpected; surprising|	N3|
 |10|[ikura~temo](ikuratemo.md)|[いくら～ても](ikuratemo.md)|no matter how ~|	N3|
 |11|[imani](imani.md )|[今に【いまに】](imani.md )|before long; even now|	N3|
-|12|imanimo|今にも【いまにも】|at any moment; at any minute; on the verge of|	N3|
+|12|[imanimo](imanimo.md )|[今にも【いまにも】](imanimo.md )|at any moment; at any minute; on the verge of|	N3|
 |13|isshu|一種【いっしゅ】|species; kind; variety|	N3|
 |14|issou|一層【いっそう】|much more; still more; all the more; single layer; sooner; preferably|​	N3|
 |15|ittai|一体【いったい】|emphasis; what on earth; what in the world|	N3|
