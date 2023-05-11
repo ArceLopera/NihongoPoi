@@ -16,47 +16,46 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |10|[ikura~temo](ikuratemo.md)|[いくら～ても](ikuratemo.md)|no matter how ~|	N3|
 |11|[imani](imani.md )|[今に【いまに】](imani.md )|before long; even now|	N3|
 |12|[imanimo](imanimo.md )|[今にも【いまにも】](imanimo.md )|at any moment; at any minute; on the verge of|	N3|
-|13|isshu|一種【いっしゅ】|species; kind; variety|	N3|
-|14|issou|一層【いっそう】|much more; still more; all the more; single layer; sooner; preferably|​	N3|
-|15|ittai|一体【いったい】|emphasis; what on earth; what in the world|	N3|
-|16|ittai|一体【いったい】|(what) the heck; (why) in the world|	N3|
-|17|ka nani ka|か何か【かなにか】|or something ~|	N3|
-|18|kekkyoku|結局【けっきょく】|after all; eventually; in the end ~|	N3|
-|19|kesshite~nai|決して～ない【けっして～ない】|never; by no means ~|	N3|
-|20|kyuuni|急に【きゅうに】|swiftly; rapidly; quickly; immediately; hastily|	N3|
-|21|manichi|万一【まんいち】|emergency; unlikely event​; by some chance; by some possibility|	N3|
-|22|maru de|まるで|as if; as though; just like ~|	N3|
-|23|metta ni~nai|めったに～ない|hardly; rarely; seldom|	N3|
-|24|moshika shitara|もしかしたら|perhaps; maybe; perchance; by any chance ~|	N3|
-|25|moshimo~tara|もしも〜たら|if; in the case; supposing ~|	N3|
-|26|mushiro|むしろ|rather; instead; better ~|	N3|
-|27|nakanaka|なかなか|very; quite; pretty; rather; just not ~|	N3|
-|28|nanka / nante / nado|なんか / なんて / など|give examples; show modesty; make light of ~|	N3|
-|29|naru beku|なるべく|as much as possible|	N3|
-|30|sai ni|際に【さいに】|when; at the time of; in the case of ~|	N3|
-|31|saichuu ni|最中に【さいちゅうに】|while; during; in the middle of ~|	N3|
-|32|sara ni|さらに|furthermore; again; more and more ~|	N3|
-|33|seizei|せいぜい|at the most; at best; to the utmost|	N3|
-|34|shibaraku|しばらく|for a moment; for a while; for the time being|	N3|
-|35|sude ni|すでに|something has already been done/taken place; is already the case|	N3|
-|36|sukoshimo|少しも【すこしも】|anything of; not one bit (with negative sentence)|	N3|
-|37|sunawachi|すなわち|in other words; namely ~|	N3|
-|38|ta totan|たとたん|as soon as; just as ~|	N3|
-|39|tabi ni|たびに|whenever; every time ~|	N3|
-|40|tashika ni|確かに【たしかに】|surely, certainly ~|	N3|
-|41|tashou|多少【たしょう】|more or less; somewhat; a little; a few; some|	N3|
-|42|tatoe~temo|たとえ～ても|even if… is the case|	N3|
-|43|tatoeba|例えば【たとえば】|for example; for instance ~|	N3|
-|44|to tomo ni|と共に【とともに】|together with; at the same time as; as well as ~|	N3|
-|45|tochuu de / tochuu ni|途中で/途中に【とちゅうで/とちゅうに】|on the way; in the middle of ~|	N3|
-|46|toori ni|とおりに|in the same way as; in the way; as ~|	N3|
-|47|totemo~nai|とても～ない|cannot possibly be; hardly ~|	N3|
-|48|[tsui](tsui.md)|[つい](tsui.md)|accidentally; unintentionally; by mistake|	N3|
-|49|[tsui ni](tsuini.md)|[ついに](tsuini.md)|finally; at last; in the end ~|	N3|
-|50|[tsuide ni](tsuideni.md)|[ついでに](tsuideni.md)|while, incidentally, at the same time, on the way ~|	N3|
-|51|tsumari|つまり|in other words; in summary; in short ~|	N3|
-|52|wa mochiron|はもちろん|not to mention; not only ... but also ~|	N3|
-|53|wari ni|割に【わりに】|considering ~; for ~; despite ~|	N3|
-|54|wazato|わざと|on purpose; intentionally ~|	N3|
-|55|wazawaza|わざわざ|to go to the trouble of; to go out of one's way to ~|	N3|
-|56|zuibun|随分【ずいぶん】|very; extremely; surprisingly; considerably; awfully|	N3|
+|13|[isshu](isshu.md)|[一種【いっしゅ】](isshu.md)|species; kind; variety|	N3|
+|14|[issou](issou.md)|[一層【いっそう】](issou.md)|much more; still more; all the more; single layer; sooner; preferably|​	N3|
+|15|[ittai](ittai.md)|[一体【いったい】](ittai.md)|emphasis; what on earth; what in the world|	N3|
+|16|ka nani ka|か何か【かなにか】|or something ~|	N3|
+|17|kekkyoku|結局【けっきょく】|after all; eventually; in the end ~|	N3|
+|18|kesshite~nai|決して～ない【けっして～ない】|never; by no means ~|	N3|
+|19|kyuuni|急に【きゅうに】|swiftly; rapidly; quickly; immediately; hastily|	N3|
+|20|manichi|万一【まんいち】|emergency; unlikely event​; by some chance; by some possibility|	N3|
+|21|maru de|まるで|as if; as though; just like ~|	N3|
+|22|metta ni~nai|めったに～ない|hardly; rarely; seldom|	N3|
+|23|moshika shitara|もしかしたら|perhaps; maybe; perchance; by any chance ~|	N3|
+|24|moshimo~tara|もしも〜たら|if; in the case; supposing ~|	N3|
+|25|mushiro|むしろ|rather; instead; better ~|	N3|
+|26|nakanaka|なかなか|very; quite; pretty; rather; just not ~|	N3|
+|27|nanka / nante / nado|なんか / なんて / など|give examples; show modesty; make light of ~|	N3|
+|28|naru beku|なるべく|as much as possible|	N3|
+|29|sai ni|際に【さいに】|when; at the time of; in the case of ~|	N3|
+|30|saichuu ni|最中に【さいちゅうに】|while; during; in the middle of ~|	N3|
+|31|sara ni|さらに|furthermore; again; more and more ~|	N3|
+|32|seizei|せいぜい|at the most; at best; to the utmost|	N3|
+|33|shibaraku|しばらく|for a moment; for a while; for the time being|	N3|
+|34|sude ni|すでに|something has already been done/taken place; is already the case|	N3|
+|35|sukoshimo|少しも【すこしも】|anything of; not one bit (with negative sentence)|	N3|
+|36|sunawachi|すなわち|in other words; namely ~|	N3|
+|37|ta totan|たとたん|as soon as; just as ~|	N3|
+|38|tabi ni|たびに|whenever; every time ~|	N3|
+|39|tashika ni|確かに【たしかに】|surely, certainly ~|	N3|
+|40|tashou|多少【たしょう】|more or less; somewhat; a little; a few; some|	N3|
+|41|tatoe~temo|たとえ～ても|even if… is the case|	N3|
+|42|tatoeba|例えば【たとえば】|for example; for instance ~|	N3|
+|43|to tomo ni|と共に【とともに】|together with; at the same time as; as well as ~|	N3|
+|44|tochuu de / tochuu ni|途中で/途中に【とちゅうで/とちゅうに】|on the way; in the middle of ~|	N3|
+|45|toori ni|とおりに|in the same way as; in the way; as ~|	N3|
+|46|totemo~nai|とても～ない|cannot possibly be; hardly ~|	N3|
+|47|[tsui](tsui.md)|[つい](tsui.md)|accidentally; unintentionally; by mistake|	N3|
+|48|[tsui ni](tsuini.md)|[ついに](tsuini.md)|finally; at last; in the end ~|	N3|
+|49|[tsuide ni](tsuideni.md)|[ついでに](tsuideni.md)|while, incidentally, at the same time, on the way ~|	N3|
+|50|tsumari|つまり|in other words; in summary; in short ~|	N3|
+|51|wa mochiron|はもちろん|not to mention; not only ... but also ~|	N3|
+|52|wari ni|割に【わりに】|considering ~; for ~; despite ~|	N3|
+|53|wazato|わざと|on purpose; intentionally ~|	N3|
+|54|wazawaza|わざわざ|to go to the trouble of; to go out of one's way to ~|	N3|
+|55|zuibun|随分【ずいぶん】|very; extremely; surprisingly; considerably; awfully|	N3|
