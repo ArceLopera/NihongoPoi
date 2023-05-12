@@ -6,7 +6,7 @@ degree; extent; bounds; upper limit
 
 Usually, this is used to express the degree or extent of something. It can be used both as an approximation or as an upper limit.
 
-In some ways, it is similar to くらい・ぐらい (kurai / gurai), but it has a bit of a stronger emphasis and can also be used in other ways.
+In some ways, it is similar to [くらい・ぐらい (kurai / gurai)](kurai.md), but it has a bit of a stronger emphasis and can also be used in other ways.
 
 ## Special Patterns With ほど (hodo)
 
