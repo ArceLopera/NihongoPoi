@@ -24,7 +24,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |18|[kesshite~nai](kesshite_nai.md)|[決して～ない【けっして～ない】](kesshite_nai.md)|never; by no means ~|	N3|
 |19|[kyuuni](kyuuni.md)|[急に【きゅうに】](kyuuni.md)|swiftly; rapidly; quickly; immediately; hastily|	N3|
 |20|[manichi](manichi.md)|[万一【まんいち】](manichi.md)|emergency; unlikely event​; by some chance; by some possibility|	N3|
-|21|maru de|まるで|as if; as though; just like ~|	N3|
+|21|[maru de](marude.md)|[まるで](marude.md)|as if; as though; just like ~|	N3|
 |22|metta ni~nai|めったに～ない|hardly; rarely; seldom|	N3|
 |23|moshika shitara|もしかしたら|perhaps; maybe; perchance; by any chance ~|	N3|
 |24|moshimo~tara|もしも〜たら|if; in the case; supposing ~|	N3|
