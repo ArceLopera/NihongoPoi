@@ -111,6 +111,8 @@ nav:
       - Each:
         - 間: ./N4/Grammar/aida.md
         - 間に: ./N4/Grammar/aidani.md
+        - と言われている: ./N4/Grammar/toiwareteiru.md
+        - と聞いた: ./N4/Grammar/tokiita.md
         - ところ: ./N4/Grammar/tokoro.md
     - N3:
       - Each:
