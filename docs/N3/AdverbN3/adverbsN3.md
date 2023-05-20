@@ -28,7 +28,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |22|[metta ni~nai](mettaninai.md)|[めったに～ない](mettaninai.md)|hardly; rarely; seldom|	N3|
 |23|[moshika shitara](moshikashitara.md)|[もしかしたら](moshikashitara.md)|perhaps; maybe; perchance; by any chance ~|	N3|
 |24|[moshimo~tara](moshimotara.md)|[もしも〜たら](moshimotara.md)|if; in the case; supposing ~|	N3|
-|25|mushiro|むしろ|rather; instead; better ~|	N3|
+|25|[mushiro](mushiro.md)|[むしろ](mushiro.md)|rather; instead; better ~|	N3|
 |26|nakanaka|なかなか|very; quite; pretty; rather; just not ~|	N3|
 |27|nanka / nante / nado|なんか / なんて / など|give examples; show modesty; make light of ~|	N3|
 |28|naru beku|なるべく|as much as possible|	N3|
