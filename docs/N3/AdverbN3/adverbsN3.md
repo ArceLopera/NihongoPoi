@@ -30,7 +30,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |24|[moshimo~tara](moshimotara.md)|[もしも〜たら](moshimotara.md)|if; in the case; supposing ~|	N3|
 |25|[mushiro](mushiro.md)|[むしろ](mushiro.md)|rather; instead; better ~|	N3|
 |26|[nakanaka](nakanaka.md)|[なかなか](nakanaka.md)|very; quite; pretty; rather; just not ~|	N3|
-|27|nanka / nante / nado|なんか / なんて / など|give examples; show modesty; make light of ~|	N3|
+|27|[nanka / nante / nado](nanka.md)|[なんか / なんて / など](nanka.md)|give examples; show modesty; make light of ~|	N3|
 |28|naru beku|なるべく|as much as possible|	N3|
 |29|sai ni|際に【さいに】|when; at the time of; in the case of ~|	N3|
 |30|saichuu ni|最中に【さいちゅうに】|while; during; in the middle of ~|	N3|
