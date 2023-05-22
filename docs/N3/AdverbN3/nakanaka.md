@@ -4,9 +4,11 @@
 very; quite; pretty; rather; just not ~
 
 Usage 1) なかなか + Noun / Adjective
+
 When なかなか is used with a noun or adjective, the speaker expresses a sense of unexpectedness or surprise.
 
 Usage 2) なかなか + Verb
+
 When なかなか is used with a negative verb, it implies that the speaker has attempted to do something, but it is unable to do it.
 
 
@@ -14,7 +16,9 @@ When なかなか is used with a negative verb, it implies that the speaker has 
 ## 使い方
 
 なかなか	+   Verb
+
 なかなか	+   Noun
+
 なかなか	+   Adjective
 
 ## 例文
