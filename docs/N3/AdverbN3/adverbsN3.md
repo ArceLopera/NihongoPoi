@@ -34,7 +34,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |28|[naru beku](narubeku.md)|[なるべく](narubeku.md)|as much as possible|	N3|
 |29|[sai ni](saini.md)|[際に【さいに】](saini.md)|when; at the time of; in the case of ~|	N3|
 |30|[saichuu ni](saichuuni.md)|[最中に【さいちゅうに】](saichuuni.md)|while; during; in the middle of ~|	N3|
-|31|sara ni|さらに|furthermore; again; more and more ~|	N3|
+|31|[sara ni](sarani.md)|[さらに](sarani.md)|furthermore; again; more and more ~|	N3|
 |32|seizei|せいぜい|at the most; at best; to the utmost|	N3|
 |33|shibaraku|しばらく|for a moment; for a while; for the time being|	N3|
 |34|sude ni|すでに|something has already been done/taken place; is already the case|	N3|
