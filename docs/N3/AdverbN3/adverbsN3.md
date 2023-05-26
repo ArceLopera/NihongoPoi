@@ -37,9 +37,9 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |31|[sara ni](sarani.md)|[さらに](sarani.md)|furthermore; again; more and more ~|	N3|
 |32|[seizei](seizei.md)|[せいぜい](seizei.md)|at the most; at best; to the utmost|	N3|
 |33|[shibaraku](shibaraku.md)|[しばらく](shibaraku.md)|for a moment; for a while; for the time being|	N3|
-|34|sude ni|すでに|something has already been done/taken place; is already the case|	N3|
-|35|sukoshimo|少しも【すこしも】|anything of; not one bit (with negative sentence)|	N3|
-|36|sunawachi|すなわち|in other words; namely ~|	N3|
+|34|[sude ni](sudeni.md)|[すでに](sudeni.md)|something has already been done/taken place; is already the case|	N3|
+|35|[sukoshimo](sukoshimo.md)|[少しも【すこしも】](sukoshimo.md)|anything of; not one bit (with negative sentence)|	N3|
+|36|[sunawachi](sunawachi.md)|[すなわち](sunawachi.md)|in other words; namely ~|	N3|
 |37|ta totan|たとたん|as soon as; just as ~|	N3|
 |38|tabi ni|たびに|whenever; every time ~|	N3|
 |39|tashika ni|確かに【たしかに】|surely, certainly ~|	N3|
