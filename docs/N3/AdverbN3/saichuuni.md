@@ -1,6 +1,7 @@
 最中に (saichuu ni)
 
 ## 意味
+
 while; during; in the middle of ~
 
 ## 使い方

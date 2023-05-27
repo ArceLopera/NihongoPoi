@@ -172,6 +172,16 @@ nav:
           - すでに : ./N3/AdverbN3/sudeni.md
           - 少しも : ./N3/AdverbN3/sukoshimo.md
           - すなわち : ./N3/AdverbN3/sunawachi.md
+          - たとたん : ./N3/AdverbN3/tatotan.md
+          - たびに  : ./N3/AdverbN3/tabini.md
+          - 確かに  : ./N3/AdverbN3/tashikani.md
+          - 多少  : ./N3/AdverbN3/tashou.md
+          - たとえ～ても  : ./N3/AdverbN3/tatoetemo.md
+          - 例えば  : ./N3/AdverbN3/tatoeba.md
+          - と共に  : ./N3/AdverbN3/totomoni.md
+          - 途中  : ./N3/AdverbN3/tochuu.md
+          - とおりに : ./N3/AdverbN3/toorini.md
+          - とても～ない: ./N3/AdverbN3/totemonai.md
           - つい: ./N3/AdverbN3/tsui.md
           - ついに: ./N3/AdverbN3/tsuini.md
           - ついでに: ./N3/AdverbN3/tsuideni.md

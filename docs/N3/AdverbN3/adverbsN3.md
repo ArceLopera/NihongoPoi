@@ -40,16 +40,16 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |34|[sude ni](sudeni.md)|[すでに](sudeni.md)|something has already been done/taken place; is already the case|	N3|
 |35|[sukoshimo](sukoshimo.md)|[少しも【すこしも】](sukoshimo.md)|anything of; not one bit (with negative sentence)|	N3|
 |36|[sunawachi](sunawachi.md)|[すなわち](sunawachi.md)|in other words; namely ~|	N3|
-|37|ta totan|たとたん|as soon as; just as ~|	N3|
-|38|tabi ni|たびに|whenever; every time ~|	N3|
-|39|tashika ni|確かに【たしかに】|surely, certainly ~|	N3|
-|40|tashou|多少【たしょう】|more or less; somewhat; a little; a few; some|	N3|
-|41|tatoe~temo|たとえ～ても|even if… is the case|	N3|
-|42|tatoeba|例えば【たとえば】|for example; for instance ~|	N3|
-|43|to tomo ni|と共に【とともに】|together with; at the same time as; as well as ~|	N3|
-|44|tochuu de / tochuu ni|途中で/途中に【とちゅうで/とちゅうに】|on the way; in the middle of ~|	N3|
-|45|toori ni|とおりに|in the same way as; in the way; as ~|	N3|
-|46|totemo~nai|とても～ない|cannot possibly be; hardly ~|	N3|
+|37|[ta totan](tatotan.md)|[たとたん](tatotan.md)|as soon as; just as ~|	N3|
+|38|[tabi ni](tabini.md)|[たびに](tabini.md)|whenever; every time ~|	N3|
+|39|[tashika ni](tashikani.md)|[確かに【たしかに】](tashikani.md)|surely, certainly ~|	N3|
+|40|[tashou](tashou.md)|[多少【たしょう】](tashou.md)|more or less; somewhat; a little; a few; some|	N3|
+|41|[tatoe~temo](tatoetemo.md)|[たとえ～ても](tatoetemo.md)|even if… is the case|	N3|
+|42|[tatoeba](tatoeba.md)|[例えば【たとえば】](tatoeba.md)|for example; for instance ~|	N3|
+|43|[to tomo ni](totomoni.md)|[と共に【とともに】](totomoni.md)|together with; at the same time as; as well as ~|	N3|
+|44|[tochuu de / tochuu ni](tochuu.md)|[途中で/途中に【とちゅうで/とちゅうに】](tochuu.md)|on the way; in the middle of ~|	N3|
+|45|[toori ni](toorini.md)|[とおりに](toorini.md)|in the same way as; in the way; as ~|	N3|
+|46|[totemo~nai](totemonai.md)|[とても～ない](totemonai.md)|cannot possibly be; hardly ~|	N3|
 |47|[tsui](tsui.md)|[つい](tsui.md)|accidentally; unintentionally; by mistake|	N3|
 |48|[tsui ni](tsuini.md)|[ついに](tsuini.md)|finally; at last; in the end ~|	N3|
 |49|[tsuide ni](tsuideni.md)|[ついでに](tsuideni.md)|while, incidentally, at the same time, on the way ~|	N3|
