@@ -185,6 +185,12 @@ nav:
           - つい: ./N3/AdverbN3/tsui.md
           - ついに: ./N3/AdverbN3/tsuini.md
           - ついでに: ./N3/AdverbN3/tsuideni.md
+          - つまり: ./N3/AdverbN3/tsumari.md
+          - はもちろん: ./N3/AdverbN3/wamochiron.md
+          - 割に: ./N3/AdverbN3/warini.md
+          - わざと: ./N3/AdverbN3/wazato.md
+          - わざわざ: ./N3/AdverbN3/wazawaza.md
+          - 随分: ./N3/AdverbN3/zuibun.md
       - N2: ./N2/adverbsN2.md
       - N1: ./N1/adverbsN1.md
   - テスト:

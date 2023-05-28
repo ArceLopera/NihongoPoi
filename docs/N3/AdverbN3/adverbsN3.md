@@ -53,9 +53,9 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |47|[tsui](tsui.md)|[つい](tsui.md)|accidentally; unintentionally; by mistake|	N3|
 |48|[tsui ni](tsuini.md)|[ついに](tsuini.md)|finally; at last; in the end ~|	N3|
 |49|[tsuide ni](tsuideni.md)|[ついでに](tsuideni.md)|while, incidentally, at the same time, on the way ~|	N3|
-|50|tsumari|つまり|in other words; in summary; in short ~|	N3|
-|51|wa mochiron|はもちろん|not to mention; not only ... but also ~|	N3|
-|52|wari ni|割に【わりに】|considering ~; for ~; despite ~|	N3|
-|53|wazato|わざと|on purpose; intentionally ~|	N3|
-|54|wazawaza|わざわざ|to go to the trouble of; to go out of one's way to ~|	N3|
-|55|zuibun|随分【ずいぶん】|very; extremely; surprisingly; considerably; awfully|	N3|
+|50|[tsumari](tsumari.md)|[つまり](tsumari.md)|in other words; in summary; in short ~|	N3|
+|51|[wa mochiron](wamochiron.md)|[はもちろん](wamochiron.md)|not to mention; not only ... but also ~|	N3|
+|52|[wari ni](warini.md)|[割に【わりに】](warini.md)|considering ~; for ~; despite ~|	N3|
+|53|[wazato](wazato.md)|[わざと](wazato.md)|on purpose; intentionally ~|	N3|
+|54|[wazawaza](wazawaza.md)|[わざわざ](wazawaza.md)|to go to the trouble of; to go out of one's way to ~|	N3|
+|55|[zuibun](zuibun.md)|[随分【ずいぶん】](zuibun.md)|very; extremely; surprisingly; considerably; awfully|	N3|
