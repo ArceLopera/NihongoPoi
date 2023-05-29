@@ -132,7 +132,10 @@ nav:
     - 自己紹介: ./N4/presentation.md
     - 副詞: 
       - N5: ./N5/adverbsN5.md
-      - N4: ./N4/adverbsN4.md
+      - N4: 
+        - All: ./N4/AdverbsN4/adverbsN4.md
+        - Each:
+          - ああ: ./N4/AdverbsN4/aa.md
       - N3: 
         - All: ./N3/AdverbN3/adverbsN3.md
         - Each:
