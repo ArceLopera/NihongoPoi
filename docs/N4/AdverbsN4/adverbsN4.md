@@ -5,7 +5,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |#|	Romaji|	Japanese|	Grammar Meaning|	Level|
 | --- | --- | --- | --- | --- |
 |1|[aa](aa.md)|[ああ](aa.md)|ah; yes|	N4|
-|2|aida ni|間に【あいだに】|while; during~ something happened|	N4|
+|2|[aida ni](aidani.md)|[間に【あいだに】](aidani.md)|while; during~ something happened|	N4|
 |3|amari~nai|あまり～ない|not very, not much ~|	N4|
 |4|ato de|後で【あとで】|after~; later|	N4|
 |5|bikkuri|びっくり|to be surprised|	N4|
