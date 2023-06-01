@@ -6,8 +6,8 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 | --- | --- | --- | --- | --- |
 |1|[aa](aa.md)|[ああ](aa.md)|ah; yes|	N4|
 |2|[aida ni](aidani.md)|[間に【あいだに】](aidani.md)|while; during~ something happened|	N4|
-|3|amari~nai|あまり～ない|not very, not much ~|	N4|
-|4|ato de|後で【あとで】|after~; later|	N4|
+|3|[amari~nai](amarinai.md)|[あまり～ない](amarinai.md)|not very, not much ~|	N4|
+|4|[ato de](atode.md)|[後で【あとで】](atode.md)|after~; later|	N4|
 |5|bikkuri|びっくり|to be surprised|	N4|
 |6|daibu|大分【だいぶ】|considerably; greatly; a lot|	N4|
 |7|dekiru dake|できるだけ|as much as possible|	N4|
