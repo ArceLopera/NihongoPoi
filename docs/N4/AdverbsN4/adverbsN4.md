@@ -12,7 +12,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |6|[daibu](daibu.md)|[大分【だいぶ】](daibu.md)|considerably; greatly; a lot|	N4|
 |7|[dekiru dake](dekirudake.md)|[できるだけ](dekirudake.md)|as much as possible|	N4|
 |8|[dondon](dondon.md)|[どんどん](dondon.md)|rapidly; more and more|	N4|
-|9|futsuu|普通 【ふつう】|usually|	N4|
+|9|[futsuu](futsuu.md)|[普通 【ふつう】](futsuu.md)|usually|	N4|
 |10|hakkiri|はっきり|clearly|	N4|
 |11|hijou ni|非常に【ひじょうに】|extremely|	N4|
 |12|ippai|いっぱい|Full|	N4|
