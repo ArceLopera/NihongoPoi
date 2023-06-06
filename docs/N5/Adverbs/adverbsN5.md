@@ -38,4 +38,4 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |32|tokidoki|時々【ときどき】|sometimes; at times|	N5|
 |33|totemo|とても|very; awfully; exceedingly|​	N5|
 |34|yoku|よく|often, well|	N5|
-|35|yukkuri|ゆっくり|slowly|	N5|
+|35|[yukkuri](yukkuri.md)|[ゆっくり](yukkuri.md)|slowly|	N5|

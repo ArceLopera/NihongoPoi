@@ -130,8 +130,12 @@ nav:
         - にたいして: ./N3/Grammar/nitaishite.md
   - 語彙:
     - 自己紹介: ./N4/presentation.md
+    - ｢り｣で終わる副詞: ./N3/goiN3.md
     - 副詞: 
-      - N5: ./N5/adverbsN5.md
+      - N5: 
+        - All: ./N5/Adverbs/adverbsN5.md
+        - Each:
+          - ゆっくり: ./N5/Adverbs/yukkuri.md
       - N4: 
         - All: ./N4/AdverbsN4/adverbsN4.md
         - Each:
@@ -146,6 +150,9 @@ nav:
           - 普通: ./N4/AdverbsN4/futsuu.md
           - はっきり: ./N4/AdverbsN4/hakkiri.md
           - 非常に: ./N4/AdverbsN4/hijouni.md
+          - しっかり: ./N4/AdverbsN4/shikkari.md
+          - すっかり: ./N4/AdverbsN4/sukkari.md
+          - やっぱり: ./N4/AdverbsN4/yappari.md
       - N3: 
         - All: ./N3/AdverbN3/adverbsN3.md
         - Each:
@@ -204,8 +211,32 @@ nav:
           - わざと: ./N3/AdverbN3/wazato.md
           - わざわざ: ./N3/AdverbN3/wazawaza.md
           - 随分: ./N3/AdverbN3/zuibun.md
-      - N2: ./N2/adverbsN2.md
-      - N1: ./N1/adverbsN1.md
+          - そっくり: ./N3/sokkuri.md
+          - ぴったり: ./N3/pittari.md
+          - さっぱり: ./N3/sappari.md
+          - ぐったり: ./N3/guttari.md
+          - たっぷり: ./N3/tappuri.md
+          - がっかり: ./N3/gakkari.md
+          - びっしり: ./N3/bisshiri.md
+          - ぐっすり: ./N3/gussuri.md
+          - にっこり: ./N3/nikkori.md
+          - ぼんやり: ./N3/bonyari.md
+          - のんびり: ./N3/nonbiri.md
+      - N2: 
+        - All: ./N2/adverbsN2.md
+        - こっそり: ./N2/kossori.md
+        - すっきり: ./N2/sukkiri.md
+        - うっかり: ./N2/ukkari.md
+      - N1: 
+        - All:  ./N1/adverbsN1.md
+        - あっさり: ./N1/assari.md
+        - くっきり: ./N1/kukkiri.md
+        - じっくり: ./N1/jikkuri.md
+        - きっかり: ./N1/kikkari.md
+        - かっきり: ./N1/kakkiri.md
+        - ドッキリ: ./N1/dokkiri.md
+        - ちゃっかり: ./N1/chakkari.md
+        - きっちり: ./N1/kicchiri.md
   - テスト:
     - N4: ./N4/test.md
     - N3: ./N3/test.md

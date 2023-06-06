@@ -32,18 +32,18 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |26|	naruhodo|なるほど|now I understand|	N4|
 |27|	no naka de|の中で【のなかで】|in; among ~|	N4|
 |28|	sasuga|さすが|as one would expect; as is to be expected; even ~|	N4|
-|29|	shikkari|しっかり|firmly; steadily|	N4|
+|29|[shikkari](shikkari.md)|[しっかり](shikkari.md)|firmly; steadily|	N4|
 |30|	sonna ni|そんなに|so much; so; like that|	N4|
 |31|	sore hodo|それほど|to that extent|	N4|
 |32|	sorosoro|そろそろ|gradually; soon|	N4|
 |33|	sou da [2]|そうだ|looks like; appears like; seeming ~|	N4|
-|34|	sukkari|すっかり|completely|	N4|
+|34|[sukkari](sukkari.md)|[すっかり](sukkari.md)|completely|	N4|
 |35|	taitei|たいてい|usually|	N4|
 |36|	tamani|たまに|occasionally|	N4|
 |37|	tokuni|特に【とくに】|particularly; especially; in particular; expressly|	N4|
 |38|	toutou|到頭【とうとう】|finally, after all|	N4|
 |39|	tsugou|都合【つごう】|convenience	|N4|
-|40|	yappari|やっぱり|as I thought|	N4|
+|40|[yappari](yappari.md)|[やっぱり](yappari.md)|as I thought|	N4|
 |41|	yatto|やっと|at last; finally; barely; narrowly ~|	N4|
 |42|yori|より|than; rather than; more than ~	|N4|
 |43|zehi|ぜひ|by all means; certainly; definitely ~|	N4|
