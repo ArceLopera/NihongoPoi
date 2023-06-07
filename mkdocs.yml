@@ -130,7 +130,11 @@ nav:
         - にたいして: ./N3/Grammar/nitaishite.md
   - 語彙:
     - 自己紹介: ./N4/presentation.md
-    - ｢り｣で終わる副詞: ./N3/goiN3.md
+    - オノマトペ:
+      - Basic: ./N3/onomatopoeiaN3.md
+      - ｢り｣で終わる副詞: ./N3/goiN3.md
+      - Common: ./N3/onomatopoeiaCommon.md
+      - All: ./N3/onomatopoeiaAll.md
     - 副詞: 
       - N5: 
         - All: ./N5/Adverbs/adverbsN5.md
