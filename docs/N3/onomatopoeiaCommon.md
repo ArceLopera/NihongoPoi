@@ -48,15 +48,15 @@
 ## 泣なく TO CRY
 |Japanese|	English|
 | --- | --- |
-|めそめそ泣く	to cry uncontrollably|
-しくしく泣く	to cry gently, weeping secretly|
-おいおい泣く	to cry loudly (an adult crying)|
-ぐすぐす泣く	to cry and sniffle|
+|めそめそ泣く|	to cry uncontrollably|
+|しくしく泣く|	to cry gently, weeping secretly|
+|おいおい泣く|	to cry loudly (an adult crying)|
+|ぐすぐす泣く|	to cry and sniffle|
 
 ## 笑わう TO LAUGH
 |Japanese|	English|
 | --- | --- |
-|にこにこ笑う	to smile|
-げらげら笑う	to laugh out loud, gaffaw|
-にんまり笑う	to smile with satisfaction|
-くすくす笑う	to giggle, chuckle quietly|
+|にこにこ笑う|	to smile|
+|げらげら笑う|	to laugh out loud, gaffaw|
+|にんまり笑う|	to smile with satisfaction|
+|くすくす笑う|	to giggle, chuckle quietly|

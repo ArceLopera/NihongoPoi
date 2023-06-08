@@ -259,105 +259,105 @@
 
 |Japanese|	English|
 | --- | --- |
-|うろうろ	Wandering aimlessly
-えっちらおっちら	Walking with great difficulty, barely managing to walk
-かっぽかっぽ	The sound of horse hooves
-さっさ・さっさっ	Feet moving vigorously
-すたこら	Fast paced, eager walking
-すたこらさっさ	Running away without looking back
-すたすた	Briskly walking without looking around
-せかせか	Jogging as if you're in a hurry
-たー・たたー	Lightly taking off into a run
-たかたか	The high pitched footsteps of a child running
-たじたじ	Staggering or tripping over your feet
-だだーっ	Powerfully running through
-たたたた	Running at full speed
-だだだだ	Rushing forward
-たったかたったか	Light running
-たったっ	Walking quickly with long strides
-ちょこちょこ	Scurrying along with short steps
-てくてく	Going a long way, trudging along
-てけてけ	Walking with the same rhythm
-どっしどっし	Heavily stomping with your weight
-とーん	Stamping forcefully with your foot
-とことこ	The small steps of children
-とっとことっとこ・とっとっ	The rhythm of quick, small steps
-とっと	Quickly walking
-ととと	Trotting, jogging
-どたばた	Noisily running around
-とぼとぼ	Stooping as you walk a long way, trudging
-のさのさ	Like you don't care, haughtily
-のしのし	Strong, heavy steps, lumbering
-のそのそ	Hulking and slow, like a slow giant
-のっしのっし	Walking with huge, clumsy strides, like a giant
-のらりのらり	Slowly, aimlessly walking
-のろのろ・のろりのろり	Proceeding at a snail's pace, slow and sluggish
-ぱかぱか・ぱっぱか	The sound of light horse footsteps, clip clop
-ぱたぱた・ばたばた	The pitter patter of footsteps
-ひょこひょこ	Taking a carefree stroll
-ふらふら・ぶらぶら	Wandering around without any goal or purpose
-よたよた	And old, or sick person, weak on their feet
-よちよち	An infant still learning how to walk
-よぼよぼ	And old person shaking while they walk
-よろよろ	Someone who looks like they could collapse at any moment
-わたわた	Restless and unable to calm down
+|うろうろ|	Wandering aimlessly|
+|えっちらおっちら|	Walking with great difficulty, barely managing to walk|
+|かっぽかっぽ|	The sound of horse hooves|
+|さっさ・さっさっ|	Feet moving vigorously|
+|すたこら|	Fast paced, eager walking|
+|すたこらさっさ|	Running away without looking back|
+|すたすた|	Briskly walking without looking around|
+|せかせか|	Jogging as if you're in a hurry|
+|たー・たたー|	Lightly taking off into a run|
+|たかたか|	The high pitched footsteps of a child running|
+|たじたじ|	Staggering or tripping over your feet|
+|だだーっ|	Powerfully running through|
+|たたたた|	Running at full speed|
+|だだだだ|	Rushing forward|
+|たったかたったか|	Light running|
+|たったっ|	Walking quickly with long strides|
+|ちょこちょこ|	Scurrying along with short steps|
+|てくてく|	Going a long way, trudging along|
+|てけてけ|	Walking with the same rhythm|
+|どっしどっし|	Heavily stomping with your weight|
+|とーん|	Stamping forcefully with your foot|
+|とことこ|	The small steps of children|
+|とっとことっとこ・とっとっ|	The rhythm of quick, small steps|
+|とっと|	Quickly walking|
+|ととと|	Trotting, jogging|
+|どたばた|	Noisily running around|
+|とぼとぼ|	Stooping as you walk a long way, trudging|
+|のさのさ|	Like you don't care, haughtily|
+|のしのし|	Strong, heavy steps, lumbering|
+|のそのそ|	Hulking and slow, like a slow giant|
+|のっしのっし|	Walking with huge, clumsy strides, like a giant|
+|のらりのらり|	Slowly, aimlessly walking|
+|のろのろ・のろりのろり|	Proceeding at a snail's pace, slow and sluggish|
+|ぱかぱか・ぱっぱか|	The sound of light horse footsteps, clip clop|
+|ぱたぱた・ばたばた|	The pitter patter of footsteps|
+|ひょこひょこ|	Taking a carefree stroll|
+|ふらふら・ぶらぶら|	Wandering around without any goal or purpose|
+|よたよた|	And old, or sick person, weak on their feet|
+|よちよち|	An infant still learning how to walk|
+|よぼよぼ|	And old person shaking while they walk|
+|よろよろ|	Someone who looks like they could collapse at any moment|
+|わたわた|	Restless and unable to calm down|
 
 #### WAKING UP AND GETTING UP
 
 |Japanese|	English|
 | --- | --- |
-|がばっ	Suddenly wake up all at once
-さっ	Taking the initiative, and standing up willingly
-しゃっきり	Straight backed
-しゃん	Standing up straight, looking forward
-すくっ・すっく	Vigorously standing upright
-すたっ	Getting up lightly
-すっ	Getting up casually and carefree
-すとん	Lightly jumping down
-ぬーっ	Standing up straight, silently, without doing anything
-のっそり	Slowly, ponderously getting up
-ぱっ	Quickly standing up in reaction to something
-ばらばら	A large number of people standing up and moving one after the other
-ひょい	Lightly getting up
-ぴん	Jumping up and standing erect
-むくっ・むっく・むっくり	Suddenly waking up and getting up
-むくむく	Squirming while getting up
+|がばっ|	Suddenly wake up all at once|
+|さっ|	Taking the initiative, and standing up willingly|
+|しゃっきり|	Straight backed|
+|しゃん|	Standing up straight, looking forward|
+|すくっ・すっく|	Vigorously standing upright|
+|すたっ|	Getting up lightly|
+|すっ|	Getting up casually and carefree|
+|すとん|	Lightly jumping down|
+|ぬーっ|	Standing up straight, silently, without doing anything|
+|のっそり|	Slowly, ponderously getting up|
+|ぱっ|	Quickly standing up in reaction to something|
+|ばらばら|	A large number of people standing up and moving one after the other|
+|ひょい|	Lightly getting up|
+|ぴん|	Jumping up and standing erect|
+|むくっ・むっく・むっくり|	Suddenly waking up and getting up|
+|むくむく|	Squirming while getting up|
 
 #### SLEEPING AND LAYING DOWN
 
 |Japanese|	English|
 | --- | --- |
-|うとうと・うつらうつら	Half asleep, nodding off
-うとっ	Suddenly hit with drowsiness
-こっくりこっくり	Your body moving from nodding off
-くーくー	The sound your nose makes when you're fast asleep
-ぐーぐー・ぐーすか	Snoring while you're fast asleep
-ぐっすり	Completely and totally asleep
-こっくり	Completely and totally asleep
-こてっ	Nodding off with your head suddenly drooping
-ことっ	Suddenly losing your strength and collapsing
-ころっ・ころり	Falling asleep from fatigue
-ごろっ・ごろり・ごろん	Lying down and easily falling asleep
-こんこん（昏昏）	Laying down and stretching out
-すーすー	Falling into a long, deep sleep
-すやすや	Normal, even breathing while asleep
-どたん	Peaceful breathing while asleep, sleeping soundly
-とろっ	Feeling tired and heavy
-とろとろ	Looking sleepy
-とろん	Dozing, a light doze
+|うとうと・うつらうつら|	Half asleep, nodding off|
+|うとっ|	Suddenly hit with drowsiness|
+|こっくりこっくり|	Your body moving from nodding off|
+|くーくー|	The sound your nose makes when you're fast asleep|
+|ぐーぐー・ぐーすか|	Snoring while you're fast asleep|
+|ぐっすり|	Completely and totally asleep|
+|こっくり|	Completely and totally asleep|
+|こてっ|	Nodding off with your head suddenly drooping|
+|ことっ|	Suddenly losing your strength and collapsing|
+|ころっ・ころり|	Falling asleep from fatigue|
+|ごろっ・ごろり・ごろん|	Lying down and easily falling asleep|
+|こんこん（昏昏）|	Laying down and stretching out|
+|すーすー|	Falling into a long, deep sleep|
+|すやすや|	Normal, even breathing while asleep|
+|どたん|	Peaceful breathing while asleep, sleeping soundly|
+|とろっ|	Feeling tired and heavy|
+|とろとろ|	Looking sleepy|
+|とろん|	Dozing, a light doze|
 
 #### DOING NOTHING
 
 |Japanese|	English|
 | --- | --- |
-|ぐーたら	Not having the willpower to do anything
-ごろごろ・ごこりごこり	Passing the time doing nothing
-ごろんごろん	Rolling around idly
-のーのー	Happily ignoring your surroundings
-のんびり	To feel at ease, without a job or worries
-ぶらぶら	Living in laziness and doing nothing
-ぶらり	Being bored and doing nothing
-ぼけっ	Living idly and sloppily
+|ぐーたら|	Not having the willpower to do anything|
+|ごろごろ・ごこりごこり|	Passing the time doing nothing|
+|ごろんごろん|	Rolling around idly|
+|のーのー|	Happily ignoring your surroundings|
+|のんびり|	To feel at ease, without a job or worries|
+|ぶらぶら|	Living in laziness and doing nothing|
+|ぶらり|	Being bored and doing nothing|
+|ぼけっ|	Living idly and sloppily|
 
 
 ### WITH MOUTH
@@ -365,272 +365,272 @@
 
 |Japanese|	English|
 | --- | --- |
-|あんぐり	Taking big bites with a wide, open mouth
-がしがし	Chewing something wildly with your teeth
-がつがつ	Devouring something and giving into your desires
-がっぷり	Biting something deeply and not letting go
-がばがば	Continuing to eat food energetically
-がぶっ・がぶり	Taking a big bite of something
-かりかり	Lightly chewing on something hard with your teeth
-がりがり	Trying to munch something hard with your teeth
-かりっ・かりり・かりん	Biting once into something hard
-がりっ・がりり	Chewing a mouthful of something hard
-くしゃくしゃ・くちゃくちゃ・ぐちゃぐちゃ	Eating loudly and vulgarly
-ぐちゅぐちゅ	Rinsing out your mouth or chewing something
-こりこり	Biting something hard in your mouth
-こりっ	Biting into something hard
-ごりっ	Biting forcefully into something hard
-さくっ	The light feeling when you bite into something
-しこっ	Pleasant crunchiness
-しゃきしゃき	Eating fresh vegetables with lots of texture, like celery
-じゅるっ	Sipping on mostly liquid food
-しょりしょり	Refreshing, light crunchiness
-じょりじょり	Eating something granular and feeling the roughness in your mouth
-ずるずる	Sipping noodles, or something similar, loudly and vulgarly
-つるつる	Sipping noodles, or something similar, lightly
-ばくっ・ぱくっ	A big mouth biting forcefully
-ばくばく・ぱくぱく・ばくりばくり・ぱくりぱくり	Opening and closing a big mouth repeatedly (usually while eating)
-ぱくり・ぱくん・ぱっくん	Eating something with a big mouth and swallowing
-ばりばり	Chewing something hard with your teeth
-ぱりぱり	Eating something crispy
-ぴちゃぴちゃ・ぺちゃぺちゃ	Eating while making unpleasant tongue noises
-べちゃべちゃ	Eating and making vulgar noises
-ぺろっ・べろっ	Licking quickly
-ぺろり・べろり	Eating up all the food
-べろべろ・ぺろぺろ	Running your tongue over something
-ぺろぺろ	Licking exaggeratedly over and over again
-べろん・ぺろん	Licking something exaggeratedly once
-べろんべろん・ぺろんぺろん	Running your tongue over something exaggeratedly, multiple times
-ぼりっ	Loudly biting something hard
-ぼりぼり	Chewing something hard with your teeth
-ぽりぽり	Chewing something hard lightly with your teeth
-むぐむぐ	Chewing something without opening your mouth
-むしゃむしゃ	Eating something swiftly
-むしゃり	Taking one, quick bite
-むしゃりむしゃり	Eating something quickly, continuously
-むにゃむにゃ	Muttering with food in your mouth
-もぐもぐ	Stuffing food in your mouth and chewing over and over
-もごもご	Mumbling while you eat, chewing your words
-もそもそ	Eating something dry and unpleasant
-もりもり	Eating with gusto
+|あんぐり|	Taking big bites with a wide, open mouth|
+|がしがし|	Chewing something wildly with your teeth|
+|がつがつ|	Devouring something and giving into your desires|
+|がっぷり|	Biting something deeply and not letting go|
+|がばがば|	Continuing to eat food energetically|
+|がぶっ・がぶり|	Taking a big bite of something|
+|かりかり|	Lightly chewing on something hard with your teeth|
+|がりがり|	Trying to munch something hard with your teeth|
+|かりっ・かりり・かりん|	Biting once into something hard|
+|がりっ・がりり|	Chewing a mouthful of something hard|
+|くしゃくしゃ・くちゃくちゃ・ぐちゃぐちゃ|	Eating loudly and vulgarly|
+|ぐちゅぐちゅ|	Rinsing out your mouth or chewing something|
+|こりこり|	Biting something hard in your mouth|
+|こりっ|	Biting into something hard|
+|ごりっ|	Biting forcefully into something hard|
+|さくっ|	The light feeling when you bite into something|
+|しこっ|	Pleasant crunchiness|
+|しゃきしゃき|	Eating fresh vegetables with lots of texture, like celery|
+|じゅるっ|	Sipping on mostly liquid food|
+|しょりしょり|	Refreshing, light crunchiness|
+|じょりじょり|	Eating something granular and feeling the roughness in your mouth|
+|ずるずる|	Sipping noodles, or something similar, loudly and vulgarly|
+|つるつる|	Sipping noodles, or something similar, lightly|
+|ばくっ・ぱくっ|	A big mouth biting forcefully|
+|ばくばく・ぱくぱく・ばくりばくり・ぱくりぱくり|	Opening and closing a big mouth repeatedly (usually while eating)|
+|ぱくり・ぱくん・ぱっくん|	Eating something with a big mouth and swallowing|
+|ばりばり|	Chewing something hard with your teeth|
+|ぱりぱり|	Eating something crispy|
+|ぴちゃぴちゃ・ぺちゃぺちゃ|	Eating while making unpleasant tongue noises|
+|べちゃべちゃ|	Eating and making vulgar noises|
+|ぺろっ・べろっ|	Licking quickly|
+|ぺろり・べろり|	Eating up all the food|
+|べろべろ・ぺろぺろ|	Running your tongue over something|
+|ぺろぺろ|	Licking exaggeratedly over and over again|
+|べろん・ぺろん|	Licking something exaggeratedly once|
+|べろんべろん・ぺろんぺろん|	Running your tongue over something exaggeratedly, multiple times|
+|ぼりっ|	Loudly biting something hard|
+|ぼりぼり|	Chewing something hard with your teeth|
+|ぽりぽり|	Chewing something hard lightly with your teeth|
+|むぐむぐ|	Chewing something without opening your mouth|
+|むしゃむしゃ|	Eating something swiftly|
+|むしゃり|	Taking one, quick bite|
+|むしゃりむしゃり|	Eating something quickly, continuously|
+|むにゃむにゃ|	Muttering with food in your mouth|
+|もぐもぐ|	Stuffing food in your mouth and chewing over and over|
+|もごもご|	Mumbling while you eat, chewing your words|
+|もそもそ|	Eating something dry and unpleasant|
+|もりもり|	Eating with gusto|
 
 #### DRINKING AND GETTING DRUNK
 
 |Japanese|	English|
 | --- | --- |
-|がばがば	Continuously drinking alcohol, like beer, a lot
-がばっ	Drinking a lot at one time with a big mouth
-がぶがぶ	Drinking a lot quickly
-がぷがぷ	Drinking quickly and breathing, drink, take a breath, drink, take a breath
-がぶっ・がぶり	Drinking a lot all at once
-がぶりがぶり	Drinking a lot over and over again
-がぼがぼ	Drinking quickly all of a sudden
-かぽっ・がぼっ	Taking a drink in a good mood
-きゅー・きゅっ	Drinking down some strong alcohol
-くい	Lightly drinking something like sake in one gulp
-ぐい	Gulping down something like sake in one breath
-くいくい	Continuously gulping down something like sake
-ぐいぐい	Quickly drinking a lot of something like sake
-くー・ぐー・ぐーっ・くくー	Drinking something in one gulp
-くっ・ぐっ	Gulping down something
-ぐっぐっ	Drinking quickly without stopping for air
-ぐでんぐでん	Getting black out drunk
-ぐたぐた	Getting so drunk you can't even move your body
-ぐびっ・ぐぶり	The gulping noise your throat makes when you drink alcohol
-ぐびぐび・ぐびりぐびり	Repetitive gulping from drinking alcohol
-こくこく	Drinking and tasting delicious flavors
-ごくごく・ごっくりごっくり・ごぶごぶ	Drinking and making gulping sounds with your throat
-こくっ・こくり・こくん・こっくん	Sipping or swallowing lightly
-ごくっ・ごくり・ごくん・ごっくん	Sipping or swallowing and making a gulp sound
-こくりこくり	Sipping or swallowing slowly as if you're savoring the flavors
-ごくりごくり	Drinking continuously with loud gulp, gulp, gulping sounds
-ごくんごくん	Drinking quickly with gulp, gulp, gulping sounds
-ごっくり	Drinking loudly in one breath
-じゅるっ	Swallowing or sipping spit, soup, or a liquid
-ずーずー	Swallowing or sipping soup, or a liquid with higer-pitch loud sound, like sucking soba noodles
-ずーっ・すすっ・ずずっ	Swallowing or sipping soup, or a liquid with loudly, like soba noodles
-ずるずる	Loudly slurping noodles
-ずるっ	A snort of mucus or soup
-ちびりちびり	Slowly sipping alcohol
-ちゅーちゅー・ちゅるちゅる	Sucking a liquid (with a straw) or noodles slowly
-ちゅっ	A short slurp of soup or a liquid
-ぴちゃぴちゃ	Wet licking sound an animal, like a dog, makes
-ひっく	Hiccup, usually of a drunk person
-ぺちゃぺちゃ	Making tongue noises while drinking and/or eating
-へべれけ	Getting super drunk, with slurred thinking and speaking
-べろべろ・べろんべろん	Getting so drunk you can't move your body normally
-ほろっ・ほろり	Getting tipsy, or a comfortable amount of drunkness
-ぽわん	Getting drunk and feeling great, like you're floating
-れろれろ	Getting tongue tied from alcohol or drugs
+|がばがば|	Continuously drinking alcohol, like beer, a lot|
+|がばっ|	Drinking a lot at one time with a big mouth|
+|がぶがぶ|	Drinking a lot quickly|
+|がぷがぷ|	Drinking quickly and breathing, drink, take a breath, drink, take a breath|
+|がぶっ・がぶり|	Drinking a lot all at once|
+|がぶりがぶり|	Drinking a lot over and over again|
+|がぼがぼ|	Drinking quickly all of a sudden|
+|かぽっ・がぼっ|	Taking a drink in a good mood|
+|きゅー・きゅっ|	Drinking down some strong alcohol|
+|くい|	Lightly drinking something like sake in one gulp|
+|ぐい|	Gulping down something like sake in one breath|
+|くいくい|	Continuously gulping down something like sake|
+|ぐいぐい|	Quickly drinking a lot of something like sake|
+|くー・ぐー・ぐーっ・くくー|	Drinking something in one gulp|
+|くっ・ぐっ|	Gulping down something|
+|ぐっぐっ|	Drinking quickly without stopping for air|
+|ぐでんぐでん|	Getting black out drunk|
+|ぐたぐた|	Getting so drunk you can't even move your body|
+|ぐびっ・ぐぶり|	The gulping noise your throat makes when you drink alcohol|
+|ぐびぐび・ぐびりぐびり|	Repetitive gulping from drinking alcohol|
+|こくこく|	Drinking and tasting delicious flavors|
+|ごくごく・ごっくりごっくり・ごぶごぶ|	Drinking and making gulping sounds with your throat|
+|こくっ・こくり・こくん・こっくん|	Sipping or swallowing lightly|
+|ごくっ・ごくり・ごくん・ごっくん|	Sipping or swallowing and making a gulp sound|
+|こくりこくり|	Sipping or swallowing slowly as if you're savoring the flavors|
+|ごくりごくり|	Drinking continuously with loud gulp, gulp, gulping sounds|
+|ごくんごくん|	Drinking quickly with gulp, gulp, gulping sounds|
+|ごっくり|	Drinking loudly in one breath|
+|じゅるっ|	Swallowing or sipping spit, soup, or a liquid|
+|ずーずー|	Swallowing or sipping soup, or a liquid with higer-pitch loud sound, like sucking soba noodles|
+|ずーっ・すすっ・ずずっ|	Swallowing or sipping soup, or a liquid with loudly, like soba noodles|
+|ずるずる|	Loudly slurping noodles|
+|ずるっ|	A snort of mucus or soup|
+|ちびりちびり|	Slowly sipping alcohol|
+|ちゅーちゅー・ちゅるちゅる|	Sucking a liquid (with a straw) or noodles slowly|
+|ちゅっ|	A short slurp of soup or a liquid|
+|ぴちゃぴちゃ|	Wet licking sound an animal, like a dog, makes|
+|ひっく|	Hiccup, usually of a drunk person|
+|ぺちゃぺちゃ|	Making tongue noises while drinking and/or eating|
+|へべれけ|	Getting super drunk, with slurred thinking and speaking|
+|べろべろ・べろんべろん|	Getting so drunk you can't move your body normally|
+|ほろっ・ほろり|	Getting tipsy, or a comfortable amount of drunkness|
+|ぽわん|	Getting drunk and feeling great, like you're floating|
+|れろれろ|	Getting tongue tied from alcohol or drugs|
 
 #### PUKING AND VOMITING
 
 |Japanese|	English|
 | --- | --- |
-|がらがら・がらがらぺっ	Vomiting and gargling
-げー・げっ	Vomiting food and drinks
-げーげー・げろげろ	Continuously vomiting food and drinks
-げろっ	Vomiting instantly
-ぷっぷっ	Violently vomit in your own mouth
-ぺっぺっ	Forcefully vomit spit and phlegm
-むかっ・むかむか	Feeling the urge to vomit in your stomach, holding it down
+|がらがら・がらがらぺっ|	Vomiting and gargling|
+|げー・げっ|	Vomiting food and drinks|
+|げーげー・げろげろ|	Continuously vomiting food and drinks|
+|げろっ|	Vomiting instantly|
+|ぷっぷっ|	Violently vomit in your own mouth|
+|ぺっぺっ|	Forcefully vomit spit and phlegm|
+|むかっ・むかむか|	Feeling the urge to vomit in your stomach, holding it down|
 
 #### SAYING AND SPEAKING
 
 |Japanese|	English|
 | --- | --- |
-|うだうだ	Constantly making excuses and complaints
-がたがた	Complaining a lot
-がみがみ	A higher status person giving you a lecture or scolding you with strong words or tone
-がやがや	Many people talking loudly
-きっぱり	Saying something clearly with a straightforward expression
-ぎゃーぎゃー	Making complaints loudly and repeatedly
-きゃんきゃん・きんきん	Shouting, crying, or yelling with a high-pitch voice
-ぐちぐち	Making complaints to someone or aloud to yourself
-ぐずぐず	Muttering complaints
-くだくだ・ぐだぐだ・くどくど	Doing or saying the same thing over and over again incessantly
-ぐたぐた	Complaining over and over about things, listing them
-ぐちゃぐちゃ	Talking forever about meaningless things
-ごじゃごじゃ・ごたごた・ごちゃごちゃ	Telling various excuses or complaints
-こそこそ	Whispering secretly
-ごちょごちょ	Saying something into someone's ear
-ごにょごにょ	Muttering so that others can't hear you
-ざっくばらん	Explaining your situation frankly
-しどろもどろ	Making illogical excuses, panicking and making terrible excuses that don't make sense
-しんみり	Saying something sadly with a quiet, calm tone
-ずけずけ	Saying something very straight forward
-ずばずば・ずばっ・ずばり	Saying or pointing out something straight forward, get to the point in a very outspoken manner
-すらすら	Speaking really fluently, smoothly
-たらたら	Complaining about something over and over for a really long time
-だらだら	Talking about or explaining something really unclearly and taking a long time to do it
-ちゃらちゃら	Chatting and being really flirty
-つけつけ・つかつか	Not hesitating to say something, saying whatever you think
-つべつべ	Annoyingly complaining or theorizing at someone
-ぬけぬけ	Saying or making something up to show off
-はきはき	Talking or replying in a clear, friendly manner
-ばしばし	Saying things without holding back or hesitating
-ぴーちくぱーちく	Loudly talking with a high pitched voice
-ぴしゃっ・ぴしゃり	Stubbornly taking one side in an argument
-ひそひそ	Whispering so the people around you can't hear
-ぶーぶー	Whining and complaining a lot
-ふがふが	The air moving through your mouth because your false teeth fell out
-ぶつくさ・ぶつぶつ	Continuously complaining in a low voice
-ぶつっ・ぶつり	Muttering a single word under your breath
-べちゃくちゃ・ぺちゃくちゃ・ぺちゃぺちゃ	Continuously chatting about frivolous things
-ぺらっ	Chatting fluently
-ぺらぺら	Being able to speak a fluent language fluently
-ぼそり・ぽつり	Saying a single word in a low voice
-ぼそぼそ	Speaking with a really low, lifeless voice
-ぽんぽん	Cheerfully showing someone in what you're saying over and over
-むにゃむにゃ	Sleep talking, or mumbling
-もぐもぐ・もごもご	Mumbling, talking without opening your mouth very much
-やいのやいの	Meddling or pressing someone for information that isn't your business
-れろれろ	Getting tongue tied from alcohol or drugs
-わいわい・わやわや	Many people talking loudly
+|うだうだ|	Constantly making excuses and complaints|
+|がたがた|	Complaining a lot|
+|がみがみ|	A higher status person giving you a lecture or scolding you with strong words or tone|
+|がやがや|	Many people talking loudly|
+|きっぱり|	Saying something clearly with a straightforward expression|
+|ぎゃーぎゃー|	Making complaints loudly and repeatedly|
+|きゃんきゃん・きんきん|	Shouting, crying, or yelling with a high-pitch voice|
+|ぐちぐち|	Making complaints to someone or aloud to yourself|
+|ぐずぐず|	Muttering complaints|
+|くだくだ・ぐだぐだ・くどくど|	Doing or saying the same thing over and over again incessantly|
+|ぐたぐた|	Complaining over and over about things, listing them|
+|ぐちゃぐちゃ|	Talking forever about meaningless things|
+|ごじゃごじゃ・ごたごた・ごちゃごちゃ|	Telling various excuses or complaints|
+|こそこそ|	Whispering secretly|
+|ごちょごちょ|	Saying something into someone's ear|
+|ごにょごにょ|	Muttering so that others can't hear you|
+|ざっくばらん|	Explaining your situation frankly|
+|しどろもどろ|	Making illogical excuses, panicking and making terrible excuses that don't make sense|
+|しんみり|	Saying something sadly with a quiet, calm tone|
+|ずけずけ|	Saying something very straight forward|
+|ずばずば・ずばっ・ずばり|	Saying or pointing out something straight forward, get to the point in a very outspoken manner|
+|すらすら|	Speaking really fluently, smoothly|
+|たらたら|	Complaining about something over and over for a really long time|
+|だらだら|	Talking about or explaining something really unclearly and taking a long time to do it|
+|ちゃらちゃら|	Chatting and being really flirty|
+|つけつけ・つかつか|	Not hesitating to say something, saying whatever you think|
+|つべつべ|	Annoyingly complaining or theorizing at someone|
+|ぬけぬけ|	Saying or making something up to show off|
+|はきはき|	Talking or replying in a clear, friendly manner|
+|ばしばし|	Saying things without holding back or hesitating|
+|ぴーちくぱーちく|	Loudly talking with a high pitched voice|
+|ぴしゃっ・ぴしゃり|	Stubbornly taking one side in an argument|
+|ひそひそ|	Whispering so the people around you can't hear|
+|ぶーぶー|	Whining and complaining a lot|
+|ふがふが|	The air moving through your mouth because your false teeth fell out|
+|ぶつくさ・ぶつぶつ|	Continuously complaining in a low voice|
+|ぶつっ・ぶつり|	Muttering a single word under your breath|
+|べちゃくちゃ・ぺちゃくちゃ・ぺちゃぺちゃ|	Continuously chatting about frivolous things|
+|ぺらっ|	Chatting fluently|
+|ぺらぺら|	Being able to speak a fluent language fluently|
+|ぼそり・ぽつり|	Saying a single word in a low voice|
+|ぼそぼそ|	Speaking with a really low, lifeless voice|
+|ぽんぽん|	Cheerfully showing someone in what you're saying over and over|
+|むにゃむにゃ|	Sleep talking, or mumbling|
+|もぐもぐ・もごもご|	Mumbling, talking without opening your mouth very much|
+|やいのやいの|	Meddling or pressing someone for information that isn't your business|
+|れろれろ|	Getting tongue tied from alcohol or drugs|
+|わいわい・わやわや|	Many people talking loudly|
 
 #### COUGHING AND CHOKING
 
 |Japanese|	English|
 | --- | --- |
-|えへん	Coughing violently and clearing your throat
-おほん	Clearing your throat for attention
-かーっ	Coughing up phlegm into your mouth from your throat
-かっ	Violently breathing in phlegm or spit
-ぐぐっ	Food or air caught in your throat
-けほけほ	Choking slightly
-げほげほ・ごほごほ	Strong coughing fit
-こほこほ・こんこん	Light cough
-ごほん	Coughing strongly once to clear a blocked throat
-こほんこほん	A light, halting cough
-ごほんごほん	Strongly coughing many time
-ぜーぜー	Breathing through phlegm
+|えへん|	Coughing violently and clearing your throat|
+|おほん|	Clearing your throat for attention|
+|かーっ|	Coughing up phlegm into your mouth from your throat|
+|かっ|	Violently breathing in phlegm or spit|
+|ぐぐっ|	Food or air caught in your throat|
+|けほけほ|	Choking slightly|
+|げほげほ・ごほごほ|	Strong coughing fit|
+|こほこほ・こんこん|	Light cough|
+|ごほん|	Coughing strongly once to clear a blocked throat|
+|こほんこほん|	A light, halting cough|
+|ごほんごほん|	Strongly coughing many time|
+|ぜーぜー|	Breathing through phlegm|
 
 #### NOISY
 
 |Japanese|	English|
 | --- | --- |
-|がやがや	A crowd of people gathered together talking noisily
-きーきー	A noisy, shrill voice
-きゃーきゃー・ぎゃーぎゃー	Yelping out of joy or fear
-ぎゃんぎゃん	Making a big fuss, bawling
-ごたごた	Noisy complaining and fussing
-ざわざわ	A bunch of people causing a commotion
-じゃんじゃか	Something like a musical instrument making a lot of noise
-ちゃんちゃか	The playful noise of a banquet or dinner party
-てんやわんや	A large number of people scrambling over each other in total confusion
-どがちゃが	Getting chaotic
-どさくさ	Confusion or a scandal
-どさどさ	A crowd of people jumbling together one after another
-どたどた	The sound of people heavily and recklessly moving around
-どたばた・どたんばたん	Noisily running or stomping around
-どやどや	The sound of many footsteps going in and out of somewhere
-どんちゃか・どんちゃん	Boisterous revelry, the sounds of music and enjoyment at a banquet or party
-ぱたぱた	The sound of busily moving around
-やいやい	An uproar unable to settle down
-わーわー	A raised voice crying or screaming
-わいわい・わやわや	A large group of people making a lot of noise
-わっ	A large group of people stirring all at once
-わっさわっさ	A crowd yelling all at once
-わんわ	Noisiness
+|がやがや|	A crowd of people gathered together talking noisily|
+|きーきー|	A noisy, shrill voice|
+|きゃーきゃー・ぎゃーぎゃー|	Yelping out of joy or fear|
+|ぎゃんぎゃん|	Making a big fuss, bawling|
+|ごたごた|	Noisy complaining and fussing|
+|ざわざわ|	A bunch of people causing a commotion|
+|じゃんじゃか|	Something like a musical instrument making a lot of noise|
+|ちゃんちゃか|	The playful noise of a banquet or dinner party|
+|てんやわんや|	A large number of people scrambling over each other in total confusion|
+|どがちゃが|	Getting chaotic|
+|どさくさ|	Confusion or a scandal|
+|どさどさ|	A crowd of people jumbling together one after another|
+|どたどた|	The sound of people heavily and recklessly moving around|
+|どたばた・どたんばたん|	Noisily running or stomping around|
+|どやどや|	The sound of many footsteps going in and out of somewhere|
+|どんちゃか・どんちゃん|	Boisterous revelry, the sounds of music and enjoyment at a banquet or party|
+|ぱたぱた|	The sound of busily moving around|
+|やいやい|	An uproar unable to settle down|
+|わーわー|	A raised voice crying or screaming|
+|わいわい・わやわや|	A large group of people making a lot of noise|
+|わっ|	A large group of people stirring all at once|
+|わっさわっさ|	A crowd yelling all at once|
+|わんわ|	Noisiness|
 
 #### LAUGHING AND SMILING
 
 |Japanese|	English|
 | --- | --- |
-|あっはっは・あはは・わはは	Cheerfully, loudly laughing
-あはあは	A rude laugh with your mouth open
-いひひ	A wily, laugh with your mouth pulled to the sides
-うっしっし	Chuckling to yourself after you did something well
-うはうは	Laughing in a loud, rude voice after making a large profit
-うひひ	A mean laugh of someone who has a scheme or plan
-うひょひょ	Accidentally letting out a small, happy laugh
-うふっ	A short, low laugh
-うふふ	With your mouth only open a little, as if you know something they don't know
-えへへ	A shy, embarrassed laugh
-おほほ・ほほほ	With a narrow mouth, acting refined
-かかか	Laughter that seems happy, but is despicable
-がはは	A long, hearty, loud laugh
-からから	A hearty laugh, without a care or worry
-きゃー	A shrill laugh
-きゃっきゃっ	The laughter of children playing and having fun
-ぎゃはは	Laughing vulgarly when you encounter something that is good for you or that you can take advantage of
-くーっ・くっ	Trying not to laugh, but laughing anyway
-くくっ	Laughing, but trying to hold back
-くすくす	Laughing quietly, unable to hold it in, chuckling
-くすっ・くすり	Letting out just a little bit of a laugh
-くすん	A light laugh out of your nose
-くっく・くっくっ	Laughing quietly, unable to hold it in
-けけ	A weird, high laugh
-けたけた	High laughter that sounds fake or superficial
-げたげた	Loud, rude laughter
-げたっ	Rudely laughing with a loose expression
-けっけっ	A mocking laugh, making fun of someone
-けらけら・けろけろ	Innocent, high laughter
-げらげら	Openly vulgar laughter, guffaw
-ころころ	Laughing and rolling happily because something is really funny or fun
-どっ・どっと	Many people laughing together loudly
-にーっ	Smiling in an eerie way to imply something
-にかっ	Smiling with your teeth showing
-にこっ・にこり・にっこり	Smiling happily to show that you're happy
-にこにこ	Laughing and smiling brightly, showing gratitude
-にたっ・にたにた	A broad, evil grin, unable to hide your joy
-にたりにたり	Repeatedly smirking smugly
-にっ	Smiling lovingly without making a sound
-にっこにこ	Laughing and smiling with the utmost happiness
-にやっ	Unintentionally smiling and showing your joy
-にやにや・にやり	Giving a faint, cold smile
-にんまり	Smiling with satisfaction because things went your way
-はっはっ・ははは	Laughing without a worry or care
-ひっひっ・ひひひ	Shifty laughing of a bad person or villain
-ぷー・ふっ・ぷっ	Busting out with laughter at something funny
-ふっふっ	A fearless smile
-ふふ	A suppressed laugh, without being able to hide your joy
-ふふん	Laughing through your nose, looking down on someone else
-へっへっ・へへへ	Laughing meanly, triumphantly
-へらへら	A frivolous, superficial laugh
-ほくほく	Laughing or smiling because you gained something, usually money or profit
-ほっほっ	Laughing loudly as if you're out of breath, like Santa's laugh
-わーっ	A sudden, loud laugh
+|あっはっは・あはは・わはは|	Cheerfully, loudly laughing|
+|あはあは|	A rude laugh with your mouth open|
+|いひひ|	A wily, laugh with your mouth pulled to the sides|
+|うっしっし|	Chuckling to yourself after you did something well|
+|うはうは|	Laughing in a loud, rude voice after making a large profit|
+|うひひ|	A mean laugh of someone who has a scheme or plan|
+|うひょひょ|	Accidentally letting out a small, happy laugh|
+|うふっ|	A short, low laugh|
+|うふふ|	With your mouth only open a little, as if you know something they don't know|
+|えへへ|	A shy, embarrassed laugh|
+|おほほ・ほほほ|	With a narrow mouth, acting refined|
+|かかか|	Laughter that seems happy, but is despicable|
+|がはは|	A long, hearty, loud laugh|
+|からから|	A hearty laugh, without a care or worry|
+|きゃー|	A shrill laugh|
+|きゃっきゃっ|	The laughter of children playing and having fun|
+|ぎゃはは|	Laughing vulgarly when you encounter something that is good for you or that you can take advantage of|
+|くーっ・くっ|	Trying not to laugh, but laughing anyway|
+|くくっ|	Laughing, but trying to hold back|
+|くすくす|	Laughing quietly, unable to hold it in, chuckling|
+|くすっ・くすり|	Letting out just a little bit of a laugh|
+|くすん|	A light laugh out of your nose|
+|くっく・くっくっ|	Laughing quietly, unable to hold it in|
+|けけ|	A weird, high laugh|
+|けたけた|	High laughter that sounds fake or superficial|
+|げたげた|	Loud, rude laughter|
+|げたっ|	Rudely laughing with a loose expression|
+|けっけっ|	A mocking laugh, making fun of someone|
+|けらけら・けろけろ|	Innocent, high laughter|
+|げらげら|	Openly vulgar laughter, guffaw|
+|ころころ|	Laughing and rolling happily because something is really funny or fun|
+|どっ・どっと|	Many people laughing together loudly|
+|にーっ|	Smiling in an eerie way to imply something|
+|にかっ|	Smiling with your teeth showing|
+|にこっ・にこり・にっこり|	Smiling happily to show that you're happy|
+|にこにこ|	Laughing and smiling brightly, showing gratitude|
+|にたっ・にたにた|	A broad, evil grin, unable to hide your joy|
+|にたりにたり|	Repeatedly smirking smugly|
+|にっ|	Smiling lovingly without making a sound|
+|にっこにこ|	Laughing and smiling with the utmost happiness|
+|にやっ|	Unintentionally smiling and showing your joy|
+|にやにや・にやり|	Giving a faint, cold smile|
+|にんまり|	Smiling with satisfaction because things went your way|
+|はっはっ・ははは|	Laughing without a worry or care|
+|ひっひっ・ひひひ|	Shifty laughing of a bad person or villain|
+|ぷー・ふっ・ぷっ|	Busting out with laughter at something funny|
+|ふっふっ|	A fearless smile|
+|ふふ|	A suppressed laugh, without being able to hide your joy|
+|ふふん|	Laughing through your nose, looking down on someone else|
+|へっへっ・へへへ|	Laughing meanly, triumphantly|
+|へらへら|	A frivolous, superficial laugh|
+|ほくほく|	Laughing or smiling because you gained something, usually money or profit|
+|ほっほっ|	Laughing loudly as if you're out of breath, like Santa's laugh|
+|わーっ|	A sudden, loud laugh|
 
 ### WITH EYES
 #### LOOKING AND GLARING
