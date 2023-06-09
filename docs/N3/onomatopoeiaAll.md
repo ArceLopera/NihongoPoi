@@ -637,330 +637,330 @@
 
 |Japanese|	English|
 | --- | --- |
-|うつらうつら	Eyes opening and closing, seeing and not seeing, nodding off
-かっ	Eyes wide open, glaring
-きっ	An intense look in your eyes and attitude
-きょときょと	Looking around restlessly over and over
-きょろきょろ	Turning around looking around restlessly
-ぎょろぎょろ	Big eyeballs shining keenly
-きょろ	Charming eyes opening wide
-ぎょろ・ぎょろり	Glaring intently at someone
-きょろり	Quickly surveying your surroundings
-ぎらぎら	A glint in your eyes / not hiding the lust in your eyes
-きろっ	The sudden movement of your eyes
-ぎろっ・きろり	Big eyes glaring
-ぎろり	Glaring threateningly
-ぎんぎん	Continuously opening your eyes wide
-ぐっ	Keenly staring at your focal point
-じーっ・じっ	Not taking your eyes off your target
-しげしげ	Staring at something over and over, fixedly
-じとっ・じとり	Glaring with jealously and resentment
-しばしば	Blinking repeatedly
-しょぼしょぼ	Blinking wearily after your eyes were open a long time
-しょぼっ	Eyes that are open but can't understand what they see
-じろじろ	Rudely staring at someone over and over
-じろっ・じろり	Coldly glaring at someone
-じろりじろり	Rudely sending and obstinate look at someone
-ちかちか	Strong light irritating your eyes
-ちらちら	Look out of the corner of your eye over and over
-ちらっ・ちらり	Glancing out of the corner of your eye for a moment
-ちらりちらり	Something appearing and disappearing, flickering
-ちろっ	Sharply glancing sideways
-つくづく	Gazing intently, unabashedly
-とろり・とろん・どろん	With eyes dull from drunkenness
-どんより	Dull eyes, losing life
-ぱちり・ぱちぱち・ぱっちり	Looking with big, wide eyes
-はっきり	Seeing the target clearly
-ぽつっ・ぽつん	Squinting at something small
-ぼんやり	Only able to see dim outlines
-まざまざ	Plainly visible before your eyes
-まじまじ	Staring directly into your face
+|うつらうつら|	Eyes opening and closing, seeing and not seeing, nodding off|
+|かっ|	Eyes wide open, glaring|
+|きっ|	An intense look in your eyes and attitude|
+|きょときょと|	Looking around restlessly over and over|
+|きょろきょろ|	Turning around looking around restlessly|
+|ぎょろぎょろ|	Big eyeballs shining keenly|
+|きょろ|	Charming eyes opening wide|
+|ぎょろ・ぎょろり|	Glaring intently at someone|
+|きょろり|	Quickly surveying your surroundings|
+|ぎらぎら|	A glint in your eyes / not hiding the lust in your eyes|
+|きろっ|	The sudden movement of your eyes|
+|ぎろっ・きろり|	Big eyes glaring|
+|ぎろり|	Glaring threateningly|
+|ぎんぎん|	Continuously opening your eyes wide|
+|ぐっ|	Keenly staring at your focal point|
+|じーっ・じっ|	Not taking your eyes off your target|
+|しげしげ|	Staring at something over and over, fixedly|
+|じとっ・じとり|	Glaring with jealously and resentment|
+|しばしば|	Blinking repeatedly|
+|しょぼしょぼ|	Blinking wearily after your eyes were open a long time|
+|しょぼっ|	Eyes that are open but can't understand what they see|
+|じろじろ|	Rudely staring at someone over and over|
+|じろっ・じろり|	Coldly glaring at someone|
+|じろりじろり|	Rudely sending and obstinate look at someone|
+|ちかちか|	Strong light irritating your eyes|
+|ちらちら|	Look out of the corner of your eye over and over|
+|ちらっ・ちらり|	Glancing out of the corner of your eye for a moment|
+|ちらりちらり|	Something appearing and disappearing, flickering|
+|ちろっ|	Sharply glancing sideways|
+|つくづく|	Gazing intently, unabashedly|
+|とろり・とろん・どろん|	With eyes dull from drunkenness|
+|どんより|	Dull eyes, losing life|
+|ぱちり・ぱちぱち・ぱっちり|	Looking with big, wide eyes|
+|はっきり|	Seeing the target clearly|
+|ぽつっ・ぽつん|	Squinting at something small|
+|ぼんやり|	Only able to see dim outlines|
+|まざまざ|	Plainly visible before your eyes|
+|まじまじ|	Staring directly into your face|
 
 #### CRYING
 
 |Japanese|	English|
 | --- | --- |
-|あーん・うわーん	A child crying loudly without considering the people around it
-あんあん・えんえん	A person crying loudly
-うえんうえん	Spinelessly crying or whining with your mouth shaped like the へ character
-うるうる・うるるん	Moved to tears
-うるっ	Unintentionally crying
-えーん	A child crying because it wants attention
-おーおー	A person crying loudly from sadness
-おいおい	An adult crying pitifully
-おぎゃーおぎゃー	A baby bawling
-ぎゃー・ぎゃーぎゃー	An obstinate kid shouting
-ぐしょぐしょ	Lots of tears flowing
-ぐすぐす	Crying and sniffling
-ぐすっ・ぐすり	Sniffling, moved to tears
-ぐすりぐすり	Sniffling and snorting snot
-くすん・ぐすん・ぐっすん	The sound of your nose sniff when you cry
-しくしく	Crying gently, or feeling pitty for someone or something
-ひーひー	Crying out with a pitiful voice
-ひっく	A crying hiccup, similar to hyperventilation
-ひっひっ	Sobbing but trying to hold back
-べそべそ	Crying while grumbling
-ほろっ・ほろり・ぽろり	To shed a single tear out of sympathy or from being emotionally moved
-ぼろぼろ	Crying large tears
-ぽろぽろ	Tears that won't stop falling
-ほろりほろり・ぽろりぽろり	Tears spilling down your cheeks one at a time
-めーめー	Crying like a spineless baby
-めそめそ	Uncontrollably crying with no self respect
-よよ	A woman feebly bursting into tears
-わーわー・わーん・わんわん	Bawling without caring about where you are
-わっ	Suddenly, violently bursting into tears
+|あーん・うわーん|	A child crying loudly without considering the people around it|
+|あんあん・えんえん|	A person crying loudly|
+|うえんうえん|	Spinelessly crying or whining with your mouth shaped like the へ character|
+|うるうる・うるるん|	Moved to tears|
+|うるっ|	Unintentionally crying|
+|えーん|	A child crying because it wants attention|
+|おーおー|	A person crying loudly from sadness|
+|おいおい|	An adult crying pitifully|
+|おぎゃーおぎゃー|	A baby bawling|
+|ぎゃー・ぎゃーぎゃー|	An obstinate kid shouting|
+|ぐしょぐしょ|	Lots of tears flowing|
+|ぐすぐす|	Crying and sniffling|
+|ぐすっ・ぐすり|	Sniffling, moved to tears|
+|ぐすりぐすり|	Sniffling and snorting snot|
+|くすん・ぐすん・ぐっすん|	The sound of your nose sniff when you cry|
+|しくしく|	Crying gently, or feeling pitty for someone or something|
+|ひーひー|	Crying out with a pitiful voice|
+|ひっく|	A crying hiccup, similar to hyperventilation|
+|ひっひっ|	Sobbing but trying to hold back|
+|べそべそ|	Crying while grumbling|
+|ほろっ・ほろり・ぽろり|	To shed a single tear out of sympathy or from being emotionally moved|
+|ぼろぼろ|	Crying large tears|
+|ぽろぽろ|	Tears that won't stop falling|
+|ほろりほろり・ぽろりぽろり|	Tears spilling down your cheeks one at a time|
+|めーめー|	Crying like a spineless baby|
+|めそめそ|	Uncontrollably crying with no self respect|
+|よよ|	A woman feebly bursting into tears|
+|わーわー・わーん・わんわん|	Bawling without caring about where you are|
+|わっ|	Suddenly, violently bursting into tears|
 
 ### FEELINGS
 #### TIRED
 
 |Japanese|	English|
 | --- | --- |
-|うんざり	Disgusted and fed up
-がっかり	Horribly exhausted, losing energy
-くたくた・ぐたぐた	Horribly tired and worn out
-くたっ・ぐたっ・ぐったり	Tired and unable to move
-げっそり	Horribly exhausted and withering away
-げんなり	Weakening from fatigue and heat
-ずたぼろ	Mentally and emotionally exhausted
-へとへと	Completely exhausted and out of breath
-ぼろぼろ	Mentally and emotionally worn out
-よたよた	Staggering and unable to walk straight from exhaustion
+|うんざり|	Disgusted and fed up|
+|がっかり|	Horribly exhausted, losing energy|
+|くたくた・ぐたぐた|	Horribly tired and worn out|
+|くたっ・ぐたっ・ぐったり|	Tired and unable to move|
+|げっそり|	Horribly exhausted and withering away|
+|げんなり|	Weakening from fatigue and heat|
+|ずたぼろ|	Mentally and emotionally exhausted|
+|へとへと|	Completely exhausted and out of breath|
+|ぼろぼろ|	Mentally and emotionally worn out|
+|よたよた|	Staggering and unable to walk straight from exhaustion|
 
 #### SHIVERING AND SHAKING
 
 |Japanese|	English|
 | --- | --- |
-|がくがく	Joints, like knees, shaking
-がたがた	Shivering violently from coldness or fear
-がちがち	Teeth chattering from coldness or fear
-ざわざわ	Goosebumps from a bad feeling
-ぞーっ	Chills going up your spine from fear
-ぞくぞく	Body shaking from cold, fear, or excitement
-ぞくっ	A sudden chill from cold, fear, or excitement
-ぞぞ	The feeling of unpleasant coldness
-ぞっ	Visually shaking for a moment from fear
-ひくっ・ぴくっ・ぴくり・ぴくん	Body, or part of it, spasming suddenly
-びくっ	Body suddenly, reflexively shaking or trembling
-ひくひく	Part of your body twitching or cramping
-びくびく・ぴくぴく	Part of your body shaking from fear
-ぴくりぴくり・ぴくんぴくん	Continuously shaking for a period of time
-びりっ・びりん	Body going numb from sudden stimulation
-ぴりっ	A sudden shaking movement
-びりびり	Something like glass resonating from an explosion, rattling
-ぶるっ	Your whole body suddenly shaking from the cold
-ぷるっ	Vibrating for a moment
-ふるふる・ぷるぷる	Moved by light shaking or vibrating
-ぶるぶる	Trembling from cold, fear, or anger
-ぶるり	Suddenly shaking and moving
-ぶるん	Waving or shaking something around, like an arm
-ぶるんぶるん	Continuously, intensely shaking
-わなわな	Shaking from cold, fear, or anger
+|がくがく|	Joints, like knees, shaking|
+|がたがた|	Shivering violently from coldness or fear|
+|がちがち|	Teeth chattering from coldness or fear|
+|ざわざわ|	Goosebumps from a bad feeling|
+|ぞーっ|	Chills going up your spine from fear|
+|ぞくぞく|	Body shaking from cold, fear, or excitement|
+|ぞくっ|	A sudden chill from cold, fear, or excitement|
+|ぞぞ|	The feeling of unpleasant coldness|
+|ぞっ|	Visually shaking for a moment from fear|
+|ひくっ・ぴくっ・ぴくり・ぴくん|	Body, or part of it, spasming suddenly|
+|びくっ|	Body suddenly, reflexively shaking or trembling|
+|ひくひく|	Part of your body twitching or cramping|
+|びくびく・ぴくぴく|	Part of your body shaking from fear|
+|ぴくりぴくり・ぴくんぴくん|	Continuously shaking for a period of time|
+|びりっ・びりん|	Body going numb from sudden stimulation|
+|ぴりっ|	A sudden shaking movement|
+|びりびり|	Something like glass resonating from an explosion, rattling|
+|ぶるっ|	Your whole body suddenly shaking from the cold|
+|ぷるっ|	Vibrating for a moment|
+|ふるふる・ぷるぷる|	Moved by light shaking or vibrating|
+|ぶるぶる|	Trembling from cold, fear, or anger|
+|ぶるり|	Suddenly shaking and moving|
+|ぶるん|	Waving or shaking something around, like an arm|
+|ぶるんぶるん|	Continuously, intensely shaking|
+|わなわな|	Shaking from cold, fear, or anger|
 
 #### ANGRY, UPSET, ANTISOCIAL
 
 |Japanese|	English|
 | --- | --- |
-|かーっ	Getting upset because something didn't go as planned
-かっ	Blowing up out of shame or anger
-かっか・かっかっ・がみがみ	Agitated by anger or dissatisfaction
-かりかり	Quick to take offense, tightly wound
-かんかん	So outraged that you won't listen to reason
-きっ	Sudden hardening of your manner or expression
-ぞっ	Feeling unpleasant
-つっけんどん	Acting curt or unfriendly
-つん・つんつん	Facing away disgruntled
-つんけん	Acting unsociable or crabby
-とげとげ	A mean attitude, expression, or tone of voice
-ぷい	Facing away without responding
-ぷー	Blowing your cheeks out with anger or unhappiness
-ぶすっ・ぶすり	Blowing your cheeks out with anger or unhappiness, looking sullen
-ぷっ・ぶりっ・ぷりぷり	Blowing your cheeks out with anger or unhappiness
-ぷん	Blowing your cheeks out and refusing to speak
-ぷんぷん	Opening showing your anger or displeasure
-ぼさっ	Acting unsociable, unfriendly
-むーっ	Showing your anger or displeasure
-むかっ・むかむか	Anger suddenly welling up, surge of anger
-むしゃむしゃ	Losing your calm and getting upset often
-むすっ	Pouting silently
-むっ	Being angered by someone's words or actions
-むっつり	Ignoring social graces and being blunt and curt
-むらむら	Anger coming up from the bottom of your stomach, anger welling up
+|かーっ|	Getting upset because something didn't go as planned|
+|かっ|	Blowing up out of shame or anger|
+|かっか・かっかっ・がみがみ|	Agitated by anger or dissatisfaction|
+|かりかり|	Quick to take offense, tightly wound|
+|かんかん|	So outraged that you won't listen to reason|
+|きっ|	Sudden hardening of your manner or expression|
+|ぞっ|	Feeling unpleasant|
+|つっけんどん|	Acting curt or unfriendly|
+|つん・つんつん|	Facing away disgruntled|
+|つんけん|	Acting unsociable or crabby|
+|とげとげ|	A mean attitude, expression, or tone of voice|
+|ぷい|	Facing away without responding|
+|ぷー|	Blowing your cheeks out with anger or unhappiness|
+|ぶすっ・ぶすり|	Blowing your cheeks out with anger or unhappiness, looking sullen|
+|ぷっ・ぶりっ・ぷりぷり|	Blowing your cheeks out with anger or unhappiness|
+|ぷん|	Blowing your cheeks out and refusing to speak|
+|ぷんぷん|	Opening showing your anger or displeasure|
+|ぼさっ|	Acting unsociable, unfriendly|
+|むーっ|	Showing your anger or displeasure|
+|むかっ・むかむか|	Anger suddenly welling up, surge of anger|
+|むしゃむしゃ|	Losing your calm and getting upset often|
+|むすっ	|Pouting silently|
+|むっ	|Being angered by someone's words or actions|
+|むっつり|	Ignoring social graces and being blunt and curt|
+|むらむら|	Anger coming up from the bottom of your stomach, anger welling up|
 
 #### NOT FEELING WELL
 
 |Japanese|	English|
 | --- | --- |
-|かくっ・がくっ	Suddenly losing some of your energy
-がっかり・がっくり	Discouraged by disappointing results
-かくん・かっくん	A little disappointed because your hopes didn't come true
-がびーん	Hit with disappointment and shock
-ぎゃふん	Not being able to talk back at all after being accused of something, unable to argue
-ぎゅー	Knocked down (emotionally) after being accused of something
-くしゃっ	Losing motivation and hope
-ぐったり	Completely exhausted from fatigue or sickness
-くよくよ	Worrying about the past or trivial things
-げっそり	Losing weight or getting sick from sickness or anxiety
-しおしお	Disappointed by your own failures
-しゅん・しょぼしょぼ・しょぼっ	Not energetic, depressed
-しょぼん	Depressed, losing energy and willpower
-しょんぼり	Depressed and feeling lonely
-しんみり	Lonely and quiet, solemn
-すごすご	Leaving somewhere depressed, dejected
-とぼとぼ	Walking depressed, trudging along
-とほほ	Being miserable and pitiful
-へたへた	Suddenly losing strength and having to sit down
-へなへな	Losing strength and having to sit down
-よぼよぼ	Mentally weak, physically growing old
+|かくっ・がくっ|	Suddenly losing some of your energy|
+|がっかり・がっくり|	Discouraged by disappointing results|
+|かくん・かっくん|	A little disappointed because your hopes didn't come true|
+|がびーん|	Hit with disappointment and shock|
+|ぎゃふん|	Not being able to talk back at all after being accused of something, unable to argue|
+|ぎゅー|	Knocked down (emotionally) after being accused of something|
+|くしゃっ|	Losing motivation and hope|
+|ぐったり|	Completely exhausted from fatigue or sickness|
+|くよくよ|	Worrying about the past or trivial things|
+|げっそり|	Losing weight or getting sick from sickness or anxiety|
+|しおしお|	Disappointed by your own failures|
+|しゅん・しょぼしょぼ・しょぼっ|	Not energetic, depressed|
+|しょぼん|	Depressed, losing energy and willpower|
+|しょんぼり|	Depressed and feeling lonely|
+|しんみり|	Lonely and quiet, solemn|
+|すごすご|	Leaving somewhere depressed, dejected|
+|とぼとぼ|	Walking depressed, trudging along|
+|とほほ|	Being miserable and pitiful|
+|へたへた|	Suddenly losing strength and having to sit down|
+|へなへな|	Losing strength and having to sit down|
+|よぼよぼ|	Mentally weak, physically growing old|
 
 #### DELIGHTED
 
 |Japanese|	English|
 | --- | --- |
-|いそいそ	Happy and lighthearted
-うきうき	Happy, cheerfully lighthearted, and full of hope
-うしうし	Happily and skillfully going about your business
-うはうは	Full of smiles and happiness
-きゃぴきゃぴ	Bringing out the happy youthfulness in a bitter woman
-ほいほい	Happily carefree and without much thought
-ほくほく	Openly happy and pleased with yourself
-らんらん	Feeling exhilarated and jumping for joy
-るんるん	Feeling exhilarated, euphoric, and humming happily
-わくわく	Your heart fluttering from joy or anticipation
+|いそいそ|	Happy and lighthearted|
+|うきうき|	Happy, cheerfully lighthearted, and full of hope|
+|うしうし|	Happily and skillfully going about your business|
+|うはうは|	Full of smiles and happiness|
+|きゃぴきゃぴ|	Bringing out the happy youthfulness in a bitter woman|
+|ほいほい|	Happily carefree and without much thought|
+|ほくほく|	Openly happy and pleased with yourself|
+|らんらん|	Feeling exhilarated and jumping for joy|
+|るんるん|	Feeling exhilarated, euphoric, and humming happily|
+|わくわく|	Your heart fluttering from joy or anticipation|
 
 #### SURPRISED
 
 |Japanese|	English|
 | --- | --- |
-|あわわ	A reflexive sound made when noticing something suddenly
-うぎゃー	A surprised scream or shriek
-がーん	Receiving a psychologically intense shock
-がびょーん	Horribly, exaggeratedly shocked
-ぎく・ぎくっ・ぎくり・ぎくん	Someone suddenly touched on a secret of yours
-ぎっくん	Suddenly taken by surprise and off balanced
-きゃー・ぎゃー・きゃーきゃー・きゃっ・ぎゃっ	Letting out a scream of surprise, fear, or pain
-ぎょえー	Completely amazing and surprised
-ぎょぎょ・ぎょっ	Something suddenly opening your eyes
-きょとっ・きょとん	Understanding the situation with your eyes wide open
-ぐっ	Receiving a strong blow to your heart
-げー・げっ	Observing unexpected things
-だー	Surprised or dumbfounded
-どきっ・どきり・どっきり	Heart racing from excitement, fear, or anticipation
-ぱちくり	Blinking rapidly from surprise
-はっ	Suddenly noticing something and being surprised by it
-ひー	A cry of excitement, fear, or pain
-ぴくっ・びくり	Trembling from a momentary fear
-ひっ	Holding your breath out of shock
-ひっく	Terribly surprised
-びっくら・びっくり	Surprised by something sudden or unexpected
-ひやっ・ひやり	Momentarily feeling like something bad is about to happen
+|あわわ|	A reflexive sound made when noticing something suddenly|
+|うぎゃー|	A surprised scream or shriek|
+|がーん|	Receiving a psychologically intense shock|
+|がびょーん|	Horribly, exaggeratedly shocked|
+|ぎく・ぎくっ・ぎくり・ぎくん|	Someone suddenly touched on a secret of yours|
+|ぎっくん|	Suddenly taken by surprise and off balanced|
+|きゃー・ぎゃー・きゃーきゃー・きゃっ・ぎゃっ|	Letting out a scream of surprise, fear, or pain|
+|ぎょえー|	Completely amazing and surprised|
+|ぎょぎょ・ぎょっ|	Something suddenly opening your eyes|
+|きょとっ・きょとん|	Understanding the situation with your eyes wide open|
+|ぐっ|	Receiving a strong blow to your heart|
+|げー・げっ|	Observing unexpected things|
+|だー|	Surprised or dumbfounded|
+|どきっ・どきり・どっきり|	Heart racing from excitement, fear, or anticipation|
+|ぱちくり|	Blinking rapidly from surprise|
+|はっ|	Suddenly noticing something and being surprised by it|
+|ひー|	A cry of excitement, fear, or pain|
+|ぴくっ・びくり|	Trembling from a momentary fear|
+|ひっ|	Holding your breath out of shock|
+|ひっく|	Terribly surprised|
+|びっくら・びっくり|	Surprised by something sudden or unexpected|
+|ひやっ・ひやり|	Momentarily feeling like something bad is about to happen|
 
 #### FLUSTERED, IMPATIENT, AND UNABLE TO CALM DOWN
 
 |Japanese|	English|
 | --- | --- |
-|あくせく（齷齪）	Feeling like you don't have enough time
-あたふた	Running around in a hurry
-あっぷあっぷ	Struggling and gasping for breath, about to drown
-あわあわ	Losing time or a grasp on your senses
-いそいそ	Exhilarated and enthusiastic
-いらいら	Unable to do things at your own pace, rushed and in a hurry
-うきうき	Excited because of joy or hope, cheerful
-うずうず・むずむず	Itching to do something, impatient to start something
-おたおた	Flustered or panicked by something suddenly, shocked speechless
-おどおど	Hesitating or faltering with nervousness or anger
-おろおろ	Unable to move from surprise or anxiety
-がさがさ	Noisy and unable to calm down
-ぎゃっ	Shouting unintentionally in confusion
-きろきろ	An expression lacking calmness or stability
-じたばた	Impatiently squirming
-しどもど	Confused and incoherent
-しどろもどろ	The subject and words spoken are unclear, incoherent
-じりじり	Running out of patience
-せかせか	Feeling impatient and that you're being hurried
-せこせこ・こせこせ	Making a big deal out of nothing
-そそくさ	Feeling like you're in a hurry to finish
-そわそわ	Fidgeting from anxiety
-ちゃかちゃか	Unable to steady your movements or actions
-どきどき	Your heart beating faster from worry or fear
-どぎまぎ	Flustered that someone sees right through you
-どたばた	Noisily rushing around doing things
-ばたばた	Hurrying around getting things done
-はらはら	Nervous or worried about something, on edge
-びくびく	Trembling from anxiety or anger
-やきもき	Unable to calm down from worry or impatience
-わくわく	Excited from anticipation, pleasure, or happiness
-わさわさ	Unable to concentrate or calm down
+|あくせく（齷齪）|	Feeling like you don't have enough time|
+|あたふた|	Running around in a hurry|
+|あっぷあっぷ|	Struggling and gasping for breath, about to drown|
+|あわあわ|	Losing time or a grasp on your senses|
+|いそいそ|	Exhilarated and enthusiastic|
+|いらいら|	Unable to do things at your own pace, rushed and in a hurry|
+|うきうき|	Excited because of joy or hope, cheerful|
+|うずうず・むずむず|	Itching to do something, impatient to start something|
+|おたおた|	Flustered or panicked by something suddenly, shocked speechless|
+|おどおど|	Hesitating or faltering with nervousness or anger|
+|おろおろ|	Unable to move from surprise or anxiety|
+|がさがさ|	Noisy and unable to calm down|
+|ぎゃっ|	Shouting unintentionally in confusion|
+|きろきろ|	An expression lacking calmness or stability|
+|じたばた|	Impatiently squirming|
+|しどもど|	Confused and incoherent|
+|しどろもどろ|	The subject and words spoken are unclear, incoherent|
+|じりじり|	Running out of patience|
+|せかせか|	Feeling impatient and that you're being hurried|
+|せこせこ・こせこせ|	Making a big deal out of nothing|
+|そそくさ|	Feeling like you're in a hurry to finish|
+|そわそわ|	Fidgeting from anxiety|
+|ちゃかちゃか|	Unable to steady your movements or actions|
+|どきどき|	Your heart beating faster from worry or fear|
+|どぎまぎ|	Flustered that someone sees right through you|
+|どたばた|	Noisily rushing around doing things|
+|ばたばた|	Hurrying around getting things done|
+|はらはら|	Nervous or worried about something, on edge|
+|びくびく|	Trembling from anxiety or anger|
+|やきもき|	Unable to calm down from worry or impatience|
+|わくわく|	Excited from anticipation, pleasure, or happiness|
+|わさわさ|	Unable to concentrate or calm down|
 
 #### HESITATING AND FALTERING
 
 |Japanese|	English|
 | --- | --- |
-|いじいじ	Unsure of your behavior or actions
-うじうじ	Unable to be proactive or make a decision
-おずおず	Faltering or hesitating from anger or nervousness
-ぐだぐだ	Acting slow out of unwillingness or laziness
-くよくよ	Restlessness from worries or regrets
-くらくら	Unsure of what decision to make due to temptation
-ぐらぐら	Unsure due to weak resolution, indecisiveness
-たじたじ	Hesitating because someone is coercing you
-まごまご	Losing your head because you don't know what to do
-もじもじ	Unable to make decisions because of embarrassment or shyness
+|いじいじ|	Unsure of your behavior or actions|
+|うじうじ|	Unable to be proactive or make a decision|
+|おずおず|	Faltering or hesitating from anger or nervousness|
+|ぐだぐだ|	Acting slow out of unwillingness or laziness|
+|くよくよ|	Restlessness from worries or regrets|
+|くらくら|	Unsure of what decision to make due to temptation|
+|ぐらぐら|	Unsure due to weak resolution, indecisiveness|
+|たじたじ|	Hesitating because someone is coercing you|
+|まごまご|	Losing your head because you don't know what to do|
+|もじもじ|	Unable to make decisions because of embarrassment or shyness|
 
 #### THINKING AND FEELING
 
 |Japanese|	English|
 | --- | --- |
-|うっとり	Being fascinated by something beautiful, spellbound
-きゅーん	Feeling a tightness or pressure in the your chest from sadness or grief
-きゅん	A tightening in your chest for a moment from strong feelings
-さめざめ	Sorrowful, bitter feelings
-じーん	Slowly becoming impressed, moved, or touched by something
-じーっ	Thinking deeply and quietly
-じん	Being so touched by something that you're almost moved to tears
-しんみ	Feeling pity and a little sad for someone
-ぞっ	Strongly moved by something and that feeling runs through your body
-つくづく	Believing something from the bottom of your heart
-つらつら	Thinking about something for a long time
-ぴーん	Suddenly thinking of an idea
-ぴぴっ・ぴん	Strong instincts or intuition
-ほろり	Feeling sympathy for someone
-むくむく	A feeling or idea that suddenly came up
-もやもや	Worrying or wondering what to do
+|うっとり|	Being fascinated by something beautiful, spellbound|
+|きゅーん|	Feeling a tightness or pressure in the your chest from sadness or grief|
+|きゅん|	A tightening in your chest for a moment from strong feelings|
+|さめざめ|	Sorrowful, bitter feelings|
+|じーん|	Slowly becoming impressed, moved, or touched by something|
+|じーっ|	Thinking deeply and quietly|
+|じん|	Being so touched by something that you're almost moved to tears|
+|しんみ|	Feeling pity and a little sad for someone|
+|ぞっ|	Strongly moved by something and that feeling runs through your body|
+|つくづく|	Believing something from the bottom of your heart|
+|つらつら|	Thinking about something for a long time|
+|ぴーん|	Suddenly thinking of an idea|
+|ぴぴっ・ぴん|	Strong instincts or intuition|
+|ほろり|	Feeling sympathy for someone|
+|むくむく|	A feeling or idea that suddenly came up|
+|もやもや|	Worrying or wondering what to do|
 
 #### HURT AND PAIN
 
 |Japanese|	English|
 | --- | --- |
-|いがいが	An itchiness or tickle in your throat
-いらいら・ひりひり	An irritation in your throat or on your skin from pain or hot food
-うずうず	Feeling a continuous dull pain
-がんがん	Pain or noise echoing in your head
-きりきり	A stomachache with sharp pains
-ぎんぎん	Head constantly aching badly
-ぐさぐさ	Receiving a blow to the heart from cold words
-ぐさっ・ぐさり	The psychological wounds from someone's words
-ごろごろ	The ache of something getting in your eye
-じーん	The sensation of pain or cold
-しく	Stabbing pain from a bug
-しくしく	Continuous spasms of dull pain
-しくりしくり	Prickling pain over and over
-じん	Numb or sleeping limbs
-じんじん	Continuous pain and numbness from the afflicted area
-ずきずき・ずんずん	Throbbing, grinding pain
-ずきっ・ずきり・ずきん	Sudden, violent, traveling and throbbing pain
-ずきんずきん	Continuous throbbing pain
-ちかちか	Flashing pain in your eyes
-ちくちく	A stabbing pain like needles over and over, prickling
-ちくっ・ちくり・ちくん	A sudden stabbing pain from a needle or a bug
-ちりちり	A cut or skin that feel like it's burning
-どきんどきん・どっきどっき・どっきんどっきん	Violent throbbing
-びーん	Numbness or itchiness spreading through your body
-ぴきぴき	Twitching and on edge
-ひりっ・ぴりっ	Feeling a sudden itch, pain, or hot taste
-びりびり・ぴりぴり	Feeling a continued pain or irritation
-ひりり	Feeling a pain from something for a moment, tingling, irritation
-びりり・ぴりり	Numb from a momentary stimulus, tingling, stinging
-むずむず・もぞもぞ	Feeling itchy like you were bitten by, or have bugs on you
+|いがいが|	An itchiness or tickle in your throat|
+|いらいら・ひりひり|	An irritation in your throat or on your skin from pain or hot food|
+|うずうず|	Feeling a continuous dull pain|
+|がんがん|	Pain or noise echoing in your head|
+|きりきり|	A stomachache with sharp pains|
+|ぎんぎん|	Head constantly aching badly|
+|ぐさぐさ|	Receiving a blow to the heart from cold words|
+|ぐさっ・ぐさり|	The psychological wounds from someone's words|
+|ごろごろ|	The ache of something getting in your eye|
+|じーん|	The sensation of pain or cold|
+|しく|	Stabbing pain from a bug|
+|しくしく|	Continuous spasms of dull pain|
+|しくりしくり|	Prickling pain over and over|
+|じん|	Numb or sleeping limbs|
+|じんじん|	Continuous pain and numbness from the afflicted area|
+|ずきずき・ずんずん|	Throbbing, grinding pain|
+|ずきっ・ずきり・ずきん|	Sudden, violent, traveling and throbbing pain|
+|ずきんずきん|	Continuous throbbing pain|
+|ちかちか|	Flashing pain in your eyes|
+|ちくちく|	A stabbing pain like needles over and over, prickling|
+|ちくっ・ちくり・ちくん|	A sudden stabbing pain from a needle or a bug|
+|ちりちり|	A cut or skin that feel like it's burning|
+|どきんどきん・どっきどっき・どっきんどっきん|	Violent throbbing|
+|びーん|	Numbness or itchiness spreading through your body|
+|ぴきぴき|	Twitching and on edge|
+|ひりっ・ぴりっ|	Feeling a sudden itch, pain, or hot taste|
+|びりびり・ぴりぴり|	Feeling a continued pain or irritation|
+|ひりり|	Feeling a pain from something for a moment, tingling, irritation|
+|びりり・ぴりり|	Numb from a momentary stimulus, tingling, stinging|
+|むずむず・もぞもぞ|	Feeling itchy like you were bitten by, or have bugs on you|
 
 ### PERSONALITY AND DISPOSITION
 #### UNCONCERNED AND COMPOSED
