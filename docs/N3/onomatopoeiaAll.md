@@ -968,26 +968,26 @@
 
 |Japanese|	English|
 | --- | --- |
-|あっけらかん	Without any hesitation
-おっとり	So calm that it seems like time is passing slower than normal
-おめおめ	Without hesitation, calmly
-がっちり	Shrewdly, being pushy
-けりけろ・けろっ・けろり	As if nothing happened, nonchalantly
-さばさば	Without attachment or seriousness
-しゃーしゃー	Shamelessly not feeling that embarrassing things are actually embarrassing
-しらっ・しれっ	Acting as if something is not a big deal at all
-ずかずか	Being nosy, acting and saying things without any hesitation
-ずけずけ	Saying something that could hurt someone else, blunt
-ちゃっかり	Acting shrewd but still well liked, cheeky
-つけつけ	Saying and doing things without reserve, rude
-ぬくぬく	Doing well on your own, carefree and successful
-ぬけぬけ	Acting like you didn't do (something negative) and it is obvious to other people, shamelessly
-のーのー	Without any worries or concerns
-のこのこ	Showing up without any knowledge or understanding of what is going on
-のほほん	Carefree, without worries or concerns
-のんびり	Mentally and physically relaxed
-はっきり	Showing your feelings very clearly
-やいやい	Loudly bothering other people for things, pestering people
+|あっけらかん|	Without any hesitation|
+|おっとり|	So calm that it seems like time is passing slower than normal|
+|おめおめ|	Without hesitation, calmly|
+|がっちり|	Shrewdly, being pushy|
+|けりけろ・けろっ・けろり|	As if nothing happened, nonchalantly|
+|さばさば|	Without attachment or seriousness|
+|しゃーしゃー|	Shamelessly not feeling that embarrassing things are actually embarrassing|
+|しらっ・しれっ|	Acting as if something is not a big deal at all|
+|ずかずか|	Being nosy, acting and saying things without any hesitation|
+|ずけずけ|	Saying something that could hurt someone else, blunt|
+|ちゃっかり|	Acting shrewd but still well liked, cheeky|
+|つけつけ|	Saying and doing things without reserve, rude|
+|ぬくぬく|	Doing well on your own, carefree and successful|
+|ぬけぬけ|	Acting like you didn't do (something negative) and it is obvious to other people, shamelessly|
+|のーのー|	Without any worries or concerns|
+|のこのこ|	Showing up without any knowledge or understanding of what is going on|
+|のほほん|	Carefree, without worries or concerns|
+|のんびり|	Mentally and physically relaxed|
+|はっきり|	Showing your feelings very clearly|
+|やいやい|	Loudly bothering other people for things, pestering people|
 
 #### ENERGETIC
 
