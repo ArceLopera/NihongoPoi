@@ -993,55 +993,55 @@
 
 |Japanese|	English|
 | --- | --- |
-|ぎんぎん	Full of energy and very mobile
-しゃきしゃき	Dealing with tasks quickly and efficiently
-しゃき・しゃっきり	Feeling brisk and lively in both body and mind
-しゃん	Both your movement and thoughts are logical and stable
-しゃんしゃん	Energetically going about your daily tasks
-すくすく	Children growing up without complications
-ちゃきちゃき	Doing things quickly, cheerfully, and efficiently
-ぴかぴか・ぴっかぴか	A new life shining with hope and happiness
-ぴちぴち	Young and healthy, or a fresh, lively fish
-ぴんぴん	Energetic and lively
-ぶいぶい	Energetic and powerful
-もりもり	Bursting with energy and motivation
+|ぎんぎん|	Full of energy and very mobile|
+|しゃきしゃき|	Dealing with tasks quickly and efficiently|
+|しゃき・しゃっきり|	Feeling brisk and lively in both body and mind|
+|しゃん|	Both your movement and thoughts are logical and stable|
+|しゃんしゃん|	Energetically going about your daily tasks|
+|すくすく|	Children growing up without complications|
+|ちゃきちゃき|	Doing things quickly, cheerfully, and efficiently|
+|ぴかぴか・ぴっかぴか|	A new life shining with hope and happiness|
+|ぴちぴち|	Young and healthy, or a fresh, lively fish|
+|ぴんぴん|	Energetic and lively|
+|ぶいぶい|	Energetic and powerful|
+|もりもり|	Bursting with energy and motivation|
 
 ### PHYSIQUE AND FIGURE
 #### FAT AND ROBUST
 
 |Japanese|	English|
 | --- | --- |
-|ころころ	Plump and overweight
-ずんぐり	Short and overweight
-ずんぐりむっくり	Getting fat, gaining weight, swelling
-だぶだぶ	Fat, loose and baggy
-でっぷり	Getting fat or flabby around your stomach and waist
-でぶでぶ	Shamefully getting fatter
-ぶくんぶくん	Getting big and flabby
-ぶよぶよ	Getting way too fat and soft and flabby
-ぽちゃっ	A chubby face and body
-ぼちゃぼちゃ	Getting chubby and cute
-ぽちゃぽちゃ	Chubby, just a little fat
-ぽっちゃり	Lovely chubby and cute
-ぼってり	Heavy and fat
-ぽってり	Chubby and adorable
-ぽてっ	So fat it looks like your head is just riding your body
-ぼてぼて	Having undesirable fat on your body
-ぽてぽて	Plump like a baby with supple skin
-むちっ・むちむち・むっちり	Supple skin and plenty of flesh in all the right places
-がしっ・がっしり・がっちり	A study body or bone structure
-ぼんきゅぼん	Nice proportions: ぼん big breasts きゅ tight waist ぼん big butt
-もりもり	Bulging muscles, looking strong
+|ころころ|	Plump and overweight|
+|ずんぐり|	Short and overweight|
+|ずんぐりむっくり|	Getting fat, gaining weight, swelling|
+|だぶだぶ|	Fat, loose and baggy|
+|でっぷり|	Getting fat or flabby around your stomach and waist|
+|でぶでぶ|	Shamefully getting fatter|
+|ぶくんぶくん|	Getting big and flabby|
+|ぶよぶよ|	Getting way too fat and soft and flabby|
+|ぽちゃっ|	A chubby face and body|
+|ぼちゃぼちゃ|	Getting chubby and cute|
+|ぽちゃぽちゃ|	Chubby, just a little fat|
+|ぽっちゃり|	Lovely chubby and cute|
+|ぼってり|	Heavy and fat|
+|ぽってり|	Chubby and adorable|
+|ぽてっ|	So fat it looks like your head is just riding your body|
+|ぼてぼて|	Having undesirable fat on your body|
+|ぽてぽて|	Plump like a baby with supple skin|
+|むちっ・むちむち・むっちり|	Supple skin and plenty of flesh in all the right places|
+|がしっ・がっしり・がっちり|	A study body or bone structure|
+|ぼんきゅぼん|	Nice proportions: ぼん big breasts きゅ tight waist ぼん big butt|
+|もりもり|	Bulging muscles, looking strong|
 
 #### THIN
 
 
 |Japanese|	English|
 | --- | --- |
-|がりがり	So thin that you can see their bones, skin and bones
-すらっ・すらり	Long, slender, and well proportioned
-ひょろっ・ひょろひょろ・ひょろり・ひょろん	Lanky, thin and tall
-ほっそり	Slim and slender figure
+|がりがり|	So thin that you can see their bones, skin and bones|
+|すらっ・すらり|	Long, slender, and well proportioned|
+|ひょろっ・ひょろひょろ・ひょろり・ひょろん|	Lanky, thin and tall|
+|ほっそり|	Slim and slender figure|
 
 ### MOVING AND CHANGING
 #### ADVANCING AND MOVING
@@ -1049,299 +1049,299 @@
 
 |Japanese|	English|
 | --- | --- |
-|がーっ	Forcefully moving
-ががっ	Advancing with great force
-がくりがくり	Suddenly moving and then going back
-がくんがくん	Drastic, jerking motions
-がんがん	Pushing forward, without paying any attention to your surroundings
-ぐいぐい	Pushing forward, as if you're being pulled
-ぐんぐん	Gradually speeding up while advancing
-さくさく	Things going forward without delay
-さっさっ	Moving on willingly, without any hangups
-さらさら	Things moving forward quickly and smoothly
-じゃんじゃん	Things moving forward and making progress
-じりじり	Slowly approaching someone
-ずい	Entering the inside of a house unreservedly
-すいすい	Feeling comfortable moving forward without resistance, unhindered
-すーっ	Quiet things moving forward
-ずかずか	Rudely entering into someone else's area or space
-すっ	Moving quickly and quietly
-ずっ	Things pressing forward even more
-すっすっ	Things advancing without difficulty
-ずっずっ・ずんずん	Things strongly pressing forward
-すらすら・するする	Smoothly advancing without delay
-すんなり	To calmly advance without resistance
-そろそろ	Gradually progressing to a certain state
-だー	Running swiftly, with force
-たったっ	Flying through the minor details
-だっだっ	Moving forward, maintaining force
-ついつい	Advancing against your better judgement
-つかつか	Striding toward something without hesitation
-てきぱき	A matter that progresses quickly
-どしどし	Moving purposefully and proactively
-どんどこ	Moving something forward without hesitating
-とんとん	Things continuing to go well for a while
-どんどん・ばんばん	Forcefully moving forward without hesitating
-ほいほい	Advancing willingly
-ぽちぽち・ぼつぼつ	Steadily progressing, gradually
-めきめき・めっきり	Visably making rapid progress
+|がーっ|	Forcefully moving|
+|ががっ|	Advancing with great force|
+|がくりがくり|	Suddenly moving and then going back|
+|がくんがくん|	Drastic, jerking motions|
+|がんがん|	Pushing forward, without paying any attention to your surroundings|
+|ぐいぐい|	Pushing forward, as if you're being pulled|
+|ぐんぐん|	Gradually speeding up while advancing|
+|さくさく|	Things going forward without delay|
+|さっさっ|	Moving on willingly, without any hangups|
+|さらさら|	Things moving forward quickly and smoothly|
+|じゃんじゃん|	Things moving forward and making progress|
+|じりじり|	Slowly approaching someone|
+|ずい|	Entering the inside of a house unreservedly|
+|すいすい|	Feeling comfortable moving forward without resistance, unhindered|
+|すーっ|	Quiet things moving forward|
+|ずかずか|	Rudely entering into someone else's area or space|
+|すっ|	Moving quickly and quietly|
+|ずっ|	Things pressing forward even more|
+|すっすっ|	Things advancing without difficulty|
+|ずっずっ・ずんずん|	Things strongly pressing forward|
+すらすら・するする|	Smoothly advancing without delay|
+|すんなり|	To calmly advance without resistance|
+|そろそろ|	Gradually progressing to a certain state|
+|だー|	Running swiftly, with force|
+|たったっ|	Flying through the minor details|
+|だっだっ|	Moving forward, maintaining force|
+|ついつい|	Advancing against your better judgement|
+|つかつか|	Striding toward something without hesitation|
+|てきぱき|	A matter that progresses quickly|
+|どしどし|	Moving purposefully and proactively|
+|どんどこ|	Moving something forward without hesitating|
+|とんとん|	Things continuing to go well for a while|
+|どんどん・ばんばん|	Forcefully moving forward without hesitating|
+|ほいほい|	Advancing willingly|
+|ぽちぽち・ぼつぼつ|	Steadily progressing, gradually|
+|めきめき・めっきり|	Visably making rapid progress|
 
 
 #### FALLING AND DROPPING
 
 |Japanese|	English|
 | --- | --- |
-|かたん・かたり	Something light and hard falling or dropping
-がたん・がたり	Something heavy suddenly falling or dropping
-がらがら	Heavy things falling or collapsing one after another
-ことり・ことん	Light things falling or collapsing
-ごとり・ごとん	Heavy things falling or collapsing
-すとん	Falling straight down
-たらたら	Liquid rolling down, dripping
-ちゃぽん	Something falling into water
-ちゃぽっ	Something falling and hitting water
-ちらちら	Snow or flowers fluttering as they fall
-とーん	Something falls and bounces
-どかっ	A big lump or chunk of something falling all at once
-どかどか	Something heavy continuously falling
-どかり	Something heavy falling or hitting
-どさっ・どさり・どさん・どたり・どたん	A big, heavy thing falling all at once
-どさどさ	Heavy things falling one after another
-どすん	A huge, heavy thing falling and crashing
-ばさっ・ばさり	Something like a vacant body falling
-ぱさっ・ぱさり	Something like an unrolled paper falling
-ばたっ	Something heavy forcefully falling
-はたり・ぱたり	Something light falling
-ばっばっ	Lots of things forcefully scattering
-はらっ	Paper or leaves scattering
-ぱらっ	Rain or leaves thinly falling
-はらはら	Tears or petals falling one by one
-ばらばら	Finely falling, falling in pieces
-ぱらぱら	Rain, hail, or leaves falling sparsely
-はらり・ぱらり	Something light falling
-ばらり	Falling while feeling heavy or important
-ぼたっ・ぽたっ・ぼたり・ぽたり・ぽとっ	A drop of water or a liquid falling
-ぼたぼた・ぽとぽと	Large drops of liquid rolling or trickling down one by one
-ぽたぽた・ぽとぽと	Small drops continuously falling
-ぼたん・ぽたん	Drops of water falling from a high place
-ぽちゃっ	Something that seems to break when it falls
-ぽちゃん	Something small falling into liquid
-ぽつり	A single drop of rain falling
-ぽてっ	Dropping something carelessly
-ぼとり・ぼとん	A thing or liquid dropping heavily
-ぽとり・ぽとん	A thing or drop of water dropping lightly
-ぽとりぽとり	Falling one by one after a pause
-ほろっ・ほろり	A single tear spilling over and falling
-ぼろっ・ぼろり	A thing inadvertently falling
-ほろほろ	Tears or drops of water flowing
-ぼろぼろ	Something granular falling in large quantities
-ぽろぽろ	Tears or grains of rice spilling and falling all over
-ほろりほろり	Tears, flowers, or leaves continuously falling
-ぽろりぽろり	Tears or liquids falling in intervals
-ぽろん	Something falling too quickly
+|かたん・かたり|	Something light and hard falling or dropping|
+|がたん・がたり|	Something heavy suddenly falling or dropping|
+|がらがら|	Heavy things falling or collapsing one after another|
+|ことり・ことん|	Light things falling or collapsing|
+|ごとり・ごとん|	Heavy things falling or collapsing|
+|すとん|	Falling straight down|
+|たらたら|	Liquid rolling down, dripping|
+|ちゃぽん|	Something falling into water|
+|ちゃぽっ|	Something falling and hitting water|
+|ちらちら|	Snow or flowers fluttering as they fall|
+|とーん|	Something falls and bounces|
+|どかっ|	A big lump or chunk of something falling all at once|
+|どかどか|	Something heavy continuously falling|
+|どかり|	Something heavy falling or hitting|
+|どさっ・どさり・どさん・どたり・どたん|	A big, heavy thing falling all at once|
+|どさどさ|	Heavy things falling one after another|
+|どすん|	A huge, heavy thing falling and crashing|
+|ばさっ・ばさり|	Something like a vacant body falling|
+|ぱさっ・ぱさり|	Something like an unrolled paper falling|
+|ばたっ|	Something heavy forcefully falling|
+|はたり・ぱたり|	Something light falling|
+|ばっばっ|	Lots of things forcefully scattering|
+|はらっ|	Paper or leaves scattering|
+|ぱらっ|	Rain or leaves thinly falling|
+|はらはら|	Tears or petals falling one by one|
+|ばらばら|	Finely falling, falling in pieces|
+|ぱらぱら|	Rain, hail, or leaves falling sparsely|
+|はらり・ぱらり|	Something light falling|
+|ばらり|	Falling while feeling heavy or important|
+|ぼたっ・ぽたっ・ぼたり・ぽたり・ぽとっ|	A drop of water or a liquid falling|
+|ぼたぼた・ぽとぽと|	Large drops of liquid rolling or trickling down one by one|
+|ぽたぽた・ぽとぽと|	Small drops continuously falling|
+|ぼたん・ぽたん|	Drops of water falling from a high place|
+|ぽちゃっ|	Something that seems to break when it falls|
+|ぽちゃん|	Something small falling into liquid|
+|ぽつり|	A single drop of rain falling|
+|ぽてっ|	Dropping something carelessly|
+|ぼとり・ぼとん|	A thing or liquid dropping heavily|
+|ぽとり・ぽとん|	A thing or drop of water dropping lightly|
+|ぽとりぽとり|	Falling one by one after a pause|
+|ほろっ・ほろり|	A single tear spilling over and falling|
+|ぼろっ・ぼろり|	A thing inadvertently falling|
+|ほろほろ|	Tears or drops of water flowing|
+|ぼろぼろ|	Something granular falling in large quantities|
+|ぽろぽろ|	Tears or grains of rice spilling and falling all over|
+|ほろりほろり|	Tears, flowers, or leaves continuously falling|
+|ぽろりぽろり|	Tears or liquids falling in intervals|
+|ぽろん|	Something falling too quickly|
 
 #### BREAKING AND BENDING
 
 
 |Japanese|	English|
 | --- | --- |
-|がくり・がっくり	Suddenly bending strongly back and forth
-かくん・かっくん	Suddenly bending back and forth and disconnecting
-ぎくしゃく	Sharply bending back and forth
-ぎくっ・ぎくり	Something suddenly bending back and forth
-ぎくん	Sudden, violent bending back and forth
-ぐきり	Breaking or spraining a leg, breaking a stick
-ばきっ・ばきん	Something hard and slim suddenly breaking
-ぱきっ・ぱきん	Something thin breaking
-ばきばき	Something dry forcefully breaking
-ぱきぱき	Thin things breaking one after another
-ぱしぱし	Something hard and slim bending back and forth
-ぱちり	Something hard breaking
-びしっ・びしり	Something small and thin folding or breaking
-ぴしっ	A small break or crack
-ぼきっ・ぼきり	A small cylindrical thing breaking
-ぽきっ・ぽきり	A hard, light, cylindrical thing breaking
-ぼきぼき	Hard cylindrical things breaking over and over
-ぽきぽき	Light cylindrical things breaking over and over
-ぼきん	A hard cylindrical thing completely breaking
-ぽきん	A light cylindrical thing completely breaking
-ぼくっ	Strong hitting or breaking
-ぽちぽち	Dead branches or twigs breaking one after another
-ぽっきり	Snapping cleanly
+|がくり・がっくり|	Suddenly bending strongly back and forth|
+|かくん・かっくん|	Suddenly bending back and forth and disconnecting|
+|ぎくしゃく|	Sharply bending back and forth|
+|ぎくっ・ぎくり|	Something suddenly bending back and forth|
+|ぎくん|	Sudden, violent bending back and forth|
+|ぐきり|	Breaking or spraining a leg, breaking a stick|
+|ばきっ・ばきん|	Something hard and slim suddenly breaking|
+|ぱきっ・ぱきん|	Something thin breaking|
+|ばきばき|	Something dry forcefully breaking|
+|ぱきぱき|	Thin things breaking one after another|
+|ぱしぱし|	Something hard and slim bending back and forth|
+|ぱちり|	Something hard breaking|
+|びしっ・びしり|	Something small and thin folding or breaking|
+|ぴしっ|	A small break or crack|
+|ぼきっ・ぼきり|	A small cylindrical thing breaking|
+|ぽきっ・ぽきり|	A hard, light, cylindrical thing breaking|
+|ぼきぼき|	Hard cylindrical things breaking over and over|
+|ぽきぽき|	Light cylindrical things breaking over and over|
+|ぼきん|	A hard cylindrical thing completely breaking|
+|ぽきん|	A light cylindrical thing completely breaking|
+|ぼくっ|	Strong hitting or breaking|
+|ぽちぽち|	Dead branches or twigs breaking one after another|
+|ぽっきり|	Snapping cleanly|
 
 
 #### SHAKING AND SWAYING
 
 |Japanese|	English|
 | --- | --- |
-|うつらうつら	Swaying slowly
-がたがた	Something heavy swaying unstably
-がくん	A sudden, violent shake
-ぐずり	A heavy, shaking movement
-くらくら	Shaking unstably from dizziness
-ぐらぐら	Huge, irregular, continuous shaking
-くらっ・くらり	A sudden, big shake
-ぐらっ・ぐらり	A sudden, huge shake for just a moment
-くらりくらり	Repeatedly shaking in a big way
-ぐらりぐらり	Huge, slow shaking movements
-ぐりぐり	Rubbing your elbow into someone's shoulders
-ごとごと	The even swaying of a train car
-じわじわ	Swaying in small degrees
-たぽたぽ	Liquid sloshing in a container
-たぷたぷ	Something big swaying
-だらりだらり	Something long swaying loosely
-ちょろちょろ	Shaking little by little, trembling
-とぷんとぷん	Water in a container swaying
-びろびろ	Flicking cloth or your tongue
-ふよふよ	Something light quietly swaying
-ふらふら	Shaking from loss of your body's equilibrium
-ぶらぶら	Something hanging and swaying, dangling
-ぷらぷら	Something light swaying in the wind
-ふらりふらり	Slowly swaying in a big way
-ぶらりぶらり	Heavily, continuously slowly swaying
-ぷらりぷらり	Lightly, continuously, slowly swaying
-ぶらん	Heavily hanging down and dangling
-ぶらんぶらん	Dangling, or swinging legs back and forth
-ぶるぶる・ぶるる・ぶるん	Vibrating and shaking
-ぷるる・ぷるん	Vibrating a little
-ぷるんぷるん	Trembling slightly
-へらへら	Fluttering
-ぺらぺら	Flipping something thin, usually pages
-ぽよぽよ	Shaking flexibly
-ゆさゆさ	Something large swaying
-ゆさり	Something large swaying
-ゆさりゆさり	Something large swaying over and over
-ゆっさゆっさ	Something big and heavy swaying
-ゆらっ	One, huge sway or shaking movement
-ゆらゆら	Shaking over and over
-ゆらり	Shaking lightly and slowly, once
-ゆらりゆらり	Loosely swaying over and over
-よろりよろり	Legs swinging while crossed
+|うつらうつら|	Swaying slowly|
+|がたがた|	Something heavy swaying unstably|
+|がくん|	A sudden, violent shake|
+|ぐずり|	A heavy, shaking movement|
+|くらくら|	Shaking unstably from dizziness|
+|ぐらぐら|	Huge, irregular, continuous shaking|
+|くらっ・くらり|	A sudden, big shake|
+|ぐらっ・ぐらり|	A sudden, huge shake for just a moment|
+|くらりくらり|	Repeatedly shaking in a big way|
+|ぐらりぐらり|	Huge, slow shaking movements|
+|ぐりぐり|	Rubbing your elbow into someone's shoulders|
+|ごとごと|	The even swaying of a train car|
+|じわじわ|	Swaying in small degrees|
+|たぽたぽ|	Liquid sloshing in a container|
+|たぷたぷ|	Something big swaying|
+|だらりだらり|	Something long swaying loosely|
+|ちょろちょろ|	Shaking little by little, trembling|
+|とぷんとぷん|	Water in a container swaying|
+|びろびろ|	Flicking cloth or your tongue|
+|ふよふよ|	Something light quietly swaying|
+|ふらふら|	Shaking from loss of your body's equilibrium|
+|ぶらぶら|	Something hanging and swaying, dangling|
+|ぷらぷら|	Something light swaying in the wind|
+|ふらりふらり|	Slowly swaying in a big way|
+|ぶらりぶらり|	Heavily, continuously slowly swaying|
+|ぷらりぷらり|	Lightly, continuously, slowly swaying|
+|ぶらん|	Heavily hanging down and dangling|
+|ぶらんぶらん|	Dangling, or swinging legs back and forth|
+|ぶるぶる・ぶるる・ぶるん|	Vibrating and shaking|
+|ぷるる・ぷるん|	Vibrating a little|
+|ぷるんぷるん|	Trembling slightly|
+|へらへら|	Fluttering|
+|ぺらぺら|	Flipping something thin, usually pages|
+|ぽよぽよ|	Shaking flexibly|
+|ゆさゆさ|	Something large swaying|
+|ゆさり|	Something large swaying|
+|ゆさりゆさり|	Something large swaying over and over|
+|ゆっさゆっさ|	Something big and heavy swaying|
+|ゆらっ|	One, huge sway or shaking movement|
+|ゆらゆら|	Shaking over and over|
+|ゆらり|	Shaking lightly and slowly, once|
+|ゆらりゆらり|	Loosely swaying over and over|
+|よろりよろり|	Legs swinging while crossed|
 
 #### CUTTING
 
 
 |Japanese|	English|
 | --- | --- |
-|ざくざく	Chopping the stalks off of vegetables
-さくっ・さくり・さっくり	Cutting food with a sharp knife
-ざくっ・ざくり・ざっくり	Deeply plunging a blade into something
-ざぐり・ざっく	Hollowing something out by cutting into it
-じょきじょき	Cutting through thick cloth with scissors
-じょきり	Cutting cloth once with scissors
-すかすか	Cutting cleanly with a sharp blade
-ずきずき	Forcefully cutting something
-ずたずた	Something that's been cut many times, making it look worn or ragged
-すっぱり・すぱっ・すぱり	Completely cut off with a sharp blade
-すとん	Easily cut down
-ずばずば	Relentlessly cutting with a blade
-ずばり	Cutting through something at once
-ずばりずばり	Viciously cutting many times
-ちょきちょき	Cutting paper or plants with scissors
-ちょきん・ちょっきり	Completely cutting something off with scissors
-ばさり・ばっさり	Exaggeratedly cutting something off with a blade
-ばっさばっさ	Cutting people down one by one with a sword
-ばらり	Cutting a thread, group, or joint
-ぴちっ	Suddenly splitting open from being cut
-ぷすり	Cutting something like a thread or from a group
-びちっ	Suddenly, completely cut off
-ぷちっ	Suddenly, easily cutting something off
-ぶちぶち	Easily cutting something like soba
-ぷっつ	Something suddenly coming apart of disconnecting
-ぷつっ	Belt, rope, correspondence or suddenly being cut
-ふっつり	Severing ties with something or someone, once and for all
-ぷっつり	Completely cutting yourself from a group or a relationship
-ぶっつん	Violently severing ties
-ぷっつん	Being cut apart by something sharp
-ぶつぶつ	Cutting something into small pieces
-ぷつぷつ	Things getting torn to shreds
-ぶつり・ぶつん	Suddenly, completely cutting
-ぷつり・ぷつん	Speech or correspondence suddenly being cut off
-ぽっきり	Cleanly cut, or interrupted
-ぽつぽつ	Cut into small pieces or interrupted
-ぽつり	Suddenly cut down the middle
+|ざくざく|	Chopping the stalks off of vegetables|
+|さくっ・さくり・さっくり|	Cutting food with a sharp knife|
+|ざくっ・ざくり・ざっくり|	Deeply plunging a blade into something|
+|ざぐり・ざっく|	Hollowing something out by cutting into it|
+|じょきじょき|	Cutting through thick cloth with scissors|
+|じょきり|	Cutting cloth once with scissors|
+|すかすか|	Cutting cleanly with a sharp blade|
+|ずきずき|	Forcefully cutting something|
+|ずたずた|	Something that's been cut many times, making it look worn or ragged|
+|すっぱり・すぱっ・すぱり|	Completely cut off with a sharp blade|
+|すとん|	Easily cut down|
+|ずばずば|	Relentlessly cutting with a blade|
+|ずばり|	Cutting through something at once|
+|ずばりずばり|	Viciously cutting many times|
+|ちょきちょき|	Cutting paper or plants with scissors|
+|ちょきん・ちょっきり|	Completely cutting something off with scissors|
+|ばさり・ばっさり|	Exaggeratedly cutting something off with a blade|
+|ばっさばっさ|	Cutting people down one by one with a sword|
+|ばらり|	Cutting a thread, group, or joint|
+|ぴちっ|	Suddenly splitting open from being cut|
+|ぷすり|	Cutting something like a thread or from a group|
+|びちっ|	Suddenly, completely cut off|
+|ぷちっ|	Suddenly, easily cutting something off|
+|ぶちぶち|	Easily cutting something like soba|
+|ぷっつ|	Something suddenly coming apart of disconnecting|
+|ぷつっ|	Belt, rope, correspondence or suddenly being cut|
+|ふっつり|	Severing ties with something or someone, once and for all|
+|ぷっつり|	Completely cutting yourself from a group or a relationship|
+|ぶっつん|	Violently severing ties|
+|ぷっつん|	Being cut apart by something sharp|
+|ぶつぶつ|	Cutting something into small pieces|
+|ぷつぷつ|	Things getting torn to shreds|
+|ぶつり・ぶつん|	Suddenly, completely cutting|
+|ぷつり・ぷつん|	Speech or correspondence suddenly being cut off|
+|ぽっきり|	Cleanly cut, or interrupted|
+|ぽつぽつ|	Cut into small pieces or interrupted|
+|ぽつり|	Suddenly cut down the middle|
 
 #### RIPPING AND TEARING
 
 
 |Japanese|	English|
 | --- | --- |
-|ずたずた	Tearing to pieces over and over
-ばりっ	Something hard breaking or tearing
-ぱりっ	Something thin breaking or tearing
-ぱりぱり	Strong ripping and tearing
-ぱりぱり	Cloth or paper forcefully being torn
-びっ・ぴっ・びびっ	Forcefully tearing or peeling
-びりっ・ぴりっ	Forcefully tearing cloth or paper
-びりびり・ぴりぴり	Continuously splitting cloth or paper
-べりっ	Tearing and peeling at once
-ぺりっ	Forcefully tearing something thin
-べりべり	Ripping something thick over and over
-ぺりぺり	Ripping something thin over and over
-ぼろぼろ	Little tears in cloth
-めりっ・めりめり	Something brittle ripping, tearing, or breaking
+|ずたずた|	Tearing to pieces over and over|
+|ばりっ|	Something hard breaking or tearing|
+|ぱりっ|	Something thin breaking or tearing|
+|ぱりぱり|	Strong ripping and tearing|
+|ぱりぱり|	Cloth or paper forcefully being torn|
+|びっ・ぴっ・びびっ|	Forcefully tearing or peeling|
+|びりっ・ぴりっ|	Forcefully tearing cloth or paper|
+|びりびり・ぴりぴり|	Continuously splitting cloth or paper|
+|べりっ|	Tearing and peeling at once|
+|ぺりっ|	Forcefully tearing something thin|
+|べりべり|	Ripping something thick over and over|
+|ぺりぺり|	Ripping something thin over and over|
+|ぼろぼろ|	Little tears in cloth|
+|めりっ・めりめり|	Something brittle ripping, tearing, or breaking|
 
 #### STICKING
 
 |Japanese|	English|
 | --- | --- |
-|ちょこん・ちょん	Small things sticking together
-ぴたっ・ぴたり・ぴったり・ぴっちり	Completely stuck together with no gaps
-ぴたぴた	Sticking on after another
-びたり	On one side
-ぴたん・ぴたんぴたん	Sticking a stamp to something by pressing it down
-べたっ	Glued and sticking
-ぺたっ・ぺたん	Sticking completely to a flat surface
-べたり	Clinging together in a lump
-ぺたり	Sticking from being pressed down
-べたん	Sticking firmly
-ぺちょっ	Lightly pasting and sticking
-ぺったり	Lightly sticking to one surface
-ぺったんぺったん	Sticking and separating
-べっとり	Sticking something to one side
-ぺっとり	Sticking something mucousy to one side
+|ちょこん・ちょん|	Small things sticking together|
+|ぴたっ・ぴたり・ぴったり・ぴっちり|	Completely stuck together with no gaps|
+|ぴたぴた|	Sticking on after another|
+|びたり|	On one side|
+|ぴたん・ぴたんぴたん|	Sticking a stamp to something by pressing it down|
+|べたっ|	Glued and sticking|
+|ぺたっ・ぺたん|	Sticking completely to a flat surface|
+|べたり|	Clinging together in a lump|
+|ぺたり|	Sticking from being pressed down|
+|べたん|	Sticking firmly|
+|ぺちょっ|	Lightly pasting and sticking|
+|ぺったり|	Lightly sticking to one surface|
+|ぺったんぺったん|	Sticking and separating|
+|べっとり|	Sticking something to one side|
+|ぺっとり|	Sticking something mucousy to one side|
 
 #### PIERCING AND STABBING
 
 |Japanese|	English|
 | --- | --- |
-|ぐさぐさ	Deeply stabbing with a blade over and over
-ぐさっ・ぐさり	Stabbing deeply once with a blade
-ずばっ	Being pierced by an arrow or a spear
-ずばりずばり	Sharply stabbing in your vitals or your core
-ずぶずぶ	Something soft being pierced
-ずぶっ・ずぶり	Being stabbed at the base with a blade
-ちくちく・ちくりちくり	Repeatedly stabbed with something like needles
-ちくっ・ちくり・ちくん	Stabbed once with something like a needle
-つん	Lightly poked once
-つんつん	Lightly poked over and over
-ぶすっ・ぷすっ・ぶすり・ぷすり	Stabbing something soft
-ぶすぶす・ぷすぷす	Stabbing over and over
-ぶすりぶすり	Continuously stabbing with a blade
-ぶつっ	Sudden, forceful stabbing
-ぶっつり	A blade forcefully stabbing
-ぶつぶつ	Making a hole using something sharp over and over
-ぷつぷつ	Making lots of hole with something sharp
-ぶつり・ぷつり	Stabbing with something sharp or tapered
+|ぐさぐさ|	Deeply stabbing with a blade over and over|
+|ぐさっ・ぐさり|	Stabbing deeply once with a blade|
+|ずばっ|	Being pierced by an arrow or a spear|
+|ずばりずばり|	Sharply stabbing in your vitals or your core|
+|ずぶずぶ|	Something soft being pierced|
+|ずぶっ・ずぶり|	Being stabbed at the base with a blade|
+|ちくちく・ちくりちくり|	Repeatedly stabbed with something like needles|
+|ちくっ・ちくり・ちくん|	Stabbed once with something like a needle|
+|つん|	Lightly poked once|
+|つんつん|	Lightly poked over and over|
+|ぶすっ・ぷすっ・ぶすり・ぷすり|	Stabbing something soft|
+|ぶすぶす・ぷすぷす|	Stabbing over and over|
+|ぶすりぶすり|	Continuously stabbing with a blade|
+|ぶつっ|	Sudden, forceful stabbing|
+|ぶっつり|	A blade forcefully stabbing|
+|ぶつぶつ|	Making a hole using something sharp over and over|
+|ぷつぷつ|	Making lots of hole with something sharp|
+|ぶつり・ぷつり|	Stabbing with something sharp or tapered|
 
 #### BENDING, FOLDING, AND CRUMPLING
 
 |Japanese|	English|
 | --- | --- |
-|うねうね	While bending up, down, and side to side
-かくんかくん	Repeatedly, lightly folding back and forth
-かっくり	Suddenly lightly bending something
-がっくり	Suddenly strongly bending something
-ぎくぎく	Bending awkwardly and jerkily
-くい	Suddenly bending something
-くいくい	Lightly bending two or three times
-くにゃ・ぐにゃ・くにゃり・ぐにゃり	Part of something suddenly bending
-くにゃくにゃ・ぐにゃぐにゃ	Soft and freely bending
-くねくね	Bending back and forth like it's shaking
-ぐんにゃり	Bending or twisting easily
-ジグザグ	Bending in the shape of a Z, literally "zigzag" in English
-しゃなりしゃなり	Your body moving flexibly
-しなしな・しなっ	Bending and warping
-しんなり	Something soft folding
-なよなよ	Weakly bending, delicate
-へこへこ	Weakly bending easily, pliable
+|うねうね|	While bending up, down, and side to side|
+|かくんかくん|	Repeatedly, lightly folding back and forth|
+|かっくり|	Suddenly lightly bending something|
+|がっくり|	Suddenly strongly bending something|
+|ぎくぎく|	Bending awkwardly and jerkily|
+|くい|	Suddenly bending something|
+|くいくい|	Lightly bending two or three times|
+|くにゃ・ぐにゃ・くにゃり・ぐにゃり|	Part of something suddenly bending|
+|くにゃくにゃ・ぐにゃぐにゃ|	Soft and freely bending|
+|くねくね|	Bending back and forth like it's shaking|
+|ぐんにゃり|	Bending or twisting easily|
+|ジグザグ|	Bending in the shape of a Z, literally "zigzag" in English|
+|しゃなりしゃなり|	Your body moving flexibly|
+|しなしな・しなっ|	Bending and warping|
+|しんなり|	Something soft folding|
+|なよなよ|	Weakly bending, delicate|
+|へこへこ|	Weakly bending easily, pliable|
