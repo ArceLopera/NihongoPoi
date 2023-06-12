@@ -154,9 +154,13 @@ nav:
           - 普通: ./N4/AdverbsN4/futsuu.md
           - はっきり: ./N4/AdverbsN4/hakkiri.md
           - 非常に: ./N4/AdverbsN4/hijouni.md
+          - いっぱい: ./N4/AdverbsN4/ippai.md
+          - 十分: ./N4/AdverbsN4/juubun.md
+          - かどうか: ./N4/AdverbsN4/kadouka.md
           - しっかり: ./N4/AdverbsN4/shikkari.md
           - すっかり: ./N4/AdverbsN4/sukkari.md
           - やっぱり: ./N4/AdverbsN4/yappari.md
+          
       - N3: 
         - All: ./N3/AdverbN3/adverbsN3.md
         - Each:

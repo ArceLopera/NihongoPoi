@@ -15,12 +15,12 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |9|[futsuu](futsuu.md)|[普通 【ふつう】](futsuu.md)|usually|	N4|
 |10|[hakkiri](hakkiri.md)|[はっきり](hakkiri.md)|clearly|	N4|
 |11|[hijou ni](hijouni.md)|[非常に【ひじょうに】](hijouni.md)|extremely|	N4|
-|12|ippai|いっぱい|Full|	N4|
-|13|juubun|十分【じゅうぶん】|enough; sufficient; plenty; adequate; satisfactory|	N4|
-|14|ka dou ka|かどうか|whether or not ~|	N4|
-|15|kanarazu|必ず【かならず】|always; certainly|	N4|
-|16|kitto|きっと|surely; undoubtedly; almost certainly; most likely|	N4|
-|17|kou|こう|this way|	N4|
+|12|[ippai](ippai.md)|[いっぱい](ippai.md)|Full|	N4|
+|13|[juubun](juubun.md)|[十分【じゅうぶん】](juubun.md)|enough; sufficient; plenty; adequate; satisfactory|	N4|
+|14|[ka dou ka](kadouka.md)|[かどうか](kadouka.md)|whether or not ~|	N4|
+|15|    kanarazu|必ず【かならず】|always; certainly|	N4|
+|16|    kitto|きっと|surely; undoubtedly; almost certainly; most likely|	N4|
+|17|    kou|こう|this way|	N4|
 |18|	ku suru|くする|to make something ~|	N4|
 |19|	kyuu ni|急に【きゅうに】|quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~|	N4|
 |20|	made ni|までに|by; by the time; indicates time limit|	N4|
@@ -45,7 +45,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |39|	tsugou|都合【つごう】|convenience	|N4|
 |40|[yappari](yappari.md)|[やっぱり](yappari.md)|as I thought|	N4|
 |41|	yatto|やっと|at last; finally; barely; narrowly ~|	N4|
-|42|yori|より|than; rather than; more than ~	|N4|
-|43|zehi|ぜひ|by all means; certainly; definitely ~|	N4|
-|44|zenzen|全然【ぜんぜん】|not entirely (used in a negative sentence)|	N4|
-|45|zenzen~nai|全然～ない【ぜんぜん～ない】|(not) at all	|N4|
+|42|    yori|より|than; rather than; more than ~	|N4|
+|43|    zehi|ぜひ|by all means; certainly; definitely ~|	N4|
+|44|    zenzen|全然【ぜんぜん】|not entirely (used in a negative sentence)|	N4|
+|45|    zenzen~nai|全然～ない【ぜんぜん～ない】|(not) at all	|N4|
