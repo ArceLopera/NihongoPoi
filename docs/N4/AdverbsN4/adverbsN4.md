@@ -18,11 +18,11 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |12|[ippai](ippai.md)|[いっぱい](ippai.md)|Full|	N4|
 |13|[juubun](juubun.md)|[十分【じゅうぶん】](juubun.md)|enough; sufficient; plenty; adequate; satisfactory|	N4|
 |14|[ka dou ka](kadouka.md)|[かどうか](kadouka.md)|whether or not ~|	N4|
-|15|    kanarazu|必ず【かならず】|always; certainly|	N4|
-|16|    kitto|きっと|surely; undoubtedly; almost certainly; most likely|	N4|
-|17|    kou|こう|this way|	N4|
-|18|	ku suru|くする|to make something ~|	N4|
-|19|	kyuu ni|急に【きゅうに】|quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~|	N4|
+|15|[kanarazu](kanarazu.md)|[必ず【かならず】](kanarazu.md)|always; certainly|	N4|
+|16|[kitto](kitto.md)|[きっと](kitto.md)|surely; undoubtedly; almost certainly; most likely|	N4|
+|17|[kou](kou.md)|[こう](kou.md)|this way|	N4|
+|18|[ku suru](kusuru.md)|[くする](kusuru.md)|to make something ~|	N4|
+|19|[kyuu ni](kyuuni.md)|[急に【きゅうに】](kyuuni.md)|quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~|	N4|
 |20|	made ni|までに|by; by the time; indicates time limit|	N4|
 |21|	mazu|まず|first of all|	N4|
 |22|	mitai ni|みたいに|like; similar to ~|	N4|
