@@ -23,11 +23,11 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |17|[kou](kou.md)|[こう](kou.md)|this way|	N4|
 |18|[ku suru](kusuru.md)|[くする](kusuru.md)|to make something ~|	N4|
 |19|[kyuu ni](kyuuni.md)|[急に【きゅうに】](kyuuni.md)|quickly; immediately; hastily; suddenly; abruptly; unexpectedly ~|	N4|
-|20|	made ni|までに|by; by the time; indicates time limit|	N4|
-|21|	mazu|まず|first of all|	N4|
-|22|	mitai ni|みたいに|like; similar to ~|	N4|
-|23|	moshi|もし|if; in case; supposing|	N4|
-|24|	mousugu|もうすぐ|soon|	N4|
+|20|[made ni](madeni.md)|[までに](madeni.md)|by; by the time; indicates time limit|	N4|
+|21|[mazu](mazu.md)|[まず](mazu.md)|first of all|	N4|
+|22|[mitai ni](mitaini.md)|[みたいに](mitaini.md)|like; similar to ~|	N4|
+|23|[moshi](moshi.md)|[もし](moshi.md)|if; in case; supposing|	N4|
+|24|[mousugu](mousugu.md)|[もうすぐ](mousugu.md)|soon|	N4|
 |25|	nakanaka~nai|なかなか～ない|not easy to; struggling to; not able to ~|	N4|
 |26|	naruhodo|なるほど|now I understand|	N4|
 |27|	no naka de|の中で【のなかで】|in; among ~|	N4|
