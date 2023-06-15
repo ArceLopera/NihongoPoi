@@ -28,9 +28,9 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |22|[mitai ni](mitaini.md)|[みたいに](mitaini.md)|like; similar to ~|	N4|
 |23|[moshi](moshi.md)|[もし](moshi.md)|if; in case; supposing|	N4|
 |24|[mousugu](mousugu.md)|[もうすぐ](mousugu.md)|soon|	N4|
-|25|	nakanaka~nai|なかなか～ない|not easy to; struggling to; not able to ~|	N4|
-|26|	naruhodo|なるほど|now I understand|	N4|
-|27|	no naka de|の中で【のなかで】|in; among ~|	N4|
+|25|[nakanaka~nai](nakanakanai.md)|[なかなか～ない](nakanakanai.md)|not easy to; struggling to; not able to ~|	N4|
+|26|[naruhodo](naruhodo.md)|[なるほど](naruhodo.md)|now I understand|	N4|
+|27|[no naka de](nonakade.md)|[の中で【のなかで】](nonakade.md)|in; among ~|	N4|
 |28|	sasuga|さすが|as one would expect; as is to be expected; even ~|	N4|
 |29|[shikkari](shikkari.md)|[しっかり](shikkari.md)|firmly; steadily|	N4|
 |30|	sonna ni|そんなに|so much; so; like that|	N4|
