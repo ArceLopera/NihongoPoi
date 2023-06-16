@@ -130,6 +130,9 @@ nav:
         - がたい: ./N3/Grammar/gatai.md
         - くらい: ./N3/Grammar/kurai.md
         - にたいして: ./N3/Grammar/nitaishite.md
+    - N2:
+      - Each:
+        - まし: ./N2/Grammar/mashi.md
   - 語彙:
     - 自己紹介: ./N4/presentation.md
     - オノマトペ:
