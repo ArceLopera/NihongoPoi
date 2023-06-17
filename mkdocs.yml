@@ -96,6 +96,7 @@ nav:
     - 接続詞: ./N3/grammar2.md
     - 引用・文型: ./N3/grammar3.md
     - グラフの読み方: ./N3/grammar4.md
+    - Forms: ./N4/Grammar/forms.md
     - 敬語:
       - Basic: ./N3/keigo-intro.md
       - 尊敬語: ./N3/sonkeigo.md
