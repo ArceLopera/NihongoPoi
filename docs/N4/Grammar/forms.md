@@ -139,6 +139,8 @@ This can mean either:
 
 + to let somebody do something.
 
+The difference between these two options is how the actor feels about the action. If it's against their will, 〜させる is like "make someone do something." If it's what they want to do, then 〜させる shows permission, and is the equivalent of "let someone do something." FORCEFUL VS. PERMISSIVE 〜させる
+
 ### 使い方
 
 Ru-verb:	る -> させる
@@ -177,9 +179,67 @@ U-verb:	(ない form) ない -> せる
 |僕にやらせてください|Please allow me to do it.|
 |息子はアニメを見たがっていますが、宿題が終わっていないので、見させません。|My son wants to watch anime, but he hasn't finished his homework, so I won't let him watch it.|
 
+### THE 〜さす SHORT FORM
+Although many textbooks don't cover this, there is another, shorter causative form in Japanese: 〜さす. It isn't always covered in textbooks because it tends to be limited to casual speech or dialects like Kansai-ben. Since the verb in this form ends in 〜さす or あ-column kana plus す, we call it the short causative form. In order to use this form, replace the 〜せる of the normal causative form with 〜す.
+
+|Ru-verbs||
+| --- | --- |
+|食べる　|　食べさす|
+|起きる　|　起きさす|
+|閉じる　|　閉じさす|
+
+|U-verbs||
+| --- | --- |
+|会う　|　会わす|
+|立つ　|　立たす|
+|写す　|　写さす|
+|割る　|　割らす|
+|書く　|　書かす|
+|泳ぐ　|　泳がす|
+|死ぬ　|　死なす|
+|学ぶ　|　学ばす|
+|休む　|　休ます|
+
+Irregular	
+
+来るく　　→　 来さすこ　　
+
+する　→　さす
+
+For example: 泳がす (to let someone swim or move around freely), 寝かす (to put someone to bed, to lay something down), or 沸かす (to boil water). Notice that they all have some causative or permissive meaning built in to them!
+
 ### させてください (sasete kudasai)
 
 please let me do
+
+〜させて WITH GIVING & RECEIVING VERBS
+Clearly there is potential for ambiguity between forceful and permissive 〜させる. When you want to emphasize that the meaning is "let someone do something," you can use verbs of giving or receiving to clear this up. These verbs include あげる, やる, くれる and もらう. To use them, you'll need to change 〜させる into the て form, which lucky for you is easy. It conjugates like an ichidan verb, meaning you'll pop the 〜る off and change it to 〜て, then add your chosen giving/receiving verb.
+
+〜させてくれる is used when you are the actor, and you're grateful that the causer has allowed you to do the action. For example:
+両親は私を大学に行かせてくれた。My parents let me go to university.
+
+The honorific version of 〜くれる, which is 〜くださる works the same way, while adding an air of formality and politeness:大学に行かせてくださって、有難うございます。Thank you for allowing me to go to university.
+
+You can also use this form to ask for permission:私にもやらせてくれる？Can you let me do that too?
+
+もう少し考えさせてくれますか。Can you let me think about it for a little longer?
+
+Changing the verb to its negative form adds a touch more politeness, kind of like saying "Can't I~?" or "Won't you let me~?" in English:大学に行かせてくれませんか？Would you please allow me to go to university?
+
+When 〜させて is combined with あげる (to give), it adds the nuance that the causer is allowing the actor to do the action.
+大学に行かせてあげるつもりだ。I'm planning to let you go to university.
+
+いい子にしてないと、パーティに行かせてあげないよ。If you don't behave well, I won't let you go to the party.
+
+やる, the rougher version of あげる, works like this too. It gives a coarse, masculine feel to the sentence:
+宝くじが当たったら、ハワイに行かせてやるよ。If I won the lottery, I'd let you travel to Hawaii.
+
+Lastly, when 〜させて is combined with もらう (to receive), it means that the actor was allowed to do something by the causer and they appreciate it. The combination is equivalent to "be allowed to" or "may I?" in English.
+それでは、ちょっと自己紹介させてもらいます。Now, please allow me to introduce myself.
+
+いただく, the honorific version of もらう, makes it sound more formal and polite:商品の紹介をさせていただきます。Please allow me to introduce our product.
+
+As with くれる, you can use the negative form to ask for permission. Questions formed with もらう are usually more polite than questions formed with くれる:私にもやらせてもらえない？Can you let me do that too?
 
 #### 使い方
 
