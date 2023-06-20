@@ -31,12 +31,12 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |25|[nakanaka~nai](nakanakanai.md)|[なかなか～ない](nakanakanai.md)|not easy to; struggling to; not able to ~|	N4|
 |26|[naruhodo](naruhodo.md)|[なるほど](naruhodo.md)|now I understand|	N4|
 |27|[no naka de](nonakade.md)|[の中で【のなかで】](nonakade.md)|in; among ~|	N4|
-|28|	sasuga|さすが|as one would expect; as is to be expected; even ~|	N4|
+|28|[sasuga](sasuga.md)|[さすが](sasuga.md)|as one would expect; as is to be expected; even ~|	N4|
 |29|[shikkari](shikkari.md)|[しっかり](shikkari.md)|firmly; steadily|	N4|
-|30|	sonna ni|そんなに|so much; so; like that|	N4|
-|31|	sore hodo|それほど|to that extent|	N4|
-|32|	sorosoro|そろそろ|gradually; soon|	N4|
-|33|	sou da [2]|そうだ|looks like; appears like; seeming ~|	N4|
+|30|[sonna ni](sonnani.md)|[そんなに](sonnani.md)|so much; so; like that|	N4|
+|31|[sore hodo](sorehodo.md)|[それほど](sorehodo.md)|to that extent|	N4|
+|32|[sorosoro](sorosoro.md)|[そろそろ](sorosoro.md)|gradually; soon|	N4|
+|33|[sou da](souda.md)|[そうだ](souda.md)|looks like; appears like; seeming ~|	N4|
 |34|[sukkari](sukkari.md)|[すっかり](sukkari.md)|completely|	N4|
 |35|	taitei|たいてい|usually|	N4|
 |36|	tamani|たまに|occasionally|	N4|
