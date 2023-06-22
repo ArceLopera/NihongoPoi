@@ -38,14 +38,14 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |32|[sorosoro](sorosoro.md)|[そろそろ](sorosoro.md)|gradually; soon|	N4|
 |33|[sou da](souda.md)|[そうだ](souda.md)|looks like; appears like; seeming ~|	N4|
 |34|[sukkari](sukkari.md)|[すっかり](sukkari.md)|completely|	N4|
-|35|	taitei|たいてい|usually|	N4|
-|36|	tamani|たまに|occasionally|	N4|
-|37|	tokuni|特に【とくに】|particularly; especially; in particular; expressly|	N4|
-|38|	toutou|到頭【とうとう】|finally, after all|	N4|
-|39|	tsugou|都合【つごう】|convenience	|N4|
+|35|[taitei](taitei.md)|[たいてい](taitei.md)|usually|	N4|
+|36|[tamani](tamani.md)|[たまに](tamani.md)|occasionally|	N4|
+|37|[tokuni](tokuni.md)|[特に【とくに】](tokuni.md)|particularly; especially; in particular; expressly|	N4|
+|38|[toutou](toutou.md)|[到頭【とうとう】](toutou.md)|finally, after all|	N4|
+|39|[tsugou](tsugou.md)|[都合【つごう】](tsugou.md)|convenience	|N4|
 |40|[yappari](yappari.md)|[やっぱり](yappari.md)|as I thought|	N4|
-|41|	yatto|やっと|at last; finally; barely; narrowly ~|	N4|
-|42|    yori|より|than; rather than; more than ~	|N4|
-|43|    zehi|ぜひ|by all means; certainly; definitely ~|	N4|
-|44|    zenzen|全然【ぜんぜん】|not entirely (used in a negative sentence)|	N4|
-|45|    zenzen~nai|全然～ない【ぜんぜん～ない】|(not) at all	|N4|
+|41|[yatto](yatto.md)|[やっと](yatto.md)|at last; finally; barely; narrowly ~|	N4|
+|42|[yori](yori.md)|[より](yori.md)|than; rather than; more than ~	|N4|
+|43|[zehi](zehi.md)|[ぜひ](zehi.md)|by all means; certainly; definitely ~|	N4|
+|44|[zenzen](zenzen.md)|[全然【ぜんぜん】](zenzen.md)|not entirely (used in a negative sentence)|	N4|
+|45|[zenzen~nai](zenzennai.md)|[全然～ない【ぜんぜん～ない】](zenzennai.md)|(not) at all	|N4|

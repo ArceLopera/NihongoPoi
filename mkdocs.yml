@@ -184,7 +184,17 @@ nav:
           - そろそろ: ./N4/AdverbsN4/sorosoro.md
           - そうだ: ./N4/AdverbsN4/souda.md
           - すっかり: ./N4/AdverbsN4/sukkari.md
+          - たいてい: ./N4/AdverbsN4/taitei.md
+          - たまに: ./N4/AdverbsN4/tamani.md
+          - 特に: ./N4/AdverbsN4/tokuni.md
+          - 到頭: ./N4/AdverbsN4/toutou.md
+          - 都合: ./N4/AdverbsN4/tsugou.md
           - やっぱり: ./N4/AdverbsN4/yappari.md
+          - やっと: ./N4/AdverbsN4/yatto.md
+          - より: ./N4/AdverbsN4/yori.md
+          - ぜひ: ./N4/AdverbsN4/zehi.md
+          - 全然: ./N4/AdverbsN4/zenzen.md
+          - 全然～ない: ./N4/AdverbsN4/zenzennai.md
       - N3: 
         - All: ./N3/AdverbN3/adverbsN3.md
         - Each:
