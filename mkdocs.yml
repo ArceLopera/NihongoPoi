@@ -146,6 +146,7 @@ nav:
       - N5: 
         - All: ./N5/Adverbs/adverbsN5.md
         - Each:
+          - ちょっと: ./N5/Adverbs/chotto.md
           - ゆっくり: ./N5/Adverbs/yukkuri.md
       - N4: 
         - All: ./N4/AdverbsN4/adverbsN4.md
