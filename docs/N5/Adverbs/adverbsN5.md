@@ -7,7 +7,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |1|[chotto](chotto.md)| [ちょっと](chotto.md)|a little|	N5|
 |2|[choudo](choudo.md)|[丁度【ちょうど】](choudo.md)|exactly|	N5|
 |3|[daijoubu](daijoubu.md)|[大丈夫【だいじょうぶ】](daijoubu.md)|OK; okay; alright; problem free|	N5|
-|4|dandan|だんだん|gradually|	N5|
+|4|[dandan](dandan.md)|[だんだん](dandan.md)|gradually|	N5|
 |5|dou|どう|how; in what way; how about|​	N5|
 |6|doumo|どうも|thank you; thanks|	N5|
 |7|doushite|どうして|why; for what reason; how|	N5|
