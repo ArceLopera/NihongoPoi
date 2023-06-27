@@ -73,3 +73,51 @@ Ga is when there is no suggestion of something else. It simply reports a descrip
 + 【1】学生「先生、今日｛a．は b．が｝きれいですね」<br>先生「じょしを　間違えていますよ。「今日も」ですよ。」
 + 【2】A「この近くにそばやがありますか？」<br>B「いいえ、ラーメンや｛a．は b．が｝ありますが。」
 + 【3】けいかん「スピード違反です。車の免許書を見せてください。」<br>A「バイクの免許｛a．は b．が｝　ありますが。」<br>けいかん「そうですか。では、無免許運転で逮捕します。」
+
+### 3）初めての情報・前に出た情報のルール
+Initial information - previously disclosed information rule
+
+|初めて話すテーマ・新しい情報　<br>First time talking about subject <br>New information　|前に話したテーマ・情報　<br>Previously talked about subject <br>information|
+| --- | --- |
+|+が　|+は|
+
+初めて話題にするときは、聞き手に対象がはっきりわからないと、話し手が感じるので「が」を使う。２番目からは、話の対象が特定されるので「は」を使う。<br>
+The first time something is talked about when the speaker feels that the listener does not know the topic, use Ga. From the second time the topic is specified, so use Wa.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|うちの前を猫**が**歩いていた。その猫**は**けがをしているようだった。|A cat was walking in front of the house. The cat seemed injured.|
+|祖母「昔々、あるところにおじいさんと、おばあさん**が**住んでいました。」<br>孫「その話、もう聞いた。「桃太郎」でしょう？そのおばあさん**は**川に洗濯に行くんでしょう？そうすると、桃**が**流れてくるんでしょう？」<br>祖母「そうよ。その桃**は**大きくて、中に男の赤ちゃん**が**いたのよ。」|Grandmother："Once upon a time, an old man and an old woman lived in a certain place."<br>Grandchild: "I already know that story. It's Momotarou isn't it? The old woman goes to the river to do the laundry, right? Then, as she does that, a peach goes floating by, right?"<br>Grnadmother: "Yes. Thaht peach was large, and in it was a baby boy."|
+
+#### ちょっとテスト
+
+次の文に入る適当な助詞を｛｝の中の abc から選び、Oをつけなさい。何も入らないときはｘを選びなさい。
+
+「つるのおんかえし」
+
++ 【1】むかし山の中に、貧乏な若者の｛a．は b．が　c.ｘ｝住んでいました。
++ 【2】ある日その若者｛a．は b．が　c.ｘ｝雪の中で飛べないつるを見つけました。
++ 【3】若者｛a．は b．が　c.ｘ｝そのつるを助けてやりました。つるは喜んで遠くの空にとんでいきました。
++ 【4】それからしばらくして、ある雪の日に、きれいな娘｛a．は b．が　c.ｘ｝若者のうちに来ました。
++ 【5】その娘｛a．は b．が　c.ｘ｝「私をお嫁さんにしてください」と言いました。
++ 【6】若者｛a．は b．が　c.ｘ｝喜びました。
++ 【7】二人｛a．は b．が　c.ｘ｝結婚しました。
++ 【8】その娘｛a．は b．が　c.ｘ｝、あの日若者に助けられたつるだったのです。
+
+### 4）疑問語と「は」「が」のルール
+Question word and Wa Ga rule
+
+疑問語の前は「は」・疑問語の後ろは「が」
+
+Before the question use Wa - After the question word use Ga
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|会議**は**何時からですか。|What time is the meeting?|
+|誰**が**プレゼンをしますか。|Who will give the presentation?|
+|森の中で、何か**が**動いている。|Something is moving in the woods.|
+|マークさん、ご出身**は**どちらですが？|Mark, where are you from?|
