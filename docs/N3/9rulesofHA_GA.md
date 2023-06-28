@@ -127,7 +127,7 @@ Showing importance rule
 
 「は」の後ろは重要な情報・「が」の前は重要な情報
 
-The item after Wa is the important information - Teh item before Ga is the important information.
+The item after Wa is the important information - The item before Ga is the important information.
 
 #### 例分
 
@@ -160,3 +160,61 @@ Ga comes before wishes - abilities - emotions
 |（わたしは）自動運転のスポーツカー**が**<u>ほしい</u>。|I want a self driving sports car.|
 |私たちは、自由に意見を言うこと**が**<u>できる</u>。|We can freely express our opinions.|
 |私は頑張る人**が**<u>好き</u>です。|I like people who try hard.|
+
+### 7）事実を話すとき・見たことなどを客観的に話すときのルール
+Talking about facts − Talking objectively about things that you saw rule
+
+一般的な事実を言うとき「は」・見たことなどをそのまま言うとき「が」
+
+Use Wa when talking about something in general. Use Ga when talking about something that you saw and reporting on directly.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|北極星**は**いつも北の空にある。|The North Star is always in the northern sky.|
+|いい天気だから、ほら星**が**あんなにたくさん光っているよ。|It's good weather, look, so many stars are shinning.|
+|人**は**必ず死ぬものだ。|People always die.|
+|ぎゃ〜、人**が**死んでる。１１０番して。|Ah, someone is dying. Call 110.|
+
+### 8）比べて話すルール
+Comparing rule
+
+「〜は〜が、〜は〜」のある文
+
+Sentences with "~wa~ga, ~wa~"
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|肉**は**好きです**が**、レバー**は**苦手です。|I like meat, but I don't like liver.|
+|北半球**は**夏です**が**、南半球**は**冬です。|The northern hemisphere is summer, but the southern hemisphere is winter.|
+|父は、ゴルフ**は**上手だ**が**、料理**は**下手だ。|My father is good at golf but bad at cooking.|
+
+### 9）全体と部分を話すルール
+Talking about the whole and then the parts rule
+
+全体**は**、部分**が**〜
+
+まず全体を取り上げて、次に部分について話す。
+
+First the whole is mentioned, next talk about the part.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|うさぎ**は**、耳がながい。|Rabbits have long ears.|
+|この会社**は**、残業が多い。|This company has lots of overtime.|
+
+#### ちょっとテスト
+
+次の文に入る適当な助詞を｛｝の中の ab から選び、Oをつけなさい。
+
++ 【1】あ、ちょうちょ｛a．は b．が｝飛んでいる。
++ 【2】あの先生は声｛a．は b．が｝小さいので、よく聞こえません。
++ 【3】わたし｛a．は b．が｝アニメが好きです。
++ 【4】この方｛a．は b．が｝どなたですか？
++ 【5】毎日忙しくて寝られません。寝る時間｛a．は b．が｝ほしいです。
