@@ -121,3 +121,42 @@ Before the question use Wa - After the question word use Ga
 |誰**が**プレゼンをしますか。|Who will give the presentation?|
 |森の中で、何か**が**動いている。|Something is moving in the woods.|
 |マークさん、ご出身**は**どちらですが？|Mark, where are you from?|
+
+### 5）重要度を表すルール
+Showing importance rule
+
+「は」の後ろは重要な情報・「が」の前は重要な情報
+
+The item after Wa is the important information - Teh item before Ga is the important information.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|私**は**この会社の社長です。<br>＜「この会社の社長」が重要な情報＞|I am this company's president.<br> ("This company's president is the important information")|
+|私**が**この会社の社長です。<br>＜他の人ではない。「私」を強調する＞|I am this company's president.<br> ("Emphasizing "I", that it is not someone else.")|
+|富士山**は**日本で一番高い山です。<br>＜「日本で一番高い山」が重要な情報＞|Mount Fuji is the tallest mountain in Japan. <br> ("Tallest mountain in Japan" is the important information.)|
+|富士山**が**日本で一番高い山です。<br>＜「富士山」を強調する＞|Mount Fuji is the tallest mountain in Japan. <br> (Emphasizing "Mount Fuji".)|
+|僕じゃなくて、太郎くん**が**先に打ったんだよ。<br>＜「太郎くん」を強調する＞|It wasn't me, it was Tarou who hit first.<br>(Emphasizing "Tarou")|
+
+### 6）「が」の後ろにくるもののルール
+After Ga rule
+
+が　＋　＜希望・能力・感情を表す言葉＞
+
+Ga comes before wishes - abilities - emotions
+
+希望：〜たい・ほしい　ー　Wish： want to　〜　・　Want
+
+能力：わかる・できる　ー　Ability：Understand　・　Can do
+
+感情：好き・嫌い・怖い　ー　Emotion: Like・Hate・Scared
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|（わたしは）いつか、自分のうち**が**<u>たてたい</u>。|I want one day to build my own house.|
+|（わたしは）自動運転のスポーツカー**が**<u>ほしい</u>。|I want a self driving sports car.|
+|私たちは、自由に意見を言うこと**が**<u>できる</u>。|We can freely express our opinions.|
+|私は頑張る人**が**<u>好き</u>です。|I like people who try hard.|
