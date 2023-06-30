@@ -10,8 +10,8 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |4|[dandan](dandan.md)|[だんだん](dandan.md)|gradually|	N5|
 |5|[dou](dou.md)|[どう](dou.md)|how; in what way; how about|​	N5|
 |6|[doumo](doumo.md)|[どうも](doumo.md)|thank you; thanks|	N5|
-|7|doushite|どうして|why; for what reason; how|	N5|
-|8|douzo|どうぞ|please|	N5|
+|7|[doushite](doushite.md)|[どうして](doushite.md)|why; for what reason; how|	N5|
+|8|[douzo](douzo.md)|[どうぞ](douzo.md)|please|	N5|
 |9|hajimete|初めて【はじめて】|for the first time|	N5|
 |10|hitori|一人【ひとり】|one person​; alone; single|	N5|
 |11|ichiban|一番【いちばん】|number one; first; 1st, first place​; best; most|​	N5|
