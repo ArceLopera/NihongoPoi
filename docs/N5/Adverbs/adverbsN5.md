@@ -14,7 +14,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |8|[douzo](douzo.md)|[どうぞ](douzo.md)|please|	N5|
 |9|[hajimete](hajimete.md)|[初めて【はじめて】](hajimete.md)|for the first time|	N5|
 |10|[hitori](hitori.md)|[一人【ひとり】](hitori.md)|one person​; alone; single|	N5|
-|11|ichiban|一番【いちばん】|number one; first; 1st, first place​; best; most|​	N5|
+|11|[ichiban](ichiban.md)|[一番【いちばん】](ichiban.md)|number one; first; 1st, first place​; best; most|​	N5|
 |12|ikaga|いかが|how; in what way; how about|​	N5|
 |13|ikura|いくら|how much?; how many?|​	N5|
 |14|ikutsu|いくつ|how many?,how old?|N5|
