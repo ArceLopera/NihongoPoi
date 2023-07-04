@@ -22,7 +22,7 @@ In Japanese, adjectives can be turned into adverbs by adding に (ni) at the end
 |16|[issho ni](isshoni.md)|[一緒に【いっしょに】](isshoni.md)|together|	N5|
 |17|[itsumo](itsumo.md)|[いつも](itsumo.md)|always; usually; habitually|	N5|
 |18|[kekkou](kekkou.md)|[結構【けっこう】](kekkou.md)|splendid, enough|	N5|
-|19|mada|まだ|still; not yet|	N5|
+|19|[mada](mada.md)|[まだ](mada.md)|still; not yet|	N5|
 |20|mada ~te imasen|まだ～ていません|have not yet ~|	N5|
 |21|mae ni|前に【まえに】|before; in front of ~|	N5|
 |22|massugu|真っ直ぐ【まっすぐ】|straight ahead,direct|	N5|
