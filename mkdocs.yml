@@ -167,6 +167,21 @@ nav:
           - いつも: ./N5/Adverbs/itsumo.md
           - 結構: ./N5/Adverbs/kekkou.md
           - まだ: ./N5/Adverbs/mada.md
+          - まだ～ていません: ./N5/Adverbs/madateimasen.md
+          - 前に: ./N5/Adverbs/maeni.md
+          - 真っ直ぐ: ./N5/Adverbs/massugu.md
+          - みんな: ./N5/Adverbs/minna.md
+          - もっと: ./N5/Adverbs/motto.md
+          - もう: ./N5/Adverbs/mou.md
+          - 何故: ./N5/Adverbs/naze.md
+          - 同じ: ./N5/Adverbs/onaji.md
+          - 直ぐに: ./N5/Adverbs/suguni.md
+          - 少し: ./N5/Adverbs/sukoshi.md
+          - 多分: ./N5/Adverbs/tabun.md
+          - 大変: ./N5/Adverbs/taihen.md
+          - 時々: ./N5/Adverbs/tokidoki.md
+          - とても: ./N5/Adverbs/totemo.md
+          - よく: ./N5/Adverbs/yoku.md
           - ゆっくり: ./N5/Adverbs/yukkuri.md
       - N4: 
         - All: ./N4/AdverbsN4/adverbsN4.md
