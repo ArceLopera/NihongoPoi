@@ -99,6 +99,7 @@ nav:
     - Forms: ./N4/Grammar/forms.md
     - Transitivity: ./N4/Grammar/transitivity.md
     - Particles:
+      - 助詞の使い方: ./N3/usingParticles.md
       - 「は」と「が」: ./N3/9rulesofHA_GA.md
     - 敬語:
       - Basic: ./N3/keigo-intro.md
