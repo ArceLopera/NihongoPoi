@@ -44,3 +44,22 @@ There are particles that illustrate grammar（”ga" "o" etc.）and particles th
 |病気な**ので**薬**を**飲みます。|I am sick, so I take medicine.|
 |９時になれ**ば**映画**が**はじまります。|The movie begins at 9 o'clock.|
 |ここ**から**バス**に**乗ります。|I ride the bus.|
+
+### 5. 会話では、文の関係を表す助詞（「が」「を」など）は省略することがある。
+In conversations particles that illustrate grammar ("ga" "o" etc.) are sometimes omitted.
+
+|例文|訳|
+| --- | --- |
+|わたし（が）写真（を）取ります。|I take a picture.|
+|わたし（は）薬（を）飲みます。|I take medicine.|
+
+### ６. 意味を表す助詞（「に」「で」「ので」「ば」「から」など）は省略すると意味がわからなくなるので、省略しない。
+Particles that illustrate meaning cannot be omitted as the meaning would become incomprehensible.
+
+|例文|訳|
+| --- | --- |
+|バス**に**乗ります。|I ride the bus.|
+|ボールペン**で**住所と名前（を）書いてください。|Please write your name and address in ball pen.|
+|成田**から**飛行機**に**乗ります。|I will take the flight from Narita.|
+|ソファ**に**座って、コーヒー（を）飲み**ながら**音楽（を）聞こうよ。|Let's sit on the sofa and listen to music while drinking coffee.|
+|この薬（を）飲め**ば**病気（が）治りますか？|If I take this medicine, will my sickness get better?|
