@@ -75,8 +75,8 @@ Particles can be doubled up.
 ### 8. ABCD4つのグループがある。
 There are 4 groups, ABCD.
 
-||Aグループ<br>格助詞<br>Case marking particle|Bグループ|Cグループ|Dグループ|
+||Aグループ<br>格助詞<br>Case marking particle|Bグループ<br>接続助詞<br>Conjunctive particle|Cグループ<br>副助詞<br>Adverbial particle|Dグループ<br>終助詞<br>Ending particle|
 | --- | --- | --- | --- | --- |
-|付く場所|名詞の後ろに付く。<br>After a noun.||||
-|働き|文の関係を表す。<br>Show the relationships in a sentence.||||
-|種類|が・の・を・に・へ・と・より・から・で・や||||
+|付く場所|名詞の後ろに付く。<br>After a noun.|主に動詞・形容詞などの活用のある語の後ろに付く。<br>Usually come after a word with declension such as a verb or an adjective etc..|名詞の後ろなど、いろいろなものに付く。<br>After nouns, appended to various words.|文の最後に付く。<br>At the end of a sentence.|
+|働き|文の関係を表す。<br>Show the relationships in a sentence.|前後をつなぐ。<br>Connects the previous and following words.|意味を表す。対象を取り上げて、それを目立たせる役目をする。なくても分の意味が通じる場合がある。<br>Illustrate meaning. They highlight target words. Even without them the meaning of the sentence may not be lost.|意味を表す。<br>Illustrate meaning.|
+|種類|が・の・を・に・へ・と・より・から・で・や|ば・と・ても（でも）・から・ので・が・けれど（けれども）・のに・て（で）・し・ながら・たり（だり）・なり・つつ・のの・ところで|は・も・こそ・さえ・でも・だって・しか・ばかり・など・まで・だけ・ほど・きり（ぎり）・くらい（ぐらい）・なり・やら・か・だの・なんて・ずつ・とか・すら|な（なあ）・や・よ・わ・こと・な・ぞ・ぜ・とも・か・の・ね（ねえ）・さ・かしら・もの|
