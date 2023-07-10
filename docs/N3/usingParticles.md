@@ -63,3 +63,20 @@ Particles that illustrate meaning cannot be omitted as the meaning would become 
 |成田**から**飛行機**に**乗ります。|I will take the flight from Narita.|
 |ソファ**に**座って、コーヒー（を）飲み**ながら**音楽（を）聞こうよ。|Let's sit on the sofa and listen to music while drinking coffee.|
 |この薬（を）飲め**ば**病気（が）治りますか？|If I take this medicine, will my sickness get better?|
+
+### 7. 重ねて使うこともある。
+Particles can be doubled up.
+
+|例文|訳|
+| --- | --- |
+|先生、ご結婚おめでとう。これは、クラスのみんな**からの**お祝いです。|Teacher, congratulations on your wedding. This is a present from all your class.|
+|この話は、秘密です。ここ**だけの**話ですよ。他の人に言わないでください。|This story is secret. Just for here. Please don't tell other people.|
+
+### 8. ABCD4つのグループがある。
+There are 4 groups, ABCD.
+
+||Aグループ<br>格助詞<br>Case marking particle|Bグループ|Cグループ|Dグループ|
+| --- | --- | --- | --- | --- |
+|付く場所|名詞の後ろに付く。<br>After a noun.||||
+|働き|文の関係を表す。<br>Show the relationships in a sentence.||||
+|種類|が・の・を・に・へ・と・より・から・で・や||||
