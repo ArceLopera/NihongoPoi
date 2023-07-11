@@ -218,3 +218,25 @@ First the whole is mentioned, next talk about the part.
 + 【3】わたし｛a．は b．が｝アニメが好きです。
 + 【4】この方｛a．は b．が｝どなたですか？
 + 【5】毎日忙しくて寝られません。寝る時間｛a．は b．が｝ほしいです。
+
+## 1つの分の中に、「は」「が」がある場合
+Cases where "wa" "ga" are in the same sentence
+
+### (1) 名詞を説明する節の中では「が」「の」を使う。
+
+"ga""no" are used in a clase explaining a noun.
+
+|例文|訳|
+| --- | --- |
+|田中さん**が・の**登った<u>山</u>は富士山です。|The mountain which Mr. Tanaka climbed was Mount Fuji.|
+|泥棒**が**逃げようとする<u>ところ</u>>を警官が捕まえた。|Just the robber was about to escape, the policeman caught him.|
+
+**注意**
+主語と、説明される名詞の間の文が、長くなる場合は「が」を使う方がいい。
+
+When the phrase between the subject and the noun being explained is long, it is best to use "ga".
+
+|例文|訳|
+| --- | --- |
+|○　リンさん**が**<u>学生時代に友達と一緒に住んでいたアパートはこれですよ。</u>|This is the apartment where Mr Lin lived with his friend in his student days.|
+|⊿　リンさん**の**<u>学生時代に友達と一緒に住んでいたアパートはこれですよ。</u>|This is the apartment where Mr Lin lived with his friend in his student days. |
