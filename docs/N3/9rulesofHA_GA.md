@@ -240,3 +240,14 @@ When the phrase between the subject and the noun being explained is long, it is 
 | --- | --- |
 |○　リンさん**が**<u>学生時代に友達と一緒に住んでいたアパートはこれですよ。</u>|This is the apartment where Mr Lin lived with his friend in his student days.|
 |⊿　リンさん**の**<u>学生時代に友達と一緒に住んでいたアパートはこれですよ。</u>|This is the apartment where Mr Lin lived with his friend in his student days. |
+
+### (2) 条件を言う節の中では「が」を使うことが多い。
+
+In a conditional clause "ga" is used.
+
+が  ＋  〜ば・〜たら・〜と・〜なら
+
+|例文|訳|
+| --- | --- |
+|鈴木さん**が**踊っ<u>たら</u>、みんなが喜びますよ。|If Mr. Suzuki dances, everyone will be happy.|
+|君**が**行く<u>なら</u>、私は行かない。|If you are going then I will not go.|
