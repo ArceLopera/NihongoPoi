@@ -251,3 +251,14 @@ In a conditional clause "ga" is used.
 | --- | --- |
 |鈴木さん**が**踊っ<u>たら</u>、みんなが喜びますよ。|If Mr. Suzuki dances, everyone will be happy.|
 |君**が**行く<u>なら</u>、私は行かない。|If you are going then I will not go.|
+
+### (3) 時間を表す節の中では「が」を使うことが多い。
+
+"ga" is used in clauses that show time.
+
+が  ＋  〜場合 case・〜間　between・〜時　when・〜前に　before・〜までに by・〜てから after
+
+|例文|訳|
+| --- | --- |
+|地震**が**おきた<u>時</u>、私は家にいた。|I was in my house when the earthquake happened.|
+|私たち**が**駅に付く<u>前に</u>、電車ははっしゃしてしまった。|Just before we arrived at the station the train left.|
