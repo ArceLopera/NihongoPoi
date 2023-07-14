@@ -262,3 +262,15 @@ In a conditional clause "ga" is used.
 | --- | --- |
 |地震**が**おきた<u>時</u>、私は家にいた。|I was in my house when the earthquake happened.|
 |私たち**が**駅に付く<u>前に</u>、電車ははっしゃしてしまった。|Just before we arrived at the station the train left.|
+
+### (4) 「は」は文の最後までの動詞全部にかかり、「が」は近くの動詞１つだけにかかる。
+
+"wa" refers to all verbs to the end of the sentence.
+"ga" refers to the nearest verb only.
+
+|例文|訳|
+| --- | --- |
+|先生**は**座る前に、汚れたテーブルをふいた。|Before the teacher sat down, he wiped the dirty table.|
+|先生**が**座る前に、汚れたテーブルをふいた。|Before the teacher sat down, someone wiped the dirty table.|
+|私**は**外に出てからドアをしめた。|I went outside then closed the door.|
+|私**が**外に出てからドアをしめた。|I went outside, and someone closed the door.|
