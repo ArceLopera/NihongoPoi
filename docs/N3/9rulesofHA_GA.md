@@ -30,13 +30,45 @@ Specified·unspecified rule
 次の文に入る適当な助詞を｛｝の中の ab から選び、Oをつけなさい。
 
 + 【1】たいへんですよ。大事故 ｛a．は b．が｝おきたそうですよ。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  たいへんですよ。大事故<b><font size="+1"> が</font> </b>おきたそうですよ。
+  </details>
 + 【2】上野どうぶつえんの パンダ｛a．は b．が｝ 7さいです。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  上野どうぶつえんの パンダ<b><font size="+1"> は</font> </b>7さいです。
+  </details>
 + 【3】日本の 山｛a．は b．が｝ あまり高くないですね。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  日本の 山<b><font size="+1"> は</font> </b>あまり高くないですね。
+  </details>
 + 【4】この国の 女性｛a．は b．が｝教育を うける けんりをもてないのでしょうか。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  この国の 女性<b><font size="+1"> は</font> </b>教育を うける けんりをもてないのでしょうか。
+  </details>
 + 【5】小さい むらで うまれた ぼく ｛a．は b．が｝ おとなしい子どもだった。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  小さい むらで うまれた ぼく<b><font size="+1"> は</font> </b>おとなしい子どもだった。
+  </details>
 + 【6】このもんだいの こたえ｛a．は b．が｝ 後で おしえます。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  このもんだいの こたえ<b><font size="+1"> は</font> </b>後で おしえます。
+  </details>
 + 【7】ごようの かた{a.は b.が} この ベルを おしてください。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  ごようの かた<b><font size="+1"> は</font> </b>この ベルを おしてください。
+  </details>
 + 【8】子ども｛a．は b．が｝ こうえんで けんかしています。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  子ども<b><font size="+1"> が</font> </b>こうえんで けんかしています。
+  </details>
 
 ### 2）暗示するときのルール
 Suggestion rule
@@ -71,8 +103,20 @@ Ga is when there is no suggestion of something else. It simply reports a descrip
 次の文に入る適当な助詞を｛｝の中の ab から選び、Oをつけなさい。
 
 + 【1】学生「先生、今日｛a．は b．が｝きれいですね」<br>先生「じょしを　間違えていますよ。「今日も」ですよ。」
+  <details>
+  <summary>Click me for proposed solution</summary>
+  学生「先生、今日<b><font size="+1"> は</font> </b>きれいですね」<br>先生「じょしを　間違えていますよ。「今日も」ですよ。」
+  </details>
 + 【2】A「この近くにそばやがありますか？」<br>B「いいえ、ラーメンや｛a．は b．が｝ありますが。」
-+ 【3】けいかん「スピード違反です。車の免許書を見せてください。」<br>A「バイクの免許｛a．は b．が｝　ありますが。」<br>けいかん「そうですか。では、無免許運転で逮捕します。」
+  <details>
+  <summary>Click me for proposed solution</summary>
+  A「この近くにそばやがありますか？」<br>B「いいえ、ラーメンや<b><font size="+1"> は</font> </b>ありますが。」
+  </details>
++ 【3】けいかん「スピード違反です。車の免許書を見せてください。」<br>A「バイクの免許｛a．は b．が｝ありますが。」<br>けいかん「そうですか。では、無免許運転で逮捕します。」
+  <details>
+  <summary>Click me for proposed solution</summary>
+  けいかん「スピード違反です。車の免許書を見せてください。」<br>A「バイクの免許<b><font size="+1"> は</font> </b>ありますが。」<br>けいかん「そうですか。では、無免許運転で逮捕します。」
+  </details>
 
 ### 3）初めての情報・前に出た情報のルール
 Initial information - previously disclosed information rule
@@ -98,13 +142,45 @@ The first time something is talked about when the speaker feels that the listene
 「つるのおんかえし」
 
 + 【1】むかし山の中に、貧乏な若者の｛a．は b．が　c.ｘ｝住んでいました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  むかし山の中に、貧乏な若者の<b><font size="+1"> が</font> </b>住んでいました。
+  </details>
 + 【2】ある日その若者｛a．は b．が　c.ｘ｝雪の中で飛べないつるを見つけました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  ある日その若者<b><font size="+1"> は</font> </b>雪の中で飛べないつるを見つけました。
+  </details>
 + 【3】若者｛a．は b．が　c.ｘ｝そのつるを助けてやりました。つるは喜んで遠くの空にとんでいきました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  若者<b><font size="+1"> は</font> </b>そのつるを助けてやりました。つるは喜んで遠くの空にとんでいきました。
+  </details>
 + 【4】それからしばらくして、ある雪の日に、きれいな娘｛a．は b．が　c.ｘ｝若者のうちに来ました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  それからしばらくして、ある雪の日に、きれいな娘<b><font size="+1"> が</font> </b>若者のうちに来ました。
+  </details>
 + 【5】その娘｛a．は b．が　c.ｘ｝「私をお嫁さんにしてください」と言いました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  その娘<b><font size="+1"> は</font> </b>「私をお嫁さんにしてください」と言いました。
+  </details>
 + 【6】若者｛a．は b．が　c.ｘ｝喜びました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  若者<b><font size="+1"> は</font> </b>喜びました。
+  </details>
 + 【7】二人｛a．は b．が　c.ｘ｝結婚しました。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  二人<b><font size="+1"> は</font> </b>結婚しました。
+  </details>
 + 【8】その娘｛a．は b．が　c.ｘ｝、あの日若者に助けられたつるだったのです。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  その娘<b><font size="+1"> は</font> </b>、あの日若者に助けられたつるだったのです。
+  </details>
 
 ### 4）疑問語と「は」「が」のルール
 Question word and Wa Ga rule
@@ -214,10 +290,30 @@ First the whole is mentioned, next talk about the part.
 次の文に入る適当な助詞を｛｝の中の ab から選び、Oをつけなさい。
 
 + 【1】あ、ちょうちょ｛a．は b．が｝飛んでいる。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あ、ちょうちょ<b><font size="+1"> が</font> </b>飛んでいる。
+  </details>
 + 【2】あの先生は声｛a．は b．が｝小さいので、よく聞こえません。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あの先生は声<b><font size="+1"> が</font> </b>小さいので、よく聞こえません。
+  </details>
 + 【3】わたし｛a．は b．が｝アニメが好きです。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  わたし<b><font size="+1"> は</font> </b>アニメが好きです。
+  </details>
 + 【4】この方｛a．は b．が｝どなたですか？
+  <details>
+  <summary>Click me for proposed solution</summary>
+  この方<b><font size="+1"> は</font> </b>どなたですか。
+  </details>
 + 【5】毎日忙しくて寝られません。寝る時間｛a．は b．が｝ほしいです。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  毎日忙しくて寝られません。寝る時間<b><font size="+1"> が</font> </b>ほしいです。
+  </details>
 
 ## 1つの分の中に、「は」「が」がある場合
 Cases where "wa" "ga" are in the same sentence
@@ -274,3 +370,48 @@ In a conditional clause "ga" is used.
 |先生**が**座る前に、汚れたテーブルをふいた。|Before the teacher sat down, someone wiped the dirty table.|
 |私**は**外に出てからドアをしめた。|I went outside then closed the door.|
 |私**が**外に出てからドアをしめた。|I went outside, and someone closed the door.|
+
+#### ちょっとテスト
+
+次の文に入る適当な助詞を｛｝の中の ab から選び、Oをつけなさい。
+
++ 【1】田中さん｛a．は b．が｝書いた本はこれです。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  田中さん<b><font size="+1"> が</font> </b>書いた本はこれです。
+  </details>
++ 【2】電車｛a．は b．が｝事故などで止まった場合、バスが乗客を運ぶ。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  電車<b><font size="+1"> が</font> </b>事故などで止まった場合、バスが乗客を運ぶ。
+  </details>
++ 【3】うちの犬｛a．は b．が｝人を見ると逃げる。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  うちの犬<b><font size="+1"> は</font> </b>人を見ると逃げる。
+  </details>
+
+#### ちょっとテスト
+
+次の文を読んで、｛｝から適当なものを選び、Oをつけなさい。
+
++ 【1】私があきるまで、うたいつづけた。<br>うたいつづけるのは｛a．わたし b．他の人｝
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1"> 他の人</font> </b>
+  </details>
++ 【2】彼女は３０歳になるまでに、結婚しようと決心した。<br>決心したのは｛a．彼女 b．他の人｝
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1"> 彼女</font> </b>
+  </details>
++ 【3】彼は車に飛び乗ると、エンジンをかけた。<br>エンジンをかけたのは｛a．彼 b．他の人｝
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1"> 彼</font> </b>
+  </details>
++ 【4】鈴木さんは踊ると、いつも腰が痛くなるそうです。<br>腰が痛くなるのは｛a．鈴木さん b．他の人｝
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1"> 鈴木さん</font> </b>
+  </details>
