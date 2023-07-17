@@ -130,3 +130,36 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1"> 【O】</font> </b>お誕生日プレセントは何がいい?
   </details>
+
+## 2．次の文に入る適当な助詞を｛｝の中のabから選び、○をつけなさい。
+
++ わたし｛a.は　b.が｝子供の時に住んでいた町には温泉がたくさんあった。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  わたし<b><font size="+1">が</font> </b>子供の時に住んでいた町には温泉がたくさんあった。
+  </details>
++ 電車｛a.は　b.が｝遅れて、遅刻してしまった。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  電車<b><font size="+1">が</font> </b>遅れて、遅刻してしまった。
+  </details>
++ 横浜に行く電車｛a.は　b.が｝何番線ですか？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  横浜に行く電車<b><font size="+1">は</font> </b>何番線ですか？
+  </details>
++ わたし｛a.は　b.が｝日本にいる間に北海道と沖縄に行きたいです。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  わたし<b><font size="+1">は</font> </b>日本にいる間に北海道と沖縄に行きたいです。
+  </details>
++ わたしは歌を聞くのは好きですが、歌うの｛a.は　b.が｝ちょっと・・・。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  わたしは歌を聞くのは好きですが、歌うの<b><font size="+1">は</font> </b>ちょっと・・・。
+  </details>
++ 車｛a.は　b.が｝あちらの駐車場に止めてください。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  車<b><font size="+1">は</font> </b>あちらの駐車場に止めてください。
+  </details>
