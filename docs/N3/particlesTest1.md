@@ -163,3 +163,53 @@
   <summary>Click me for proposed solution</summary>
   車<b><font size="+1">は</font> </b>あちらの駐車場に止めてください。
   </details>
++ あそこの枝に鳥がいる。あれ｛a.は　b.が｝日本語で何というの？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あそこの枝に鳥がいる。あれ<b><font size="+1">は</font> </b>日本語で何というの？
+  </details>
++ A「今週の土曜日に鎌倉に行きません？」<br>B「あ、その日｛a.は　b.が｝用事があるんですよ。また誘ってください。」 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  A「今週の土曜日に鎌倉に行きません？」<br>B「あ、その日<b><font size="+1">は</font> </b>用事があるんですよ。また誘ってください。」
+  </details>
++ あなた｛a.は　b.が｝できないのなら、他の人もできないでしょう。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あなた<b><font size="+1">が</font> </b>できないのなら、他の人もできないでしょう。
+  </details>
++ 世界中で一番大きい国｛a.は　b.が｝どこですか？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  世界中で一番大きい国<b><font size="+1">は</font> </b>どこですか？
+  </details>
++ みきちゃん、素敵な彼｛a.は　b.が｝できたんだって？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  みきちゃん、素敵な彼<b><font size="+1">が</font> </b>できたんだって？
+  </details>
++ 今回の日本語能力試験のちょうかい｛a.は　b.が｝難しかったね。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  今回の日本語能力試験のちょうかい<b><font size="+1">は</font> </b>難しかったね。
+  </details>
++ この国の国民｛a.は　b.が｝すべて文化的生活をする権利を持っている。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  この国の国民<b><font size="+1">は</font> </b>すべて文化的生活をする権利を持っている。
+  </details>
++ すみません、土曜日｛a.は　b.が｝そちらは何時まで開いていますか？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  すみません、土曜日<b><font size="+1">は</font> </b>そちらは何時まで開いていますか？
+  </details>
++ ちょっと、静かにして。今、２階から変な音｛a.は　b.が｝聞こえた。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  ちょっと、静かにして。今、２階から変な音<b><font size="+1">が</font> </b>聞こえた。
+  </details>
++ 娘はアレルギーで、猫が近くにいると目｛a.は　b.が｝かゆくなるのです。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  娘はアレルギーで、猫が近くにいると目<b><font size="+1">が</font> </b>かゆくなるのです。
+  </details>
