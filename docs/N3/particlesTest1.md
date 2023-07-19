@@ -213,3 +213,53 @@
   <summary>Click me for proposed solution</summary>
   娘はアレルギーで、猫が近くにいると目<b><font size="+1">が</font> </b>かゆくなるのです。
   </details>
++ あ、ポストにふざいひょう｛a.は　b.が｝入っている。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あ、ポストにふざいひょう<b><font size="+1">が</font> </b>入っている。
+  </details>
++ ケンさん｛a.は　b.が｝話していた素敵な入って、どの人ですか？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  ケンさん<b><font size="+1">が</font> </b>話していた素敵な入って、どの人ですか？
+  </details>
++ 明日のパーティーには、どんな人｛a.は　b.が｝来るんですか？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  明日のパーティーには、どんな人<b><font size="+1">が</font> </b>来るんですか？
+  </details>
++ 明日の関東地方｛a.は　b.が｝朝方から夕方にかけて雪が降るでしょう。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  明日の関東地方<b><font size="+1">は</font> </b>朝方から夕方にかけて雪が降るでしょう。
+  </details>
++ 先生｛a.は　b.が｝注意している時、ケンさんはずっと下をむいていました。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  先生<b><font size="+1">が</font> </b>注意している時、ケンさんはずっと下をむいていました。
+  </details>
++ 赤ちゃん｛a.は　b.が｝寝ているうちにご飯を作ってしまおう。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  赤ちゃん<b><font size="+1">が</font> </b>寝ているうちにご飯を作ってしまおう。
+  </details>
++ あのローペウェーに乗って上まで行くと、そこから富士山と駿河湾｛a.は　b.が｝見えますよ。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あのローペウェーに乗って上まで行くと、そこから富士山と駿河湾<b><font size="+1">が</font> </b>見えますよ。
+  </details>
++ 私はパソコンが苦手で、使い方｛a.は　b.が｝分からない時は、いつも先輩に教えてもらっています。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  私はパソコンが苦手で、使い方<b><font size="+1">が</font> </b>分からない時は、いつも先輩に教えてもらっています。
+  </details>
++ そのことについて｛a.は　b.が｝話したくない。聞かないで。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  そのことについて<b><font size="+1">は</font> </b>話したくない。聞かないで。
+  </details>
++ 次のサッカーの試合に誰｛a.は　b.が｝出るか、まだ決まっていない。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  次のサッカーの試合に誰<b><font size="+1">が</font> </b>出るか、まだ決まっていない。
+  </details>
