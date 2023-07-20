@@ -263,3 +263,22 @@
   <summary>Click me for proposed solution</summary>
   次のサッカーの試合に誰<b><font size="+1">が</font> </b>出るか、まだ決まっていない。
   </details>
+
+## 3．次の文を読んで、後ろに続くものをabcから選び、○をつけなさい。
+
++ 私が中学に入る前に、＿＿＿＿＿＿＿＿。<br>
+  A.病気になってしまった<br>
+  B.父がなくなった<br>
+  C.よく勉強したものだ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
++ 肉は好きですが、＿＿＿＿＿＿＿＿。<br>
+  A.レバーも好きです<br>
+  B.レバーは嫌いです<br>
+  C.レバーがいいです 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
