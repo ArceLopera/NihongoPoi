@@ -282,3 +282,51 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">B</font> </b>
   </details>
++ A「もしこのプロジェクトが失敗したら、誰が責任を取るんだ？」<br>B「はい、＿＿＿＿＿＿＿＿。」<br>
+  A.わたしは責任を取ります<br>
+  B.わたしも責任を取ります<br>
+  C.わたしが責任を取ります 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
+  </details>
++ あ、こんなところに＿＿＿＿＿＿＿＿。」<br>
+  A.１万円は落ちている<br>
+  B.１万円が落ちている<br>
+  C.１万円しか落ちている 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
++ A「見てこれ、面白い動画だだよ。」<br>B「何が？」<br>A「＿＿＿＿＿＿＿＿。」<br>
+  A.犬がヨガをしているんだ<br>
+  B.犬はヨガをしているんだ<br>
+  C.犬しかヨガをしているんだ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
+  </details>
++ A「ムーンウォーズ、見た？」<br>B「うん、見たよ。＿＿＿＿＿＿＿＿。」<br>
+  A.あの映画はシリーズで見ているよ<br>
+  B.あの映画がシリーズで見ているよ<br>
+  C.あの映画からシリーズで見ているよ
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
+  </details>
++ 歌手になる前は、＿＿＿＿＿＿＿＿。」<br>
+  A.私は銀行で働いていた<br>
+  B.私が銀行で働いていた<br>
+  C.私でも銀行で働いていた
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
+  </details>
++ A「お飲み物はコーヒー化紅茶、どちらがいいですか？」<br>B「そうですね、＿＿＿＿＿＿＿＿。紅茶をお願いします。」<br>
+  A.紅茶はいいです<br>
+  B.紅茶がいいです<br>
+  C.紅茶もいいです
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
