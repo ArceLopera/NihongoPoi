@@ -330,3 +330,35 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">B</font> </b>
   </details>
++ A「私は小説を読むのが好きです。」<br>B「どんなジャンルが好き？」<br>C「＿＿＿＿＿＿＿＿。」<br>
+  A.歴史小説はすきです<br>
+  B.歴史小説がすきです<br>
+  C.歴史小説でもすきです
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
++ A「あれ、おかしいな。ここにおいてあったんだけどな。どこに行っちゃたんだろう。」<br>B「何が？」<br>C「うん、＿＿＿＿＿＿＿＿。」<br>
+  A.携帯はないんだよ<br>
+  B.携帯がないんだよ<br>
+  C.携帯だけないんだよ
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
++ A「田中さんはいつも忙しそうだね。」<br>B「ええ、＿＿＿＿＿＿＿＿、働いているからね。」<br>
+  A.あの人は昼はコンビニで、夜は居酒屋で<br>
+  B.あの人が昼はコンビニで、夜は居酒屋で<br>
+  C.あの人こそ昼はコンビニで、夜は居酒屋で
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
+  </details>
++ A「バイオリンがひけますか？」<br>B「いいえ、＿＿＿＿＿＿＿＿。」<br>
+  A.バイオリンはちょっと。。。<br>
+  B.バイオリンがちょっと。。。<br>
+  C.バイオリンをちょっと。。。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
+  </details>
