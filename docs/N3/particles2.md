@@ -54,8 +54,8 @@ The summer holiday period  VS During the summer holiday (something happens)
 
 |例文|訳|
 | --- | --- |
-|桜は、花が咲いている間はきれいですが、花が終わると毛虫がついて、大変です。|Cherry blossoms are pretty while they are blooming, but when the flowers are done, they get caterpillars, it is tough.|
-|学生の間ずっと海外にいましたので、日本のことはよくわかりません。|I was overseas while I was a student, so I don't know much about Japan.|
+|桜は、花が咲いている**間**はきれいですが、花が終わると毛虫がついて、大変です。|Cherry blossoms are pretty while they are blooming, but when the flowers are done, they get caterpillars, it is tough.|
+|学生の**間**ずっと海外にいましたので、日本のことはよくわかりません。|I was overseas while I was a student, so I don't know much about Japan.|
 
 ### ＜〜間に＞
 
@@ -67,5 +67,36 @@ The summer holiday period  VS During the summer holiday (something happens)
 
 |例文|訳|
 | --- | --- |
-|夏休みの間に、運転免許を取ることにした。|I decided to get a driving license during the summer holiday.|
-|出かけている間に、泥棒が入って、お金や宝石を取られてしまった。|While I was out a thief came in, my money and valuables were stolen.|
+|夏休みの**間に**、運転免許を取ることにした。|I decided to get a driving license during the summer holiday.|
+|出かけている**間に**、泥棒が入って、お金や宝石を取られてしまった。|While I was out a thief came in, my money and valuables were stolen.|
+
+## 川で泳ぐ　VS　川を泳ぐ
+Swim in the river VS Swim by the river
+
+〜で　VS　〜を
+
+### ＜〜で＞
+
++ 活動する場所を表す。
+  
+  Shows the place where the action is happening.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|山の子どもたちは、川**で**泳いだり魚を捕ったりします。|The mountain children did things like swimming in the rivers and catching fish.|
+|居酒屋**で**忘年会をしました。|We had a year end party in an izakaya|
+
+### ＜〜を＞
+
++ 「通過する場所・時間」「通り道」「経過」を表す。
+  
+  Shows "passing through place/time"　"path through"　"via".
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|難民は冬でも冷たい川**を**泳いで、外国に逃げればならない。|The refugees must escape by swimming out via the cold riverseven in winter.|
+|夏休み**を**海外で過ごす人が増えています。|There are an increasing number of people who spend summer holidays abroad.|
