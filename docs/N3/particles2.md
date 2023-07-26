@@ -100,3 +100,34 @@ Swim in the river VS Swim by the river
 | --- | --- |
 |難民は冬でも冷たい川**を**泳いで、外国に逃げればならない。|The refugees must escape by swimming out via the cold riverseven in winter.|
 |夏休み**を**海外で過ごす人が増えています。|There are an increasing number of people who spend summer holidays abroad.|
+
+## 9時まで寝る　VS　9時までに寝る
+Sleep until 9 o'clock VS Sleep by 9 o'clock
+
+〜まで　VS　〜までに
+
+### ＜〜まで＞
+
++ 行為などが、止まらずに続いている。
+  
+  Some action etc. continues without stopping.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|彼は、朝から晩**まで**12時間も働いてうつ病になってしまった。|He worked 12 hours from mornings until evenings so ended up getting depression.|
+|ペットの猫が、帰って来る**まで**心配でたまりません。|My worrying does not stop until my pet cat comes back home.|
+
+### ＜〜までに＞
+
++ どんなに遅くても、「A」の時の前に「B」する。締め切る。
+  
+  Even if late do "B" by "A".　A deadline.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|論文は15日金曜日**までに**提出すること。遅れた場合は受け取りません。|The thesis must be submitted by Friday the 15th. If it is late, it won't be accepted.|
+|コンサートの開演は7時ですから、7時**までに**席に座って携帯の電源を切ってください。|The concert begins at 7 o'clock, please be sitting in your seats by 7 o'clock.|
