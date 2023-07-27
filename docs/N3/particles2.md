@@ -131,3 +131,34 @@ Sleep until 9 o'clock VS Sleep by 9 o'clock
 | --- | --- |
 |論文は15日金曜日**までに**提出すること。遅れた場合は受け取りません。|The thesis must be submitted by Friday the 15th. If it is late, it won't be accepted.|
 |コンサートの開演は7時ですから、7時**までに**席に座って携帯の電源を切ってください。|The concert begins at 7 o'clock, please be sitting in your seats by 7 o'clock.|
+
+## チャンスは今しか無い　VS　チャンスは今だけだ
+No chance but Now VS This is the only chance
+
+〜しかない　VS　〜だけ
+
+### ＜〜しかない＞
+
++ 無いことを強調する。期待していたものはなく、他のものなどがあるというニュアンスがある。
+  
+  Stresses that something does not exist. There is a nuance that the thing that was expected was not there but something else was.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|ビールがあるTぽ持って冷蔵庫を開けたが、中には、ジュース**しかなかった**。|I thought there was some beer so I opened the refrigerator but inside was nothing but juice.|
+|貯金を全部使ってしまったので、働く**しかありません**。|I have spent all my savings, so there is nothing to do but work.|
+
+### ＜〜だけ＞
+
++ 限定（それ以外はない）を表す表現。
+  
+  Shows a limit, that there is nothing else.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|この会に入会できるのは、女性**だけ**です。|Entry into this club is for women only.|
+|内戦が終了したこの国に残されているのは、破壊された町**だけ**です。|After the civil war finished what was left in this country was only destroyed towns.|
