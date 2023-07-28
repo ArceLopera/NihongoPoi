@@ -162,3 +162,65 @@ No chance but Now VS This is the only chance
 | --- | --- |
 |この会に入会できるのは、女性**だけ**です。|Entry into this club is for women only.|
 |内戦が終了したこの国に残されているのは、破壊された町**だけ**です。|After the civil war finished what was left in this country was only destroyed towns.|
+|A　「細かいお金ある？」<br>○　「ごめん。千円札**しか**ない。」<br>☓　「ごめん。千円札**だけ**ある。」|A "Do you have any small change? Please lend me $100." <br> B "Sorry. I've got nothing but a 1000 bill."|
+|○　ご飯を少し**しか**食べなかったので、お腹が空いている。<br>☓　ご飯を少し**だけ**食べたので、お腹が空いている。|I ate just a little, so I am hungry.|
+
+#### 注意
+
+「だけしか」と使う場合は「だけしか+否定」で、マイナス評価を表す。
+
+”Dakeshita” is used in the form ”dakeshita +　Negative"　It shows a negative evaluation.
+
+|例文|訳|
+| --- | --- |
+|相撲の土俵には、男性**だけしか**上がれない規則があります。|The Sumo ring is only for men, there is a rule that no one other then men can go ontothe sumo ring.|
+|このゴルフクラブは、男性**だけしか**会員になれないので、性差別だとして国際ゴルフ連盟から注意を受けました。|Only men can become members of this golf club, it received a warning that it was sex discrimination from the International Golf Federation.|
+
+## 部長と相談する　VS　部長に相談する　
+Discuss with the group head VS Consult with the group head
+
+〜と　VS　〜に
+
+### ＜〜と＞
+
++ 一緒に同じ行為をする。。
+  
+  An action done together.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|子供**と**一緒にゲームをして遊んだ。|We played a game with the child.|
+|世界の国々**と**協力して、世界平和を実現しなければなりません。|We must make world peace by cooperation between the countries of the world.|
+
+### ＜〜に＞
+
++ 一方が行為をする。
+  
+  One way action.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|○　神様**に**相談する。<br>☓　神様**と**相談する。|I will consult with God.|
+|○　飛行機は、山**に**ぶつかった。<br>☓　飛行機は、山**と**ぶつかった。|The airplane hit a mountain.|
+
+#### 注意
+
+「一緒に」を使わない動詞
+
+Verbs that cannot be used with "isshoni"
+
+2人の人がいなければできない行為の場合「（〜と）一緒に」は使わない。
+
+"(~to)isshoni" is not used with actions which cannot be done without two people.
+
+|例文|訳|
+| --- | --- |
+|会う|To meet|
+|結婚する|To marry|
+|けんかする|To quarrel|
+|仲直りする|To make up|
+|衝突する|To run into|
