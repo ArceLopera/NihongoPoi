@@ -183,7 +183,7 @@ Discuss with the group head VS Consult with the group head
 
 ### ＜〜と＞
 
-+ 一緒に同じ行為をする。。
++ 一緒に同じ行為をする。
   
   An action done together.
 
@@ -224,3 +224,44 @@ Verbs that cannot be used with "isshoni"
 |けんかする|To quarrel|
 |仲直りする|To make up|
 |衝突する|To run into|
+
+## 会社を出る　VS　会社に出る　
+Leave the company VS Appear at the company
+
+〜を出る　VS　〜に出る
+
+### ＜〜を出る＞
+
++ 出発点を表す。
+  
+  Shows the starting point.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|5時に会社**を出る**と、6時頃家に着きます。|If I leave the company at 5pm, I get home around 6pm.|
+|彼女は12歳の時、国**を出て**アメリカに渡り25年間アメリカで暮らした。|When she was 12 years old, she left the country for America and lived 25 years in America.|
+
+#### 注意
+
+|例文|訳|
+| --- | --- |
+|☓　窓**を出る**。<br>○　玄関**を出る**。|To leave the main entrance.|
+
++ 「〜を」は主体が前にいた場所を離れる時に使う。主体が入れないところは、「〜を」は使えない。「窓**から出る**」は使うことができる。
+
+"~o" is used when the subject separetes themselves from a previous place. Therefore "~o" cannot be used for a place that cannot be entered into by the subject. "Mado kara deru" is correct.
+
+### ＜〜に出る＞
+
++ ゴール・到達点を表す。
+  
+  Shows the Goal/destination.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|今日は病院に行き、午後から会社**に出る**と部長に伝えてください。|Today I will go to the hospital, please tell the group head that I will be at the company from the afternoon.|
+|この細い道を10分ほど歩くと、広い交差点**に出ます**。|When you walk along this narrow street for 10 minutes, you will come out to a wide crossing.|
