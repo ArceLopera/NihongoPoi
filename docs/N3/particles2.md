@@ -265,3 +265,46 @@ Leave the company VS Appear at the company
 | --- | --- |
 |今日は病院に行き、午後から会社**に出る**と部長に伝えてください。|Today I will go to the hospital, please tell the group head that I will be at the company from the afternoon.|
 |この細い道を10分ほど歩くと、広い交差点**に出ます**。|When you walk along this narrow street for 10 minutes, you will come out to a wide crossing.|
+
+## 注射でもしましょうか　VS　注射でもなおせません　
+How about an injection or something? VS Even an injection is not able to cure it
+
+〜でも　VS　〜でも
+
+### ＜〜でも＞
+
++ 「〜」だけでなく、同じグループのものを暗示する。
+  
+  Shows not just "~" but things in the same group.
+
++ 提案・誘い・命令・依頼・忠告を表す。
+  
+  Shows a suggestion/invitation/order/request/advice.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|お茶**でも**飲みましょう。<br>　＜お茶だけでなく、紅茶、コーヒーなどの飲み物を暗示＞|How about green tea or something?<br> (Shows not just green tea, but drinks like black tea, coffee etc...)|
+|寂しかったら、犬**でも**買ったらどうですか？<br>　＜犬だけでなく、その他のペット＞|If you feel lonely, how about you keep a dog or something?<br>(not just a dog, any pets)|
+
+### ＜〜でも＞＝〜だって
+
++ 他のこともあると暗示する。
+  
+  Implies there is something else.
+
++ 確信したり、主張したりする場合に、使われることが多い。
+  
+  Often used when something is beleived or insisted.
+
++ 「意外だ」と感じる場合に、使われることが多い。
+  
+  Often used when something is felt to be unexpected.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|雨**でも**マラソンをします。<br>＜晴れた日、曇りの日にはもちろんする＞|Even if thre is rain we will do the marathon. <br>(Of course will do it on a fine day or cloude day)|
+|富士山の頂上は夏**でも**寒い。<br>＜冬や秋はもちろん寒い＞|Even in summer the summit of Mount Fuji is cold.<br>（Of course it is cold in winter and autumn）|
