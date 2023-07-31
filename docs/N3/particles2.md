@@ -308,3 +308,48 @@ How about an injection or something? VS Even an injection is not able to cure it
 | --- | --- |
 |雨**でも**マラソンをします。<br>＜晴れた日、曇りの日にはもちろんする＞|Even if thre is rain we will do the marathon. <br>(Of course will do it on a fine day or cloude day)|
 |富士山の頂上は夏**でも**寒い。<br>＜冬や秋はもちろん寒い＞|Even in summer the summit of Mount Fuji is cold.<br>（Of course it is cold in winter and autumn）|
+
+## 何でも話します　VS　何も話しません　
+Talk about everything VS Not talk about anything
+
+疑問語＋でも＋肯定文　VS　疑問語+も+否定文
+
+|疑問語|訳|
+| --- | --- |
+|だれ|Who|
+|どれ|Which|
+|なん|What|
+|どこ・どちら|Where|
+|いつ|When|
+|どの+名詞|Which+Noun|
+|少しなど|A little|
+
+### ＜疑問語＋でも＋肯定文＞＝全部肯定
+
+Question word ＋でも＋Affirmative　=　completely affirmative
+
++ いい・わかる・できるなどに続くことが多い。
+  
+  Often continues on from good/understand/able.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|どこ**でも**お好きなところにお座りください。|Please sit wherever you like.|
+|A「いつお目にかかれますか？」<br>B「いつ**でも**結構ですよ。」|When shall I meet you?<br>Whenever is fine.|
+
+### ＜疑問語＋も＋否定文＞＝全部否定
+
+Question word ＋でも＋Negative　=　completely negative
+
++ よくない・わからない・できないなどに続くことが多い。
+  
+  Often continues on from Not good/Not understand/Not able.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|わかりません。ノーコメントです。何**も**話すことはありません。|I don't know. No comment. I have nothing to say.|
+|この地方は冬でも、少し**も**寒くないそうです。|Even in winter this area it seems that it doesn't get at all cold.|
