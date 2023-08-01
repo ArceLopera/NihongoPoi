@@ -353,3 +353,50 @@ Question word ＋でも＋Negative　=　completely negative
 | --- | --- |
 |わかりません。ノーコメントです。何**も**話すことはありません。|I don't know. No comment. I have nothing to say.|
 |この地方は冬でも、少し**も**寒くないそうです。|Even in winter this area it seems that it doesn't get at all cold.|
+
+## ヨットさえある　VS　ヨットまである　　
+Even a yacht VS As far as, as much as a yacht
+
+〜さえ　VS　〜まで
+
+### ＜〜さえ＞
+
++ 極端な例を挙げる。一般的な状況を暗示する。
+  
+  Gives an extreme example. Implies a normal situation.
+
++ 肯定文にも、否定文にも付く。
+  
+  Can be appended to an affirmative or a negative phrase.
+
++ 「意外だ」と感じる場合に、使われる。
+  
+  Used when something is felt to be unexpected.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|彼はお金持ちで、ヨット**さえ**持っている。<br>＜もちろん車はある＞|He is rich, he even owns a yacht. <br>(Of course he has a car too)|
+|彼は貧乏で、電気代**さえ**払えない。<br>＜もちろん授業料は払えない＞|He is poor, he cannot even pay his electricity bill. <br>(Of course he cannot pay his tuition fee)|
+
+### ＜〜まで＞
+
++ 極端な例を挙げる。極端な例になるまでの経過を暗示する。
+  
+  Gives an extreme example. Implies Progress even an extreme example.
+
++ 肯定文に付くことが多い。
+  
+  Often appended to an affirmative phrase.
+
++ 「意外だ」と感じる場合に、使われる。
+  
+  Used when something is felt to be unexpected.
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|日本では、犬**まで**日本語がわかるんだ。<br>＜大人がわかる⇒子供がわかる⇒〜〜〜⇒犬もわかる＞|In Japan, even the dogs understand Japanese. <br>(Adults understand, children understand, and even dogs understand)|
+|あの二人、結婚して家**まで**建てたのに、結局離婚したそうです。<br>＜デートする⇒結婚する⇒アパートを借りる⇒家具を買う⇒〜〜〜⇒うちを建てる＞|Those two people got married and even built a house, but it seems that in the end they divorced. <br>(Dating, marriage, rent an apartment, buy furniture, and even build a house)|
