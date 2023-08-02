@@ -400,3 +400,64 @@ Even a yacht VS As far as, as much as a yacht
 | --- | --- |
 |日本では、犬**まで**日本語がわかるんだ。<br>＜大人がわかる⇒子供がわかる⇒〜〜〜⇒犬もわかる＞|In Japan, even the dogs understand Japanese. <br>(Adults understand, children understand, and even dogs understand)|
 |あの二人、結婚して家**まで**建てたのに、結局離婚したそうです。<br>＜デートする⇒結婚する⇒アパートを借りる⇒家具を買う⇒〜〜〜⇒うちを建てる＞|Those two people got married and even built a house, but it seems that in the end they divorced. <br>(Dating, marriage, rent an apartment, buy furniture, and even build a house)|
+
+## 百万円もする　VS　百万円はする　　　
+It costs as much as 1 millon VS It costs at least 1 million
+
+数量+も〜　VS　数量+は〜
+
+### ＜数量+も＋肯定＞
+
++ 数量が多いことを表す。
+  
+  Shows the amount is high.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|この花瓶は100万円**も**するんですって。|They say that this flower vase costs as much as 1 million.|
+|SNSで、友達が500人**も**できた。|I got as many as 500 friends through SNS.|
+
+### ＜小さい数量+も+否定＞
+
++ とても少ないということを表す。
+  
+  Shows something is very small.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|友達が一人**も**いなくて、さびしい。<br>＜友達はゼロ＞|I am lonely, I don't have a single friend.<br>(Zero friends)|
+|締切まで、後3日**も**ないので、あせってしまう。<br>＜3日より少ない＞|I'm panicking, there is not even 3 days left until the deadline.<br>(Fewer than 3 days left)|
+
+### ＜数量+は＋肯定＞
+
++ 数量の最低を表す。
+  
+  Shows the lowest amount.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|この車は1000万円**は**しますよ。<br>＜1000万円以上する＞|This car costs at least 10 million. <br>(Costs more than 10 million)|
+|この仕事をするのに、5時間**は**かかります。<br>＜5時間以上かかる＞|It takes at least 5 hours to do this job. <br>(It takes more than 5 hours)|
+
+### ＜数量+は+否定＞
+
++ 数量の最高を表す。
+  
+  Shows the highest amount.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|この車は1000万円**は**しませんよ。<br>＜1000万円より安い＞|This car does not costs more than 10 million. <br>(Costs less than 10 million)|
+|この仕事をするのに、5時間**は**かかりません。<br>＜5時間かからない＞|It does not take more than 5 hours to do this job. |
