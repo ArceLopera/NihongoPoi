@@ -461,3 +461,72 @@ It costs as much as 1 millon VS It costs at least 1 million
 | --- | --- |
 |この車は1000万円**は**しませんよ。<br>＜1000万円より安い＞|This car does not costs more than 10 million. <br>(Costs less than 10 million)|
 |この仕事をするのに、5時間**は**かかりません。<br>＜5時間かからない＞|It does not take more than 5 hours to do this job. |
+
+## 書いて、消す　VS　書いては消しする　　　
+Write then erase VS Writing and erasing
+
+〜て、　VS　〜ては、〜ては
+
+### ＜〜て、＞
+
++ 動作の順番を表す。
+  
+  Shows the order of the actions.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|朝起き**て**、新聞を読ん**で**、朝ご飯を食べます。|I get up, read the newspaper, and eat breakfast.|
+|アメリカの大統領が来日し**て**、首相と会談した。|The American president came to japan and met wit the Prime Minister.|
+
+### ＜〜ては。。。、〜では。。。＞
+
++ 繰り返し表現。
+  
+  Expression of repetition.
+
++ 「〜」と「。。。」には、反対語が来ることが多い。
+  
+  Often an opposite words follow the "~" and "...".
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|作文が書けなくて、もう3時間も書い**ては**消し、書い**ては**消ししているんです。|I couldn't write the essay, for more than 3 hours I was writing and erasing, writing and erasing.|
+|僕、部活で毎日、飛んでくるボールを拾っ**ては**投げ、拾っ**ては**投げしていたら、腕が強くなった。|My am got stronger by everyday during club activities picking up and throwing, picking up and throwing the flying ball.|
+|彼は引退してから、食べ**ては**寝、たべ**ては**寝の毎日をおくっています。|Since he retired he spends his days eating and sleeping, eating and sleeping.|
+
+## 会います　VS　会いはします　　　
+To meet VS To meet (but)
+
+動詞　VS　動詞<s>ます</s>形+は+する・した
+
+### ＜動詞＞
+
++ 事実を言う。
+  
+  Shows reality.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|毎日、学校で友達に会います。|I meet my friend at school every day.|
+
+### ＜動詞<s>ます</s>形+は+する・した＞
+
++ 何か他の事情があることを暗示する。
+  
+  Shows that there is some sort of other information.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|警官「昨日彼女」に会っただろう？そして殺しただろう？<br>男「確かに、会い**は**しましたよ。」＜でも、殺していません＞|Policeman "You met her yesterday, didn't you? Then you killed her, didn't you?"<br>Man "It is correct that I met her."(but I did not kill her.)|
+|「食べてもいいよ」と言い**は**したけど、「全部食べてもいい」とは言わなかったよ。|I said "It's OK to eat" but I did not say "It's OK to eat everything".|
