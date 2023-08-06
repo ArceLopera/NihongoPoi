@@ -530,3 +530,46 @@ To meet VS To meet (but)
 | --- | --- |
 |警官「昨日彼女」に会っただろう？そして殺しただろう？<br>男「確かに、会い**は**しましたよ。」＜でも、殺していません＞|Policeman "You met her yesterday, didn't you? Then you killed her, didn't you?"<br>Man "It is correct that I met her."(but I did not kill her.)|
 |「食べてもいいよ」と言い**は**したけど、「全部食べてもいい」とは言わなかったよ。|I said "It's OK to eat" but I did not say "It's OK to eat everything".|
+
+## 会います　VS　会いはします　　　
+Not small VS Not small (but)
+
+い形容詞ない形　VS　い形容詞<s>ない</s>形+は+ない
+
+### ＜い形容詞ない形＞
+
++ 事実を言う。
+  
+  Shows reality.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|この店はそんなに小さくないよ。|This shop is not so small.|
+
+### ＜い形容詞<s>ない</s>形+は+ない＞
+
++ 何か他の事情があることを暗示する。
+
+  Shows that there is some sort of other information.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|A「君のうち、大きくていいね。」<br>B「うん、小さく**は**ないよね。」＜でも、古くて寒いんだよ＞|A"It's great isn't it. Your house is big."<br>B"Yes, it is not small."(But it is old and cold.)|
+|A「新しいラメーン屋、どうですか？安いですか？」<br>B「安く**は**ないよ。」＜でも、味はいいよ＞|A"How is the new Ramen shop? Is it cheap?"<br>B"It's not cheap."(However, it tastes good.)|
+
+#### 注意
+
+＜全部を表す表現+は+否定＝部分否定＞
+
+Expression showing everything ＋WA +　negative　= Partial negative
+
+|例文|訳|
+| --- | --- |
+|全員男性ではない。|All of the people are not men.|
+|全員**は**男性ではない。|Not all of the people are men.|
