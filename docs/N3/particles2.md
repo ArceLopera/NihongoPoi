@@ -573,3 +573,35 @@ Expression showing everything ＋WA +　negative　= Partial negative
 | --- | --- |
 |全員男性ではない。|All of the people are not men.|
 |全員**は**男性ではない。|Not all of the people are men.|
+
+## 咲きます　VS　咲くには咲きます　　　
+Bloom VS Indeed bloom (but)
+
+動詞　VS　動詞辞書形+には+動詞
+
+### ＜動詞＞
+
++ 事実を言う。
+  
+  Shows reality.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|菊の花が今年もきれいに咲きました。|The chrysanthenum flowers bloomed prettily this year again.|
+
+### ＜動詞辞書形+には+動詞＞
+
++ 何か他の事情があることを暗示する。
+
+  Shows that there is some sort of other information.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|A「桜、もう咲きましたか？花見はしましたか？」<br>B「桜は咲くには咲きました。」<br>A「どうかしたんですか？」<br>B「今年は、雨が多かったので、色がきれいじゃないんですよ。」|A"Have the cherry blossoms bloom already？ Did yo go to hanami yet?"<br>B"The cherry blossoms did bloom (but)"<br>A"What happened?"<br>B"This year there was a lot of rain and the color was not beautiful."|
+|A「スキーはどうだった？行ったんでしょう？」<br>B「行くには行った。」＜けど、雪がなかった＞|A"How was skiing?　You went, didn't you?"<br>B"I did indeed go"　（But there was no snow）|
