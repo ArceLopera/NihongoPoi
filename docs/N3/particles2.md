@@ -605,3 +605,36 @@ Bloom VS Indeed bloom (but)
 | --- | --- |
 |A「桜、もう咲きましたか？花見はしましたか？」<br>B「桜は咲くには咲きました。」<br>A「どうかしたんですか？」<br>B「今年は、雨が多かったので、色がきれいじゃないんですよ。」|A"Have the cherry blossoms bloom already？ Did yo go to hanami yet?"<br>B"The cherry blossoms did bloom (but)"<br>A"What happened?"<br>B"This year there was a lot of rain and the color was not beautiful."|
 |A「スキーはどうだった？行ったんでしょう？」<br>B「行くには行った。」＜けど、雪がなかった＞|A"How was skiing?　You went, didn't you?"<br>B"I did indeed go"　（But there was no snow）|
+
+## 2回終わる　VS　2回で終わる　　　
+Finish twice VS Finish after two times
+
+数＋かい＋終わる　VS　数＋かい＋で+終わる
+
+### ＜数＋かい＋終わる＞
+
++ 何かが＃回終わる。
+  
+  Something finishes # times.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|このドラマ、5回で終わるらしいよ。3回終わったから、あと2回ね。|I heard this drama finishes after the fifth episode. The third episode is finished, so there is two more.|
+|九州の観光地長崎は「3回終わった」と言われている。初めは江戸時代のキリスト教迫害、次は明治時代のキリスト教迫害、3回目は原爆の投下だ。|It is said that the tourist spot of Nagasaki in Kyushu finished 3 times. The first was the persecution of Christianity in the Edo period, the next was the persecution in the Meiji period, the thrid was the dropping of the atom bomb.|
+
+### ＜数＋かい＋で＋終わる＞
+
++ 限度を表す。
+  
+  Shows a limit.
+
+
+#### 例分
+
+|例文|訳|
+| --- | --- |
+|野球の試合は普通9回で終わります。|A baseball game is over after 9 innings．|
+|地球はあと何億年で終わるのですか？|After how many hundred years does the earth last?|
