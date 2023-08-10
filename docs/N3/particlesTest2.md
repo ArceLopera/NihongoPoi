@@ -100,3 +100,11 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1"> 【○】</font> </b>あなたまでそんなことを言うなんで、がっかりしました。
   </details>
+
+## 2．次の文に入る適当な助詞を｛｝の中のabから選び、○をつけなさい。
+
++ これは、わたし｛a.は　b.が｝カリブ海で見つけた真珠貝です。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  これは、わたし<b><font size="+1">が</font> </b>カリブ海で見つけた真珠貝です。
+  </details>
