@@ -108,3 +108,11 @@
   <summary>Click me for proposed solution</summary>
   これは、わたし<b><font size="+1">が</font> </b>カリブ海で見つけた真珠貝です。
   </details>
+
+<!-- 1 -->
+
++ 毎朝７時にうち｛a.に　b.を｝出て、７時２０分の電車に乗っている。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  毎朝７時にうち<b><font size="+1">を</font> </b>出て、７時２０分の電車に乗っている。
+  </details>
