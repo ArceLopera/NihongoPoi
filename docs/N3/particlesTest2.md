@@ -116,3 +116,11 @@
   <summary>Click me for proposed solution</summary>
   毎朝７時にうち<b><font size="+1">を</font> </b>出て、７時２０分の電車に乗っている。
   </details>
+
+<!-- 2 -->
+
++ 夏になると祖母のうちに行き、近くの山｛a.で　b.に｝木に登ったり、虫捕りをしたりしたものだ。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  夏になると祖母のうちに行き、近くの山<b><font size="+1">で</font> </b>木に登ったり、虫捕りをしたりしたものだ。
+  </details>
