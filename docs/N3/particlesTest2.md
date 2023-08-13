@@ -124,3 +124,11 @@
   <summary>Click me for proposed solution</summary>
   夏になると祖母のうちに行き、近くの山<b><font size="+1">で</font> </b>木に登ったり、虫捕りをしたりしたものだ。
   </details>
+
+<!-- 3 -->
+
++ これだけ誤ってる｛a.でも　b.のに｝まだ許してくれないの？ 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  これだけ誤ってる<b><font size="+1">のに</font> </b>まだ許してくれないの？
+  </details>
