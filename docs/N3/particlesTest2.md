@@ -132,3 +132,11 @@
   <summary>Click me for proposed solution</summary>
   これだけ誤ってる<b><font size="+1">のに</font> </b>まだ許してくれないの？
   </details>
+
+<!-- 4 -->
+
++ ずっと赤道直下の国にいたから、夏の服｛a.だけ　b.しか｝持っていません。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  ずっと赤道直下の国にいたから、夏の服<b><font size="+1">しか</font> </b>持っていません。
+  </details>
