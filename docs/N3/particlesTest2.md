@@ -140,3 +140,11 @@
   <summary>Click me for proposed solution</summary>
   ずっと赤道直下の国にいたから、夏の服<b><font size="+1">しか</font> </b>持っていません。
   </details>
+
+<!-- 5 -->
+
++ 夕方６時から朝４時｛a.まで　b.までに｝飲んでいたのですか。飲み過ぎですよ。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  夕方６時から朝４時<b><font size="+1">まで</font> </b>飲んでいたのですか。飲み過ぎですよ。
+  </details>
