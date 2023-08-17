@@ -148,3 +148,11 @@
   <summary>Click me for proposed solution</summary>
   夕方６時から朝４時<b><font size="+1">まで</font> </b>飲んでいたのですか。飲み過ぎですよ。
   </details>
+
+<!-- 6 -->
+
++ A「卒業論文書き終わった？」<br>B「書く｛a.には　b.にも｝書いたけど、まだ完成してない。」 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  書く<b><font size="+1">には</font> </b>書いたけど、まだ完成してない。
+  </details>
