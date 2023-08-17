@@ -156,3 +156,11 @@
   <summary>Click me for proposed solution</summary>
   書く<b><font size="+1">には</font> </b>書いたけど、まだ完成してない。
   </details>
+
+<!-- 7 -->
+
++ 久しぶりに母にプレセントを買った｛a.けど　b.でも｝、まだ送ってない。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  久しぶりに母にプレセントを買った<b><font size="+1">けど</font> </b>、まだ送ってない。
+  </details>
