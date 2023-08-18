@@ -164,3 +164,11 @@
   <summary>Click me for proposed solution</summary>
   久しぶりに母にプレセントを買った<b><font size="+1">けど</font> </b>、まだ送ってない。
   </details>
+
+<!-- 8 -->
+
++ 小学生｛a.は　b.さえ｝できるような簡単な問題を間違えてしまった。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  小学生<b><font size="+1">さえ</font> </b>できるような簡単な問題を間違えてしまった。
+  </details>
