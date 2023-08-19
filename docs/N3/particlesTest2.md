@@ -172,3 +172,11 @@
   <summary>Click me for proposed solution</summary>
   小学生<b><font size="+1">さえ</font> </b>できるような簡単な問題を間違えてしまった。
   </details>
+
+<!-- 9 -->
+
++ A「この近くにコンビニありますか？」<br>B「あの橋｛a.を　b.で｝渡って、少し行くと左にありますよ。」 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  あの橋<b><font size="+1">を</font> </b>渡って、少し行くと左にありますよ。
+  </details>
