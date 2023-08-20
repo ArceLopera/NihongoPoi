@@ -180,3 +180,11 @@
   <summary>Click me for proposed solution</summary>
   あの橋<b><font size="+1">を</font> </b>渡って、少し行くと左にありますよ。
   </details>
+
+<!-- 10 -->
+
++ 母親が車を離れた１０分の間｛a.のに　b.に｝子供がいなくなって、いまだに見つかっていないそうだ。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  母親が車を離れた１０分の間<b><font size="+1">に</font> </b>子供がいなくなって、いまだに見つかっていないそうだ。
+  </details>
