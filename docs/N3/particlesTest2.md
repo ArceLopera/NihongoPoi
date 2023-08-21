@@ -188,3 +188,11 @@
   <summary>Click me for proposed solution</summary>
   母親が車を離れた１０分の間<b><font size="+1">に</font> </b>子供がいなくなって、いまだに見つかっていないそうだ。
   </details>
+
+<!-- 11 -->
+
++ 妹｛a.と　b.に｝けんかしたけど、仲直りしたから、明日一緒に買い物に行く。 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  妹<b><font size="+1">と</font> </b>けんかしたけど、仲直りしたから、明日一緒に買い物に行く。
+  </details>
