@@ -196,3 +196,11 @@
   <summary>Click me for proposed solution</summary>
   妹<b><font size="+1">と</font> </b>けんかしたけど、仲直りしたから、明日一緒に買い物に行く。
   </details>
+
+<!-- 12 -->
+
++ A「こんなに風が冷たい日に、半袖で寒くないのですか？」<br>B「大丈夫ですよ。僕は冬｛a.でも　b.しか｝半袖なんですから。」  
+  <details>
+  <summary>Click me for proposed solution</summary>
+  僕は冬<b><font size="+1">でも</font> </b>半袖なんですから。
+  </details>
