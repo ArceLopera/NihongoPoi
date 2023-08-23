@@ -204,3 +204,11 @@
   <summary>Click me for proposed solution</summary>
   僕は冬<b><font size="+1">でも</font> </b>半袖なんですから。
   </details>
+
+<!-- 13 -->
+
++ A「びっくり。あの女優、大学生の子供がいるんだって。あんなに若いのにね。」<br>B「子供どころか、孫｛a.でも　b.まで｝いるんですってよ。」  
+  <details>
+  <summary>Click me for proposed solution</summary>
+  子供どころか、孫<b><font size="+1">まで</font> </b>いるんですってよ。。
+  </details>
