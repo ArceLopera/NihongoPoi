@@ -210,5 +210,21 @@
 + A「びっくり。あの女優、大学生の子供がいるんだって。あんなに若いのにね。」<br>B「子供どころか、孫｛a.でも　b.まで｝いるんですってよ。」  
   <details>
   <summary>Click me for proposed solution</summary>
-  子供どころか、孫<b><font size="+1">まで</font> </b>いるんですってよ。。
+  子供どころか、孫<b><font size="+1">まで</font> </b>いるんですってよ。
+  </details>
+
+<!-- 14 -->
+
++ 歌手「舞台｛a.を　b.に｝出る日は、朝５時におきます。」 
+  <details>
+  <summary>Click me for proposed solution</summary>
+  舞台<b><font size="+1">に</font> </b>出る日は、朝５時におきます。
+  </details>
+
+<!-- 15 -->
+
++ A「Tシャツが欲しいんだけど、買ってきてくれる？」<br>B「買い｛a.は　b.も｝ しますが、文句言わないでね。」
+  <details>
+  <summary>Click me for proposed solution</summary>
+  買い<b><font size="+1">は</font> </b> しますが、文句言わないでね。
   </details>
