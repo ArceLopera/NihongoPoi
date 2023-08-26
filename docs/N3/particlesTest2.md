@@ -228,3 +228,11 @@
   <summary>Click me for proposed solution</summary>
   買い<b><font size="+1">は</font> </b> しますが、文句言わないでね。
   </details>
+
+<!-- 16 -->
+
++ A「どれにしようかなあ。迷うなあ。」<br>B「どれ｛a.も　b.でも｝好きなものを選んでいいよ。誕生日だからね。」
+  <details>
+  <summary>Click me for proposed solution</summary>
+  どれ<b><font size="+1">でも</font> </b> 好きなものを選んでいいよ。
+  </details>
