@@ -236,3 +236,11 @@
   <summary>Click me for proposed solution</summary>
   どれ<b><font size="+1">でも</font> </b> 好きなものを選んでいいよ。
   </details>
+
+<!-- 17 -->
+
++ この事件は内部の者の犯行と｛a.でも　b.しか｝考えられない。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  この事件は内部の者の犯行と<b><font size="+1">しか</font> </b>考えられない。
+  </details>
