@@ -244,3 +244,11 @@
   <summary>Click me for proposed solution</summary>
   この事件は内部の者の犯行と<b><font size="+1">しか</font> </b>考えられない。
   </details>
+
+<!-- 18 -->
+
++ 商用車がトラック｛a.と　b.を｝衝突して大破する事故が起きた。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  商用車がトラック<b><font size="+1">と</font> </b>衝突して大破する事故が起きた。
+  </details>
