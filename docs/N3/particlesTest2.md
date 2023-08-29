@@ -252,3 +252,11 @@
   <summary>Click me for proposed solution</summary>
   商用車がトラック<b><font size="+1">と</font> </b>衝突して大破する事故が起きた。
   </details>
+
+<!-- 19 -->
+
++ この冷蔵庫を買いたいのですが、土曜日１２時｛a.まで　b.までに｝届けてもらえませんか？
+  <details>
+  <summary>Click me for proposed solution</summary>
+  この冷蔵庫を買いたいのですが、土曜日１２時<b><font size="+1">までに</font> </b>届けてもらえませんか？
+  </details>
