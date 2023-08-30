@@ -260,3 +260,11 @@
   <summary>Click me for proposed solution</summary>
   この冷蔵庫を買いたいのですが、土曜日１２時<b><font size="+1">までに</font> </b>届けてもらえませんか？
   </details>
+
+<!-- 20 -->
+
++ 漢字を覚えるのは時間がかかる｛a.のに　b.けど｝頑張って勉強してください。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  漢字を覚えるのは時間がかかる<b><font size="+1">けど</font> </b>頑張って勉強してください。
+  </details>
