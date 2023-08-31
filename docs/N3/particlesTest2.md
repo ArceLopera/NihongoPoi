@@ -268,3 +268,11 @@
   <summary>Click me for proposed solution</summary>
   漢字を覚えるのは時間がかかる<b><font size="+1">けど</font> </b>頑張って勉強してください。
   </details>
+
+<!-- 21 -->
+
++ 夏休みの間｛a.が　b.は｝何してたの？
+  <details>
+  <summary>Click me for proposed solution</summary>
+  夏休みの間<b><font size="+1">は</font> </b>何してたの？
+  </details>
