@@ -276,3 +276,11 @@
   <summary>Click me for proposed solution</summary>
   夏休みの間<b><font size="+1">は</font> </b>何してたの？
   </details>
+
+<!-- 22 -->
+
++ 昔の人はこの川｛a.を　b.は｝船で渡ったそうだ。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  昔の人はこの川<b><font size="+1">を</font> </b>船で渡ったそうだ。
+  </details>
