@@ -284,3 +284,11 @@
   <summary>Click me for proposed solution</summary>
   昔の人はこの川<b><font size="+1">を</font> </b>船で渡ったそうだ。
   </details>
+
+<!-- 23 -->
+
++ 夕飯の材料が何｛a.か　b.も｝ないので、スーパーに行かなきゃ。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  夕飯の材料が何<b><font size="+1">も</font> </b>ないので、スーパーに行かなきゃ。
+  </details>
