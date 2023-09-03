@@ -292,3 +292,11 @@
   <summary>Click me for proposed solution</summary>
   夕飯の材料が何<b><font size="+1">も</font> </b>ないので、スーパーに行かなきゃ。
   </details>
+
+<!-- 24 -->
+
++ 独立して一人暮らしといっても、親に電気代｛a.までに　b.まで｝払ってもらっているんです。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  独立して一人暮らしといっても、親に電気代<b><font size="+1">まで</font> </b>払ってもらっているんです。
+  </details>
