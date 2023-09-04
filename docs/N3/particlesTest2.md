@@ -300,3 +300,11 @@
   <summary>Click me for proposed solution</summary>
   独立して一人暮らしといっても、親に電気代<b><font size="+1">まで</font> </b>払ってもらっているんです。
   </details>
+
+<!-- 25 -->
+
++ 今は何｛a.も　b.でも｝ネットで買えるから便利ね。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  今は何<b><font size="+1">でも</font> </b>ネットで買えるから便利ね。
+  </details>
