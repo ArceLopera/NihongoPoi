@@ -316,3 +316,11 @@
   <summary>Click me for proposed solution</summary>
   学校<b><font size="+1">を</font> </b>出たら、美容師になろうと思っている。
   </details>
+
+<!-- 27 -->
+
++ 結婚生活も５年｛a.は　b.で｝終わっちゃった。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  結婚生活も５年<b><font size="+1">で</font> </b>終わっちゃった。
+  </details>
