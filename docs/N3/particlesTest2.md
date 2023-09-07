@@ -308,3 +308,11 @@
   <summary>Click me for proposed solution</summary>
   今は何<b><font size="+1">でも</font> </b>ネットで買えるから便利ね。
   </details>
+
+<!-- 26 -->
+
++ 学校｛a.を　b.に｝出たら、美容師になろうと思っている。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  学校<b><font size="+1">を</font> </b>出たら、美容師になろうと思っている。
+  </details>
