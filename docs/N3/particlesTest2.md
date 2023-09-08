@@ -324,3 +324,11 @@
   <summary>Click me for proposed solution</summary>
   結婚生活も５年<b><font size="+1">で</font> </b>終わっちゃった。
   </details>
+
+<!-- 28 -->
+
++ 読む｛a.には　b.とは｝読んだけど．．．。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  読む<b><font size="+1">には</font> </b>読んだけど．．．。
+  </details>
