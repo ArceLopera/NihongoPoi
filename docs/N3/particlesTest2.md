@@ -332,3 +332,11 @@
   <summary>Click me for proposed solution</summary>
   読む<b><font size="+1">には</font> </b>読んだけど．．．。
   </details>
+
+<!-- 29 -->
+
++ 猛スピードで走って走っていたバイクが、ガードレール｛a.に　b.を｝ぶつかった。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  猛スピードで走って走っていたバイクが、ガードレール<b><font size="+1">に</font> </b>ぶつかった。
+  </details>
