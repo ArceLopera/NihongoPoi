@@ -340,3 +340,11 @@
   <summary>Click me for proposed solution</summary>
   猛スピードで走って走っていたバイクが、ガードレール<b><font size="+1">に</font> </b>ぶつかった。
   </details>
+
+<!--  -->
+
++ 9日｛a.まで　b.までに｝予定知らせるね。
+  <details>
+  <summary>Click me for proposed solution</summary>
+  9日<b><font size="+1">までに</font> </b>予定知らせるね。
+  </details>
