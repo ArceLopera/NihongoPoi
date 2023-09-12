@@ -348,3 +348,17 @@
   <summary>Click me for proposed solution</summary>
   9日<b><font size="+1">までに</font> </b>予定知らせるね。
   </details>
+
+## 3．次の文を読んで、後ろに続くものをabcから選び、○をつけなさい。
+
+
+<!-- 例  -->
+
++ 「この町の建物を全部地震に強いものにするは、２０年はかかりますね。」<br>「＿＿＿＿＿＿＿＿。」<br>
+  A.そうですね、１５年くらいですね<br>
+  B.２０年から２５年くらいでしょうか<br>
+  C.あと１０年ですね
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
