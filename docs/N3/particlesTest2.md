@@ -362,3 +362,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">B</font> </b>
   </details>
+
+<!-- 1  -->
+
++ 「それは難しい問題だね。君一人で解決するのは難しいよ。」<br>「やはり＿＿＿＿＿＿＿＿。」<br>
+  A.部長を相談した方がいいですね<br>
+  B.部長から相談した方がいいですね<br>
+  C.部長に相談した方がいいですね
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
+  </details>
