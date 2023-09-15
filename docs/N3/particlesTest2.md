@@ -363,7 +363,7 @@
   <b><font size="+1">B</font> </b>
   </details>
 
-<!-- 1  -->
+<!-- 1 -->
 
 + 「それは難しい問題だね。君一人で解決するのは難しいよ。」<br>「やはり＿＿＿＿＿＿＿＿。」<br>
   A.部長を相談した方がいいですね<br>
@@ -372,4 +372,15 @@
   <details>
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">C</font> </b>
+  </details>
+
+<!-- 2 -->
+
++ 「花子はもう出かけたの。」<br>「うん。雨が降りそうなのに＿＿＿＿＿＿＿＿。」<br>
+  A.傘を持って出かけたよ<br>
+  B.傘を持たずに出かけたよ<br>
+  C.傘をさして出かけたよ
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
   </details>
