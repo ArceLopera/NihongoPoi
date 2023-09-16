@@ -384,3 +384,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">B</font> </b>
   </details>
+
+<!-- 3 -->
+
++ 「建設中の競技場は、観客を何人ぐらい収容できるんだろう。」<br>「十万人は収容できるって。」<br>「＿＿＿＿＿＿＿＿。」<br>
+  A.８万人以上入れるんだ<br>
+  B.じゃ、１０万人は無理なんだね<br>
+  C.じゃ、８万人は無理なんだね
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
+  </details>
