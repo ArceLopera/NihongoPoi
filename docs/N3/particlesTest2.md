@@ -385,7 +385,7 @@
   <b><font size="+1">B</font> </b>
   </details>
 
-<!-- 3  -->
+<!-- 3 -->
 
 + 「建設中の競技場は、観客を何人ぐらい収容できるんだろう。」<br>「十万人は収容できるって。」<br>「＿＿＿＿＿＿＿＿。」<br>
   A.８万人以上入れるんだ<br>
@@ -394,4 +394,15 @@
   <details>
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">A</font> </b>
+  </details>
+
+<!-- 4 -->
+
++ 「今週の土曜日にテニスしない?」<br>「今週の土曜日は会社にでなきゃいけないんだ。」<br>「＿＿＿＿＿＿＿＿。」<br>
+  A.会社に行かないんだね<br>
+  B.会社を辞めるの<br>
+  C.忙しいんだね
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
   </details>
