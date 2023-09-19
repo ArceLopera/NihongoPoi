@@ -406,3 +406,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">C</font> </b>
   </details>
+
+<!-- 5 -->
+
++ 「納期を延ばしてもらうようにY社に頼んでよ。」<br>「頼みはしますが＿＿＿＿＿＿＿＿。」<br>
+  A.断ってくれませんよ<br>
+  B.断られることはありませんよ<br>
+  C.断られても知りませんよ
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
+  </details>
