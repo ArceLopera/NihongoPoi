@@ -417,3 +417,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">C</font> </b>
   </details>
+
+<!--  -->
+
++ 「昨日のボクシングの試合は＿＿＿＿＿＿＿＿。」<br>「挑戦者も頑張っていたけど、チャンピオンが強すぎたよ。」<br>
+  A.２ラウンド終わったね<br>
+  B.２ラウンドで終わったね<br>
+  C.２ラウンドも終わったね
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
+  </details>
