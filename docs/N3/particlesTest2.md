@@ -418,7 +418,7 @@
   <b><font size="+1">C</font> </b>
   </details>
 
-<!--  -->
+<!-- 6 -->
 
 + 「昨日のボクシングの試合は＿＿＿＿＿＿＿＿。」<br>「挑戦者も頑張っていたけど、チャンピオンが強すぎたよ。」<br>
   A.２ラウンド終わったね<br>
@@ -427,4 +427,15 @@
   <details>
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">B</font> </b>
+  </details>
+
+<!-- 7 -->
+
++ 「例の仕事、＿＿＿＿＿＿＿＿。」<br>「何か問題でもあるの?」<br>
+  A.終わるには終わりました<br>
+  B.やっと終わりました<br>
+  C.とうとう終わりました
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">A</font> </b>
   </details>
