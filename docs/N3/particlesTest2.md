@@ -439,3 +439,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">A</font> </b>
   </details>
+
+<!-- 8 -->
+
++ 「私は、休みの日でも早く起きて犬と散歩するんですよ。」<br>「＿＿＿＿＿＿＿＿。」<br>
+  A.休みの日だから、時間があるわけですね<br>
+  B.休みの日以外は、早く起きるですね<br>
+  C.頑張っているね。毎日早起きしているんですね
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
+  </details>
