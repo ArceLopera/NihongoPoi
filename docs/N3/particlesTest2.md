@@ -450,3 +450,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">C</font> </b>
   </details>
+
+<!-- 9 -->
+
++ 「。」<br>「＿＿＿＿＿＿＿＿。」<br>
+  A.<br>
+  B.<br>
+  C.
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
+  </details>
