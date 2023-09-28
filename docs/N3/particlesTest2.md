@@ -453,11 +453,11 @@
 
 <!-- 9 -->
 
-+ 「。」<br>「＿＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「新しいマンションは広くはないけど、＿＿＿＿＿＿＿。」<br>
+  A.設備が悪くて、困っているんだよ<br>
+  B.設備もいいし快適だよ<br>
+  C.あまり気に入っていないだよ
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">C</font> </b>
+  <b><font size="+1">B</font> </b>
   </details>
