@@ -461,3 +461,14 @@
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">B</font> </b>
   </details>
+
+<!-- 10 -->
+
++ 「昨日は、歩いてはやすみ、歩いては休みしながら歩いたので、＿＿＿＿＿＿＿。」<br>
+  A.いつもより早くうちに着いた<br>
+  B.いつもと同じ時間にうちに着いた<br>
+  C.いつもより遅くうちに着いた
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">C</font> </b>
+  </details>
