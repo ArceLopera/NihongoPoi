@@ -475,10 +475,10 @@
 
 <!-- 11 -->
 
-+ 「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「今年もスキーに行くんだけど、お金が足りなくて、＿＿＿＿＿＿＿。」<br>
+  A.バイトさえできない<br>
+  B.よかった、バイトできる<br>
+  C.バイトするしかない
   <details>
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">C</font> </b>
