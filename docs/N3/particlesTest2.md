@@ -486,11 +486,11 @@
 
 <!-- 12 -->
 
-+ 「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「来月の研修会はまだ１０人しか申し込んでいないそうです。」<br>「そうか。。。＿＿＿＿＿＿＿。」<br>
+  A.じゃあ、中止になるかもしれないね<br>
+  B.たくさんだね。じゃあ、予定通りやるんじゃない<br>
+  C.１０人は多いね。にぎやかになるね
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">C</font> </b>
+  <b><font size="+1">A</font> </b>
   </details>
