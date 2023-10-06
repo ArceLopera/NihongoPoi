@@ -497,11 +497,11 @@
 
 <!-- 13 -->
 
-+ 「」<br>「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 中村さんって、洋服を作るのが得意なのよ。コートまで＿＿＿＿＿＿＿。<br>
+  A.自分で買うそうですよ<br>
+  B.自分で作っているそうですよ<br>
+  C.自分で作らないそうですよ
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">A</font> </b>
+  <b><font size="+1">B</font> </b>
   </details>
