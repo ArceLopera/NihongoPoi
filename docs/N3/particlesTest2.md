@@ -508,11 +508,11 @@
 
 <!-- 14 -->
 
-+ <br>
-  A.<br>
-  B.<br>
-  C.
++ 「大学合格したんだって ? おめでとう。」<br>「入るには入ったんだけど、＿＿＿＿＿＿＿。」<br>
+  A.教師もいいし、学生もいいし、満足している<br>
+  B.難関校だから、入るのとても難しかったよ<br>
+  C.考えていたのとちょっと違うんで、辞めた
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">B</font> </b>
+  <b><font size="+1">C</font> </b>
   </details>
