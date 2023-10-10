@@ -519,11 +519,11 @@
 
 <!-- 15 -->
 
-+ 「」<br>「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「皆さん、こちらはボランティアをお願いすることになりました、浜さんです。」<br>「どうぞよろしくお願いいたします。＿＿＿＿＿＿＿。」<br>
+  A.少ししかお役に立てれば嬉しいです<br>
+  B.少しでもお役に立てれば嬉しいです<br>
+  C.少しもお役に立てれば嬉しいです
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">C</font> </b>
+  <b><font size="+1">B</font> </b>
   </details>
