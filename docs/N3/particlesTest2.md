@@ -530,11 +530,11 @@
 
 <!-- 16 -->
 
-+ 「」<br>「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「３年前に漢字の勉強を始めたんですが、覚えては忘れ、覚えては忘れして＿＿＿＿＿＿＿。」<br>
+  A.少しは覚えられたようだ<br>
+  B.新聞も簡単に読めます<br>
+  C.少しも頭に残らないんだ
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">B</font> </b>
+  <b><font size="+1">C</font> </b>
   </details>
