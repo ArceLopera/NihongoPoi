@@ -541,10 +541,10 @@
 
 <!-- 17 -->
 
-+ 「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「このセーター、色がちょっとね．．．」<br>「白とピンクがありましたが、今はこの色だけで。。。」<br>「そうですか。＿＿＿＿＿＿＿。」<br>
+  A.じゃ、全部見せてください<br>
+  B.じゃ、白いのをください<br>
+  C.じゃ、また来ます
   <details>
   <summary>Click me for proposed solution</summary>
   <b><font size="+1">C</font> </b>
