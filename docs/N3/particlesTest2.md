@@ -552,11 +552,11 @@
 
 <!-- 18 -->
 
-+ 「」<br>「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「連休はどうしてた？」<br>「山田さんに旅行に誘ってもらったのに、＿＿＿＿＿＿＿。」<br>
+  A.行けなくて、残念だった<br>
+  B.一緒に行かなくて、よかった<br>
+  C.山田さんと行けて、楽しかった
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">C</font> </b>
+  <b><font size="+1">A</font> </b>
   </details>
