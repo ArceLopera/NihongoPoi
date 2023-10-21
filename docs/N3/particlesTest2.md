@@ -563,11 +563,22 @@
 
 <!-- 19 -->
 
-+ 「」<br>「＿＿＿＿＿＿＿。」<br>
-  A.<br>
-  B.<br>
-  C.
++ 「横浜までどのくらいかかりますか？」<br>「そうですね、２時間はかかりますね。今９時だから＿＿＿＿＿＿＿。」<br>
+  A.１１時前に着きますね<br>
+  B.１１時に着くかどうかわかりませんね<br>
+  C.必ず１１時に着きますね 
   <details>
   <summary>Click me for proposed solution</summary>
-  <b><font size="+1">A</font> </b>
+  <b><font size="+1">B</font> </b>
+  </details>
+
+<!-- 20 -->
+
++ 「田中君、野球チームに入りませんか？」<br>「僕はキャッチボールさえ＿＿＿＿＿＿＿。無理ですよ。」<br>
+  A.よくわかっているんですよ<br>
+  B.やったことなにんですよ<br>
+  C.できるんですよ
+  <details>
+  <summary>Click me for proposed solution</summary>
+  <b><font size="+1">B</font> </b>
   </details>
